@@ -1,0 +1,77 @@
+1. Experiment with hyperparameters
+
+/tmp/ipython-input-963760017.py:12: TqdmDeprecationWarning: Please use `tqdm.notebook.trange` instead of `tqdm.tnrange`
+  for epoch in tnrange(num_epochs, desc="Total progress", unit="epoch"):
+Total progress:   0%|          | 0/10 [00:00<?, ?epoch/s]
+Epoch 1/10
+----------------
+/tmp/ipython-input-963760017.py:30: TqdmDeprecationWarning: This function will be removed in tqdm==5.0.0
+Please use `tqdm.notebook.tqdm` instead of `tqdm.tqdm_notebook`
+  for inputs, labels in tqdm_notebook(dataloaders[phase], desc=phase, unit="batch", leave=False):
+train:   0%|          | 0/4 [00:00<?, ?batch/s]
+train error: 0.6704, Accuracy: 0.6583
+validation:   0%|          | 0/1 [00:00<?, ?batch/s]
+validation error: 0.7190, Accuracy: 0.6000
+
+Epoch 2/10
+----------------
+train:   0%|          | 0/4 [00:00<?, ?batch/s]
+train error: 0.6780, Accuracy: 0.6333
+validation:   0%|          | 0/1 [00:00<?, ?batch/s]
+validation error: 0.6983, Accuracy: 0.6333
+
+Epoch 3/10
+----------------
+train:   0%|          | 0/4 [00:00<?, ?batch/s]
+train error: 0.6099, Accuracy: 0.6917
+validation:   0%|          | 0/1 [00:00<?, ?batch/s]
+validation error: 0.6722, Accuracy: 0.6333
+
+Epoch 4/10
+----------------
+train:   0%|          | 0/4 [00:00<?, ?batch/s]
+train error: 0.5370, Accuracy: 0.7750
+validation:   0%|          | 0/1 [00:00<?, ?batch/s]
+validation error: 0.5904, Accuracy: 0.7333
+
+Epoch 5/10
+----------------
+train:   0%|          | 0/4 [00:00<?, ?batch/s]
+train error: 0.4766, Accuracy: 0.8333
+validation:   0%|          | 0/1 [00:00<?, ?batch/s]
+validation error: 0.5761, Accuracy: 0.7333
+
+Epoch 6/10
+----------------
+train:   0%|          | 0/4 [00:00<?, ?batch/s]
+train error: 0.4272, Accuracy: 0.8833
+validation:   0%|          | 0/1 [00:00<?, ?batch/s]
+validation error: 0.5454, Accuracy: 0.7667
+
+Epoch 7/10
+----------------
+train:   0%|          | 0/4 [00:00<?, ?batch/s]
+train error: 0.4102, Accuracy: 0.9083
+validation:   0%|          | 0/1 [00:00<?, ?batch/s]
+validation error: 0.5466, Accuracy: 0.7667
+
+Epoch 8/10
+----------------
+train:   0%|          | 0/4 [00:00<?, ?batch/s]
+train error: 0.4110, Accuracy: 0.9000
+validation:   0%|          | 0/1 [00:00<?, ?batch/s]
+validation error: 0.5351, Accuracy: 0.7667
+
+Epoch 9/10
+----------------
+train:   0%|          | 0/4 [00:00<?, ?batch/s]
+train error: 0.3888, Accuracy: 0.9250
+validation:   0%|          | 0/1 [00:00<?, ?batch/s]
+validation error: 0.5116, Accuracy: 0.8000
+
+Epoch 10/10
+----------------
+train:   0%|          | 0/4 [00:00<?, ?batch/s]
+train error: 0.3820, Accuracy: 0.9250
+validation:   0%|          | 0/1 [00:00<?, ?batch/s]
+validation error: 0.4780, Accuracy: 0.8333

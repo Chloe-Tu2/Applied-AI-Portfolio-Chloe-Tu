@@ -1,0 +1,95 @@
+SLIDE 1: TITLE SLIDE
+----------------------------------------------------------------------
+Title: Natural Language Processing Portfolio
+Subtitle: ITAI 2373 | Applied AI & Robotics
+Student Name: Chloe Tu
+Program: Artificial Intelligence A.A.S
+
+[Speaker Notes / Script]:
+Hi, I am Chloe Tu. This is my portfolio for ITAI 2373, showcasing my progression from foundational text processing to advanced Neural Network architectures, GANs, and Ethical AI design. This repository demonstrates my ability to bridge linguistic theory with deployed AI solutions using Python and TensorFlow.
+
+
+SLIDE 2: TECHNICAL ARSENAL & SKILLS
+----------------------------------------------------------------------
+Title: Skills & Technologies
+
+[Left Column: Languages & Environments]
+• Languages: Python 3.x
+• Tools: Jupyter Notebooks, Git/GitHub
+• OS: Linux/Windows Environments
+
+[Middle Column: Key Libraries]
+• Data Manipulation: Pandas, NumPy
+• NLP Core: NLTK, Scikit-learn
+• Deep Learning: TensorFlow, Keras
+
+[Right Column: Core Competencies]
+• Text Preprocessing: Tokenization, Regex Cleaning, Stemming/Lemmatization
+• Modeling: Artificial Neural Networks (ANNs), Seq2Seq, Predictive Modeling
+• Concepts: TF-IDF, Backpropagation, Gradient Descent, GANs, POS Tagging
+
+[Speaker Notes / Script]:
+My technical foundation is built on Python 3.x. I utilized NLTK for linguistic tasks like tokenization and Part-of-Speech tagging, and transitioned to TensorFlow and Keras for building deep learning models. I have mastered the end-to-end pipeline: from cleaning "dirty" raw text using Regex to optimizing Neural Network weights using Gradient Descent.
+
+
+SLIDE 3: FOUNDATIONAL NLP PIPELINES (Modules 1, 2, 4, 5)
+----------------------------------------------------------------------
+Title: Data Wrangling & Representation
+
+• Module 02: Text Processing & Cleaning
+  - Problem: Raw web data is unstructured and noisy (HTML, special chars).
+  - Solution: Built a Python/Regex pipeline to strip noise, normalize text, and tokenize sentences.
+  - Outcome: Mastered "data wrangling" essential for downstream modeling.
+
+• Module 04: Text Representation
+  - Problem: ML algorithms require numerical input, not raw strings.
+  - Solution: Implemented Bag-of-Words (BoW) and TF-IDF vectorization.
+  - Outcome: Successfully quantified word importance and vocabulary density.
+
+• Module 05: Part of Speech (POS) Tagging
+  - Task: Automated grammatical tagging using NLTK.
+  - Result: System identified nouns/subjects and verbs/actions for syntactic analysis.
+
+[Speaker Notes / Script]:
+The early phase of the course focused on the critical "clean and convert" phase. In Module 2, I solved the problem of noisy data by writing regex scripts to strip HTML and normalize text. In Module 4, I addressed the "black box" of how computers read text by implementing TF-IDF vectorization, converting raw language into sparse numerical matrices that models can actually learn from.
+
+
+SLIDE 4: ADVANCED ARCHITECTURE & CREATIVE AI (Modules 3, 6, 7, 8, 9)
+----------------------------------------------------------------------
+Title: Neural Architectures & Generative AI
+
+• Module 07: Ad-Click Prediction Model (Neural Networks)
+  - Architecture: Input Layer (Time on Site) → Hidden Layers (ReLU) → Output (Sigmoid).
+  - Mechanism: Visualized Forward Propagation and Gradient Descent/Backpropagation.
+  - Result: Network successfully adjusted weights to minimize loss.
+
+• Module 03: Project EchoBlade (Voice Tech)
+  - Concept: Voice recognition for MMORPGs in high-noise environments.
+  - Solution: Proposed Seq2Seq architecture with dereverb algorithms to solve the "Cocktail Party Problem."
+
+• Module 08: GANs (Fact vs. Fiction)
+  - Experiment: Simulating the "Discriminator" role to detect LLM-generated stories.
+  - Finding: Real data relies on sensory imperfections; AI data often adheres to perfect, cliché arcs.
+
+[Speaker Notes / Script]:
+Moving into deep learning, Module 7 was a highlight where I designed a Neural Network from scratch to predict user ad-clicks. I mapped the biological brain to artificial layers in Module 6. I also explored creative applications, such as Project EchoBlade in Module 3, where I designed a theoretical Seq2Seq model to handle fantasy languages in loud gaming environments.
+
+
+SLIDE 5: ETHICAL AI & FUTURE APPLICATIONS (Modules 11, 12, 13)
+----------------------------------------------------------------------
+Title: Applied AI: Ethics & Robotics
+
+• Module 13: "The Maestro" (Robotic Design)
+  - Design: Autonomous entertainment robot for hospitality.
+  - Framework: Applied the Perception-Cognition-Action loop.
+  - Ethics: Mitigation strategies for privacy (local-only processing) and safety (collision sensors).
+
+• Module 12: Predictive Modeling ("The Algorithmic Alibi")
+  - Focus: The societal impact of predictive policing algorithms.
+  - Key Learning: The danger of "Automation Bias" where humans over-rely on AI probability scores.
+
+• Module 11: Digital Assistants
+  - Analysis: Compared fictional AI (Samantha from "Her") to modern LLMs, focusing on emotional dependency and data privacy.
+
+[Speaker Notes / Script]:
+My final projects focused on the responsible application of AI. For Module 13, I designed "The Maestro" robot, strictly adhering to ethical guidelines by ensuring all data processing happened locally to protect user privacy. In Module 12, I explored the dangers of Automation Bias in policing. My goal moving forward is to build AI systems that are not only technically powerful but ethically robust.
