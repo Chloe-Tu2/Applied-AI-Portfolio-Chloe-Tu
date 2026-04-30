@@ -1,4 +1,4 @@
-# Chloe Tu — AI & Computer Vision Portfolio
+# Chloe Tu — AI Portfolio
 
 [![GitHub](https://img.shields.io/badge/GitHub-Chloe--Tu2-181717?style=flat&logo=github&logoColor=white)](https://github.com/Chloe-Tu2)
 ![Data Analysis](https://img.shields.io/badge/Skill-Data_Analysis-ff69b4.svg)
