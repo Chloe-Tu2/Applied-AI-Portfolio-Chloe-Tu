@@ -64,7 +64,7 @@ This project asks: **Can NLP tools like BERT embeddings and attention visualizat
 
 |  **Temporal Concepts Similarity in BERT** |  **Heptapod Logogram Generator** | **Louise's Whiteboard** | **Operation First Contact - End of Transmission** | 
 |:---:|:---:|:---:|:---:|
-| ![Heptapod Logogram Generator](./Results-%26-Visualizations/Heptapod_Logogram_Generator.png) | ![Louise's Whiteboard](./Results-%26-Visualizations/Louise's_Whiteboard.png) | ![Operation First Contact](./Results-%26-Visualizations/Operation_First_Contact.png) ![End of Transmission](./Results-%26-Visualizations/End_of_Transmission.png) | 
+| ![Temporal Concepts Similarity in BERT](./Results-%26-Visualizations/Temporal_Concepts_Similarity_In_BERT.png) | ![Heptapod Logogram Generator](./Results-%26-Visualizations/Heptapod_Logogram_Generator.png) | ![Louise's Whiteboard](./Results-%26-Visualizations/Louise's_Whiteboard.png) | ![Operation First Contact](./Results-%26-Visualizations/Operation_First_Contact.png) ![End of Transmission](./Results-%26-Visualizations/End_of_Transmission.png) | 
 **Key Findings:**
 
 | Finding | Technical Detail |
