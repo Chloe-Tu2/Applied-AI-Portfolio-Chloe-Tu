@@ -14,6 +14,8 @@
 
 ## Project Overview
 
+![CIFAR-10 Vision Transformer Overview](./Results-%26-Visualizations/Generating New Images_01_Digits.png)
+
 This project implements and explores **Denoising Diffusion Probabilistic Models (DDPMs)** — the generative AI architecture that powers Stable Diffusion, DALL·E 2, Midjourney, and Imagen. Unlike GANs (which learn to fool a discriminator) or VAEs (which compress to a latent code), diffusion models learn to **reverse a gradual noising process** — starting from pure Gaussian noise and iteratively denoising toward a coherent image.
 
 The project covers the complete diffusion model pipeline from scratch:
