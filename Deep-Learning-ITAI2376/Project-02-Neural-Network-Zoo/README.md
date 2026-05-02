@@ -11,6 +11,19 @@
 
 ---
 
+### Live Dashboard Interface
+
+<img src="results/demo_visualizations/The_Hunter_Interface.png" alt="The Hunter Gradio Dashboard Interface" width="85%"/>
+
+*The Hunter's Gradio web dashboard — submit any email and receive a full SOC-grade threat verdict with agent reasoning traces.*
+
+**[▶ Quick Access — Watch the Full Demo Video on Google Drive](https://drive.google.com/file/d/161p0kqwoJIKhUynKDgCN5GdeUNTUhVjh/view?usp=sharing)**  
+*See the dashboard live across 4 email scenarios — [full demo details & walkthrough table below](#demo-video) | [docs/ folder →](docs/README.md)*
+
+</div>
+
+---
+
 ## Project Overview
 
 This project is a visual and conceptual exploration of the **Neural Network Zoo** — the full landscape of deep learning architectures that have shaped modern AI. Rather than focusing on a single model, the project maps the entire evolutionary tree of neural networks: from the original Perceptron and MLP through CNNs, RNNs, LSTMs, and Transformers, all the way to Generative Models, Graph Neural Networks, and emerging architectures like Mamba.
