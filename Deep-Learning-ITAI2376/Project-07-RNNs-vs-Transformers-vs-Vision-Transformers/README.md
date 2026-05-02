@@ -89,8 +89,6 @@ patches = rearrange(images, 'b c (h p1) (w p2) -> b (h w) (p1 p2 c)', p1=patch_s
 
 ![Vision Transformer — What Does the Model Focus On?](./Results-%26-Visualizations/Vision_Transformer_what_Does_The_Model_Focus_on.png)
 
-![Visualizing ViT Attention Maps](./Results-%26-Visualizations/Visualizing_ViT_Attention.png)
-
 #### Per-Class Attention Map Examples
 
 | **Attention Map — Deer**  | **Attention Map — Frog**  | **Attention Map — Bird** |
