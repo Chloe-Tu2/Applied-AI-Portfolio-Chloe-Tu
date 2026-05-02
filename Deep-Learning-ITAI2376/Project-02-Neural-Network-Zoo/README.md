@@ -11,13 +11,14 @@
 
 ---
 
-### Live Dashboard Interface
+### ConvoShrimp - CNN Neural Network Lookbook
 
-<img src="results/demo_visualizations/The_Hunter_Interface.png" alt="The Hunter Gradio Dashboard Interface" width="85%"/>
+![Neural Network Zoo — Slide 08](./Results-%26-Visualizations/08.png)
+<img src="./Results-%26-Visualizations/08.png" alt="ConvoShrimp" width="85%"/>
 
-*The Hunter's Gradio web dashboard — submit any email and receive a full SOC-grade threat verdict with agent reasoning traces.*
+* This an video clip The Mantis Shrimp as a Model for Convolutional Neural Networks **Note: AI video by Google Gemini Veo 3** *
 
-**[▶ Quick Access — Watch the Full Demo Video on Google Drive](https://drive.google.com/file/d/161p0kqwoJIKhUynKDgCN5GdeUNTUhVjh/view?usp=sharing)**  
+**[▶ Quick Access — Watch the Full Clip Video on Google Drive](https://drive.google.com/file/d/1Lm6TBF2v0JirmmkC63ERDOhTKxgsqHc_/view)**  
 *See the dashboard live across 4 email scenarios — [full demo details & walkthrough table below](#demo-video) | [docs/ folder →](docs/README.md)*
 
 </div>
