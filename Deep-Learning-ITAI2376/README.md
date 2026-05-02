@@ -357,6 +357,7 @@ Deep-Learning-ITAI2376/
 │   │   ├── Watching_the_Generation_Process_01.png
 │   │   ├── Watching_the_Generation_Process_02.png
 │   │   ├── Watching_the_Generation_Process_03.png
+│   │   ├── Generating_New_Images_01_Digits.png
 │   │   ├── Generating_4_versions_of_number_01.png through _10.png
 │   │   ├── Visualization_function_dogs.png
 │   │   └── Top_1-3_Score.png
