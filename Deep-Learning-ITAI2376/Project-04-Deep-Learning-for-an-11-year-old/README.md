@@ -87,9 +87,10 @@ The [`Neural-Network-Squad/`](./Neural-Network-Squad) interactive web applicatio
 |:---:|:---:|:---:|:---:|
 |![Cover Art — Neural Network Squad](./Results-%26-Visualizations/cover-art-new.jpg)| ![Input/Output Diagram 1](./Results-%26-Visualizations/1-input-output.jpg) | ![Input/Output Diagram 2](./Results-%26-Visualizations/input-output.jpg) | ![Wally — Weight Concept](./Results-%26-Visualizations/wally-weight.png) | 
 
-|05|06|07|08|
+|Bella — Bias Concept|Siggy — Activation Function|Tanya — Output Neuron|Activation Functions Reference|
 |:---:|:---:|:---:|:---:|
-| ![Neural Network Zoo — Slide 05](./Results-%26-Visualizations/05.png) | ![Neural Network Zoo — Slide 06](./Results-%26-Visualizations/06.png) | ![Neural Network Zoo — Slide 07](./Results-%26-Visualizations/07.png) | ![Neural Network Zoo — Slide 08](./Results-%26-Visualizations/08.png) | 
+| ![Bella — Bias Concept](./Results-%26-Visualizations/bella-bias.jpg) | ![Siggy — Activation Function](./Results-%26-Visualizations/siggy-1.jpg) |![Tanya — Output Neuron](./Results-%26-Visualizations/tanya.jpg)
+| ![Activation Functions Reference](./Results-%26-Visualizations/functions.jpg) | 
 
 |09|10|11|12|
 |:---:|:---:|:---:|:---:|
@@ -97,15 +98,6 @@ The [`Neural-Network-Squad/`](./Neural-Network-Squad) interactive web applicatio
 
 
 
-
-
-![Bella — Bias Concept](./Results-%26-Visualizations/bella-bias.jpg)
-
-![Siggy — Activation Function](./Results-%26-Visualizations/siggy-1.jpg)
-
-![Tanya — Output Neuron](./Results-%26-Visualizations/tanya.jpg)
-
-![Activation Functions Reference](./Results-%26-Visualizations/functions.jpg)
 
 ![Confused Rex — Early Training](./Results-%26-Visualizations/confused_rex-1.jpg)
 
