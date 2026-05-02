@@ -107,7 +107,7 @@ for t in reversed(range(T)):
 
 ![Generated Samples Visual Progress](./Results-%26-Visualizations/Generated_samples_Visual_progress.png)
 
-![Generated Samples Epoch 50 (A)](./Results-%26-Visualizations/Generated_samples_Epoch_50-50.png)
+![Generated Samples Epoch 50 (A)](./Results-%26-Visualizations/Generated_samples_Epoch_50-50_01.png)
 
 ![Generated Samples Epoch 50 (B)](./Results-%26-Visualizations/Generated_sampls_Epoch_50-50_.png)
 
@@ -193,7 +193,7 @@ Project-08-Diffusion-Models/
 │   ├── Smoothed_Training_and_Validation_Loss_Vali-Train_Loss_Ratio.png
 │   ├── Final_Generated_samples.png
 │   ├── Generated_samples_Visual_progress.png
-│   ├── Generated_samples_Epoch 50-50.png
+│   ├── Generated_samples_Epoch_50-50_01.png
 │   ├── Generated_sampls_Epoch_50-50_.png
 │   ├── Watching_the_Generation_Process_01.png
 │   ├── Watching_the_Generation_Process_02.png
