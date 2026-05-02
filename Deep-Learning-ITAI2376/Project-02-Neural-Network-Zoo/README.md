@@ -66,30 +66,17 @@ The [`Convoshrimp/`](./Convoshrimp) interactive web application brings the neura
 ## Results & Visualizations
 
 ### Architecture Showcase Gallery
+|:---:|:---:|:---:|:---:|
+|![Neural Network Zoo — Slide 01](./Results-%26-Visualizations/01.png) | ![Neural Network Zoo — Slide 02](./Results-%26-Visualizations/02.png) | ![Neural Network Zoo — Slide 03](./Results-%26-Visualizations/03.png) | ![Neural Network Zoo — Slide 04](./Results-%26-Visualizations/04.png) | 
 
-![Neural Network Zoo — Slide 01](./Results-%26-Visualizations/01.png)
 
-![Neural Network Zoo — Slide 02](./Results-%26-Visualizations/02.png)
+|:---:|:---:|:---:|:---:|
+| ![Neural Network Zoo — Slide 05](./Results-%26-Visualizations/05.png) | ![Neural Network Zoo — Slide 06](./Results-%26-Visualizations/06.png)
+| ![Neural Network Zoo — Slide 07](./Results-%26-Visualizations/07.png) | ![Neural Network Zoo — Slide 08](./Results-%26-Visualizations/08.png) | 
 
-![Neural Network Zoo — Slide 03](./Results-%26-Visualizations/03.png)
-
-![Neural Network Zoo — Slide 04](./Results-%26-Visualizations/04.png)
-
-![Neural Network Zoo — Slide 05](./Results-%26-Visualizations/05.png)
-
-![Neural Network Zoo — Slide 06](./Results-%26-Visualizations/06.png)
-
-![Neural Network Zoo — Slide 07](./Results-%26-Visualizations/07.png)
-
-![Neural Network Zoo — Slide 08](./Results-%26-Visualizations/08.png)
-
-![Neural Network Zoo — Slide 09](./Results-%26-Visualizations/09.png)
-
-![Neural Network Zoo — Slide 10](./Results-%26-Visualizations/10.jpeg)
-
-![Neural Network Zoo — Slide 11](./Results-%26-Visualizations/11.png)
-
-![Neural Network Zoo — Slide 12](./Results-%26-Visualizations/12.png)
+|:---:|:---:|:---:|:---:|
+| ![Neural Network Zoo — Slide 09](./Results-%26-Visualizations/09.png) | ![Neural Network Zoo — Slide 10](./Results-%26-Visualizations/10.jpeg)
+| ![Neural Network Zoo — Slide 11](./Results-%26-Visualizations/11.png) | ![Neural Network Zoo — Slide 12](./Results-%26-Visualizations/12.png) | 
 
 ---
 
