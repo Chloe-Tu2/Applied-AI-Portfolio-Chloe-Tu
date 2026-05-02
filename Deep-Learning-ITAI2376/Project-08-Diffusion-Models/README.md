@@ -107,7 +107,7 @@ for t in reversed(range(T)):
 
 ![Generated Samples Visual Progress](./Results-%26-Visualizations/Generated_samples_Visual_progress.png)
 
-![Generated Samples Epoch 50 (A)](./Results-%26-Visualizations/Generated_samples_Epoch50-50.png)
+![Generated Samples Epoch 50 (A)](./Results-%26-Visualizations/Generated_samples_Epoch_50-50.png)
 
 ![Generated Samples Epoch 50 (B)](./Results-%26-Visualizations/Generated_sampls_Epoch_50-50_.png)
 
