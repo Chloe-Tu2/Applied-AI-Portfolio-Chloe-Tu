@@ -58,9 +58,13 @@ This project asks: **Can NLP tools like BERT embeddings and attention visualizat
 
 ## Results & Visualizations
 
-![Project Heptapod Logo](./Results-%26-Visualizations/Project_Heptapod_logo.png)
+| **Project Heptapod Logo**  | **Self-Attention Heatmap - BERT**  | **Attention Map — Bird** |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|![Project Heptapod Logo](./Results-%26-Visualizations/Project_Heptapod_logo.png)| ![Project Heptapod Logo](./Results-%26-Visualizations/Project_Heptapod_logo.png) | ![Attention Map for Bird](./Results-%26-Visualizations/Attention_map_for_bird.png) |
 
-![NLP Paradigm Comparison](./Results-%26-Visualizations/NLP_Paradigm_Comparison.png)
+
+
+![Project Heptapod Logo](./Results-%26-Visualizations/Project_Heptapod_logo.png)
 
 ![Self-Attention Heatmap — BERT](./Results-%26-Visualizations/Self-Attention_Heatmap.png)
 
