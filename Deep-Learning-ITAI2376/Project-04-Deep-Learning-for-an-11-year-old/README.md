@@ -96,13 +96,9 @@ The [`Neural-Network-Squad/`](./Neural-Network-Squad) interactive web applicatio
 | ![Confused Rex — Early Training](./Results-%26-Visualizations/confused_rex-1.jpg) | ![Confused Wally — Random Weights](./Results-%26-Visualizations/confused_wally.jpg) | ![Confused Bella — Baseline Struggles](./Results-%26-Visualizations/confused_bella.jpg)| ![Confused Computer — Before Learning](./Results-%26-Visualizations/confused_computer-11.jpg)| 
 
 
-
-
-![Chaos Computer Scene](./Results-%26-Visualizations/chaos_computer_scene-10.jpg)
-
-![Rex After Training](./Results-%26-Visualizations/rex-3.jpg)
-
-![Victory — Network Converged](./Results-%26-Visualizations/victory-4.jpg)
+|Rex After Training| Chaos Computer Scene | Victory — Network Converged |
+|:---:|:---:|:---:|
+| ![Rex After Training](./Results-%26-Visualizations/rex-3.jpg) | ![Chaos Computer Scene](./Results-%26-Visualizations/chaos_computer_scene-10.jpg) | ![Victory — Network Converged](./Results-%26-Visualizations/victory-4.jpg) |
 
 ---
 
