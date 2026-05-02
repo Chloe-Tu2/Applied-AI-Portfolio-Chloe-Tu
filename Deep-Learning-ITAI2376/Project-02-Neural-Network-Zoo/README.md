@@ -66,6 +66,8 @@ The [`Convoshrimp/`](./Convoshrimp) interactive web application brings the neura
 ## Results & Visualizations
 
 ### Architecture Showcase Gallery
+
+
 |:---:|:---:|:---:|:---:|
 |![Neural Network Zoo — Slide 01](./Results-%26-Visualizations/01.png) | ![Neural Network Zoo — Slide 02](./Results-%26-Visualizations/02.png) | ![Neural Network Zoo — Slide 03](./Results-%26-Visualizations/03.png) | ![Neural Network Zoo — Slide 04](./Results-%26-Visualizations/04.png) | 
 
