@@ -93,11 +93,14 @@ patches = rearrange(images, 'b c (h p1) (w p2) -> b (h w) (p1 p2 c)', p1=patch_s
 
 #### Per-Class Attention Map Examples
 
-| **Attention Map — Deer**  | **Attention Map — Frog**  | **Attention Map — Bird** | **Attention Map — Truck** |
-|:---:|:---:|:---:|:---:|
-|![Attention Map for Deer](./Results-%26-Visualizations/Attention_Map_For_deer.png) | ![Attention Map for Frog](./Results-%26-Visualizations/Attention_Map_For-frog.png) | ![Attention Map for Bird](./Results-%26-Visualizations/Attention_map_for_bird.png) | ![Attention Map for Truck](./Results-%26-Visualizations/Attention_map_for_Truck.png) |
+| **Attention Map — Deer**  | **Attention Map — Frog**  | **Attention Map — Bird** |
+|:---:|:---:|:---:|
+|![Attention Map for Deer](./Results-%26-Visualizations/Attention_Map_For_deer.png) | ![Attention Map for Frog](./Results-%26-Visualizations/Attention_Map_For-frog.png) | ![Attention Map for Bird](./Results-%26-Visualizations/Attention_map_for_bird.png) |
 
-
+| **Attention Map — Truck** | *Attention Map — Automoblie** |
+|:---:|:---:|
+ | ![Attention Map for Truck](./Results-%26-Visualizations/Attention_map_for_Truck.png) | ![Visualizing ViT Attention Maps](./Results-%26-Visualizations/Visualizing_ViT_Attention.png) |
+ 
 ### Full Architecture Comparison
 
 ![Master Comparison Table — All Architectures](./Results-%26-Visualizations/Master_Comparison_Table.png)
