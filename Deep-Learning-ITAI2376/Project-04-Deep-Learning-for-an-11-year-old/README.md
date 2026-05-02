@@ -91,20 +91,12 @@ The [`Neural-Network-Squad/`](./Neural-Network-Squad) interactive web applicatio
 |:---:|:---:|:---:|:---:|
 | ![Bella — Bias Concept](./Results-%26-Visualizations/bella-bias.jpg) | ![Siggy — Activation Function](./Results-%26-Visualizations/siggy-1.jpg) |![Tanya — Output Neuron](./Results-%26-Visualizations/tanya.jpg)| ![Activation Functions Reference](./Results-%26-Visualizations/functions.jpg) | 
 
-|09|10|11|12|
+|Confused Rex — Early Training|Confused Wally — Random Weights|Confused Bella — Baseline Struggles|Confused Computer — Before Learning|
 |:---:|:---:|:---:|:---:|
-| ![Neural Network Zoo — Slide 09](./Results-%26-Visualizations/09.png) | ![Neural Network Zoo — Slide 10](./Results-%26-Visualizations/10.jpeg) | ![Neural Network Zoo — Slide 11](./Results-%26-Visualizations/11.png) | ![Neural Network Zoo — Slide 12](./Results-%26-Visualizations/12.png) | 
+| ![Confused Rex — Early Training](./Results-%26-Visualizations/confused_rex-1.jpg) | ![Confused Wally — Random Weights](./Results-%26-Visualizations/confused_wally.jpg) | ![Confused Bella — Baseline Struggles](./Results-%26-Visualizations/confused_bella.jpg)| ![Confused Computer — Before Learning](./Results-%26-Visualizations/confused_computer-11.jpg)| 
 
 
 
-
-![Confused Rex — Early Training](./Results-%26-Visualizations/confused_rex-1.jpg)
-
-![Confused Wally — Random Weights](./Results-%26-Visualizations/confused_wally.jpg)
-
-![Confused Bella — Baseline Struggles](./Results-%26-Visualizations/confused_bella.jpg)
-
-![Confused Computer — Before Learning](./Results-%26-Visualizations/confused_computer-11.jpg)
 
 ![Chaos Computer Scene](./Results-%26-Visualizations/chaos_computer_scene-10.jpg)
 
