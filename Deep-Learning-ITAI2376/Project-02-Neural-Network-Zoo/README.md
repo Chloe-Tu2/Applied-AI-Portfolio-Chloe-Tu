@@ -20,7 +20,7 @@
 
 **[▶ Quick Access — Watch the Full Clip Video on Google Drive](https://drive.google.com/file/d/1Lm6TBF2v0JirmmkC63ERDOhTKxgsqHc_/view)**  
 *This an video clip The Mantis Shrimp as a Model for Convolutional Neural Networks* **Note: AI video by Google Gemini Veo 3** 
-*See the download MP4 version* — [full cilp video below](#P02_Neural-Network-Zoo-Mantis-Shrimp-D-Rotational-Video-Showcase.mp4) 
+*See the download MP4 version* — [full cilp video below](./P02_Neural-Network-Zoo-Mantis-Shrimp-D-Rotational-Video-Showcase.mp4) 
 
 
 </div>
