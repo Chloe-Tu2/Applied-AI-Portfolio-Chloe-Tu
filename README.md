@@ -327,8 +327,8 @@ Through the **Applied AI and Robotics program** at Houston City College, I've pr
 * **Name:** Chloe Tu
 * **Program:** Applied AI & Robotics
 * **Institution:** Houston City College
-* **Email:** [cocobuttertutu@gmail.com](mailto:cocobuttertutu@gmail.com)
-* **LinkedIn:** [linkedin.com/in/chloe-tu-489532391](https://www.linkedin.com/in/chloe-tu-489532391/)
+* **Email:** [tuchloe2@gmail.com](mailto:tuchloe2@gmail.com)
+* **LinkedIn:** [linkedin.com/in/chloe-tu-489532391](https://www.linkedin.com/in/chloe-tu-019a453bb/)
 * **GitHub:** [github.com/Chloe-Tu2](https://github.com/Chloe-Tu2)
 
 ---
