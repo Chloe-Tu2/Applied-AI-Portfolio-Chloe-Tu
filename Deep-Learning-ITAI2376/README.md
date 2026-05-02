@@ -349,6 +349,7 @@ Deep-Learning-ITAI2376/
 │   │   ├── Training_and_Validation_Loss.png
 │   │   ├── Training_and_Validation_Loss_01.png
 │   │   ├── Final_Training_and_Validation_Loss.png
+│   │   ├──STUDENT_ACTIVITY_Generating_numbers_with_different_noise_seeds.png
 │   │   ├── Smoothed_Training_and_Validation_Loss_Vali-Train_Loss_Ratio.png
 │   │   ├── Final_Generated_samples.png
 │   │   ├── Generated_samples_Visual_progress.png
