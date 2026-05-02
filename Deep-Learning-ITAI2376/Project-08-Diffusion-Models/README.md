@@ -196,6 +196,7 @@ Project-08-Diffusion-Models/
 │   ├── Generated_samples_Visual_progress.png
 │   ├── Generated_samples_Epoch_50-50_01.png
 │   ├── Generated_sampls_Epoch_50-50_.png
+│   ├── Generating New Images_01_Digits.png
 │   ├── Watching_the_Generation_Process_01.png
 │   ├── Watching_the_Generation_Process_02.png
 │   ├── Watching_the_Generation_Process_03.png
