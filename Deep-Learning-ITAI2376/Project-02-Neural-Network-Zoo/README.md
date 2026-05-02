@@ -16,11 +16,10 @@
 <img src="./Results-%26-Visualizations/09.png" alt="ConvoShrimp" width="85%"/>
 
 **[▶ ConvoShrimp - CNN Neural Network Lookbook Quick Access — ](https://convoshrimp.netlify.app/)**  
-
-* This an video clip The Mantis Shrimp as a Model for Convolutional Neural Networks **Note: AI video by Google Gemini Veo 3** *
+* This an website of all the details from the pdf and pptx clickable interface.** *
 
 **[▶ Quick Access — Watch the Full Clip Video on Google Drive](https://drive.google.com/file/d/1Lm6TBF2v0JirmmkC63ERDOhTKxgsqHc_/view)**  
-*See the download MP4 version — [full cilp video below](#demo-video) 
+** This an video clip The Mantis Shrimp as a Model for Convolutional Neural Networks **Note: AI video by Google Gemini Veo 3** * See the download MP4 version — [full cilp video below](#demo-video) 
 
 
 </div>
