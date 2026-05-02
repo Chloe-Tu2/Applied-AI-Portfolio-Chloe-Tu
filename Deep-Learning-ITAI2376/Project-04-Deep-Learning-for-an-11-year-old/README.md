@@ -83,13 +83,21 @@ The [`Neural-Network-Squad/`](./Neural-Network-Squad) interactive web applicatio
 
 ### Character Illustrations & Concept Panels
 
-![Cover Art — Neural Network Squad](./Results-%26-Visualizations/cover-art-new.jpg)
+|Cover Art — Neural Network Squad|Input/Output Diagram 1|Input/Output Diagram 2|Wally — Weight Concept|
+|:---:|:---:|:---:|:---:|
+|![Cover Art — Neural Network Squad](./Results-%26-Visualizations/cover-art-new.jpg)| ![Input/Output Diagram 1](./Results-%26-Visualizations/1-input-output.jpg) | ![Input/Output Diagram 2](./Results-%26-Visualizations/input-output.jpg) | ![Wally — Weight Concept](./Results-%26-Visualizations/wally-weight.png) | 
 
-![Input/Output Diagram 1](./Results-%26-Visualizations/1-input-output.jpg)
+|05|06|07|08|
+|:---:|:---:|:---:|:---:|
+| ![Neural Network Zoo — Slide 05](./Results-%26-Visualizations/05.png) | ![Neural Network Zoo — Slide 06](./Results-%26-Visualizations/06.png) | ![Neural Network Zoo — Slide 07](./Results-%26-Visualizations/07.png) | ![Neural Network Zoo — Slide 08](./Results-%26-Visualizations/08.png) | 
 
-![Input/Output Diagram 2](./Results-%26-Visualizations/input-output.jpg)
+|09|10|11|12|
+|:---:|:---:|:---:|:---:|
+| ![Neural Network Zoo — Slide 09](./Results-%26-Visualizations/09.png) | ![Neural Network Zoo — Slide 10](./Results-%26-Visualizations/10.jpeg) | ![Neural Network Zoo — Slide 11](./Results-%26-Visualizations/11.png) | ![Neural Network Zoo — Slide 12](./Results-%26-Visualizations/12.png) | 
 
-![Wally — Weight Concept](./Results-%26-Visualizations/wally-weight.png)
+
+
+
 
 ![Bella — Bias Concept](./Results-%26-Visualizations/bella-bias.jpg)
 
