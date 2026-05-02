@@ -58,10 +58,13 @@ This project asks: **Can NLP tools like BERT embeddings and attention visualizat
 
 ## Results & Visualizations
 
-| **Project Heptapod Logo**  | **Self-Attention Heatmap - BERT**  | **circular Attention Visualization** | **Linear vs. Circular Language Visualization** | **Temporal Concepts Similarity in BERT** |  **Heptapod Logogram Generator** | **Louise's Whiteboard** | **Operation First Contact - End of Transmission** | 
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|![Project Heptapod Logo](./Results-%26-Visualizations/Project_Heptapod_logo.png)| ![Self-Attention Heatmap — BERT](./Results-%26-Visualizations/Self-Attention_Heatmap.png) | ![Circular Attention Visualization](./Results-%26-Visualizations/Circular_Attention_Visualization.png) | ![Linear vs. Circular Language Visualization](./Results-%26-Visualizations/Linear_vs_Circular_Language_Visualization.png) | ![Temporal Concepts Similarity in BERT](./Results-%26-Visualizations/Temporal_Concepts_Similarity_In_BERT.png) | ![Heptapod Logogram Generator](./Results-%26-Visualizations/Heptapod_Logogram_Generator.png) | ![Louise's Whiteboard](./Results-%26-Visualizations/Louise's_Whiteboard.png) | ![Operation First Contact](./Results-%26-Visualizations/Operation_First_Contact.png) ![End of Transmission](./Results-%26-Visualizations/End_of_Transmission.png) | 
+| **Project Heptapod Logo**  | **Self-Attention Heatmap - BERT**  | **circular Attention Visualization** | **Linear vs. Circular Language Visualization** | 
+|:---:|:---:|:---:|:---:|
+|![Project Heptapod Logo](./Results-%26-Visualizations/Project_Heptapod_logo.png)| ![Self-Attention Heatmap — BERT](./Results-%26-Visualizations/Self-Attention_Heatmap.png) | ![Circular Attention Visualization](./Results-%26-Visualizations/Circular_Attention_Visualization.png) | ![Linear vs. Circular Language Visualization](./Results-%26-Visualizations/Linear_vs_Circular_Language_Visualization.png) | ![Temporal Concepts Similarity in BERT](./Results-%26-Visualizations/Temporal_Concepts_Similarity_In_BERT.png) |
 
+|  **Temporal Concepts Similarity in BERT** |  **Heptapod Logogram Generator** | **Louise's Whiteboard** | **Operation First Contact - End of Transmission** | 
+|:---:|:---:|:---:|:---:|
+| ![Heptapod Logogram Generator](./Results-%26-Visualizations/Heptapod_Logogram_Generator.png) | ![Louise's Whiteboard](./Results-%26-Visualizations/Louise's_Whiteboard.png) | ![Operation First Contact](./Results-%26-Visualizations/Operation_First_Contact.png) ![End of Transmission](./Results-%26-Visualizations/End_of_Transmission.png) | 
 **Key Findings:**
 
 | Finding | Technical Detail |
