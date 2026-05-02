@@ -89,8 +89,7 @@ The [`Neural-Network-Squad/`](./Neural-Network-Squad) interactive web applicatio
 
 |Bella — Bias Concept|Siggy — Activation Function|Tanya — Output Neuron|Activation Functions Reference|
 |:---:|:---:|:---:|:---:|
-| ![Bella — Bias Concept](./Results-%26-Visualizations/bella-bias.jpg) | ![Siggy — Activation Function](./Results-%26-Visualizations/siggy-1.jpg) |![Tanya — Output Neuron](./Results-%26-Visualizations/tanya.jpg)
-| ![Activation Functions Reference](./Results-%26-Visualizations/functions.jpg) | 
+| ![Bella — Bias Concept](./Results-%26-Visualizations/bella-bias.jpg) | ![Siggy — Activation Function](./Results-%26-Visualizations/siggy-1.jpg) |![Tanya — Output Neuron](./Results-%26-Visualizations/tanya.jpg)| ![Activation Functions Reference](./Results-%26-Visualizations/functions.jpg) | 
 
 |09|10|11|12|
 |:---:|:---:|:---:|:---:|
