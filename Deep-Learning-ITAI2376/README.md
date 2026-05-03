@@ -20,7 +20,9 @@
 ## Course Overview
 
 **Institution:** Houston City College
+
 **Course:** ITAI-2376 Deep Learning
+
 **Focus:** Neural Architectures, Sequence Models, Transformers & Autonomous Agents
 
 This course delivers a rigorous, project-driven exploration of modern deep learning — from implementing neural networks by hand using NumPy, to deploying production-ready multi-agent AI systems. Each project builds on the last, progressively mastering more complex architectures and paradigms: CNNs for vision, Transformers for language, Vision Transformers for spatial attention, Diffusion Models for generation, Reinforcement Learning for autonomous decision-making, and finally multi-agent AI pipelines for real-world cybersecurity applications.
