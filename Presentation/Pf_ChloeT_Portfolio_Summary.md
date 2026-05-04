@@ -26,8 +26,8 @@
 ## 🔗 [github.com/Chloe-Tu2](https://github.com/Chloe-Tu2)
 
 **Contact:**
-- 📧 cocobuttertutu@gmail.com
-- 💼 [linkedin.com/in/chloe-tu-489532391](https://www.linkedin.com/in/chloe-tu-489532391/)
+- 📧 tuchloe2@gmail.com
+- 💼 [https://www.linkedin.com/in/chloe-tu-019a453bb/](https://www.linkedin.com/in/chloe-tu-019a453bb/)
 
 ---
 
@@ -338,8 +338,8 @@ YOLOv8 (PPE Detection) · CrewAI Pipeline (The Hunter) · React + SQLite Web App
 | **Name** | Chloe Tu |
 | **Program** | Applied AI & Robotics, A.A.S. |
 | **Institution** | Houston City College |
-| **Email** | cocobuttertutu@gmail.com |
-| **LinkedIn** | [linkedin.com/in/chloe-tu-489532391](https://www.linkedin.com/in/chloe-tu-489532391/) |
+| **Email** | tuchloe2@gmail.com |
+| **LinkedIn** | [https://www.linkedin.com/in/chloe-tu-019a453bb/](https://www.linkedin.com/in/chloe-tu-019a453bb/) |
 | **GitHub** | [github.com/Chloe-Tu2](https://github.com/Chloe-Tu2) |
 
 ---
