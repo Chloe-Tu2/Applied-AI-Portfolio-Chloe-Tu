@@ -80,7 +80,7 @@ Year 1 ────────────────────────�
 
 ### 🏆 PROJECT 1: The Hunter — Automated Email Phishing Defense & Detection System
 **Course:** ITAI-2376 Deep Learning | **Type:** Capstone — Final Project
-**GitHub:** [View Full Project →](https://github.com/Chloe-Tu2/Deep-Learning-ITAI2376/The-Hunter)
+**GitHub:** [View Full Project - ](./Deep-Learning-ITAI2376/The-Hunter-Automated-Email-Phishing-Defense-Detection-System)
 
 
 ![hunter_interface](./visualizations/hunter_interface.png)
