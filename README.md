@@ -294,6 +294,15 @@ AI-Portfolio-Chloe-Tu/
 │   └── README.md
 │
 ├── Presentation/                                    # Final Portfolio Presentation
+│   ├── visualizations/                              # iamges for use presenation
+│   │   ├── Portfolio_Overview.html/                 # HTML OVeriview
+│   │   ├── Portfolio_Slideshow.html/                # HTML Slideshow
+│   │   ├── hunter_interface.png/                    # image use in The Hunter
+│   │   ├── val_batch0_pred.jpg/                     # image use PPE
+│   ├── NLP-Natural-Language-Processing-ITAI2373-Portfolio-summary.txt/
+│   ├── Pf_ChloeT_Portfolio_Summary_ITAI_2376.md/
+│   └──  Pf_Chloe_Tu_Portfolio_Summary_ITAI_2376.pdf/
+│
 └── README.md                                        # This file
 ```
 
