@@ -172,8 +172,8 @@ The Hunter is not just a classifier — it is a **production-ready autonomous cy
 **Course:** ITAI-1378 Computer Vision | **Type:** Capstone — Final Project
 **GitHub:** [View Full Project →](https://github.com/Chloe-Tu2/Computer-Vision-ITAI1378/PPE-Detection)
 
-![PPE Detection](ppe_detection.jpg)
 
+![PPE Detection](./visualizations/val_batch0_pred.jpg)
 ---
 
 #### Problem Statement
@@ -349,5 +349,7 @@ YOLOv8 (PPE Detection) · CrewAI Pipeline (The Hunter) · React + SQLite Web App
 ---
 
 **File:** `Pf_ChloeT_Portfolio_Summary.md`
+
 **Submission:** Convert to PDF and submit with GitHub repository link.
+
 **GitHub:** [github.com/Chloe-Tu2](https://github.com/Chloe-Tu2)
