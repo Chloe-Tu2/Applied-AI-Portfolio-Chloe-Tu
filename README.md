@@ -1,9 +1,5 @@
 # Chloe Tu — AI Portfolio
 
-<div align="center">
-  <img src="./Presentation/hunter_interface.png" alt="The Hunter Interface" width="800" style="border-radius:8px; margin-bottom: 20px;">
-</div>
-
 [![GitHub](https://img.shields.io/badge/GitHub-Chloe--Tu2-181717?style=flat&logo=github&logoColor=white)](https://github.com/Chloe-Tu2)
 ![Data Analysis](https://img.shields.io/badge/Skill-Data_Analysis-ff69b4.svg)
 ![AI/ML Applied Projects](https://img.shields.io/badge/Collection-AI%2FML_Applied_Projects-blueviolet?style=flat)
