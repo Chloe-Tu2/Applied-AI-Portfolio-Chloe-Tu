@@ -3,7 +3,7 @@
 ### Presentation File: `Pf_ChloeT_Portfolio_Summary`
 
 > **Presentation Format:** Portfolio Summary (5 Slides)
-> **GitHub Portfolio:** [github.com/Chloe-Tu2](https://github.com/Chloe-Tu2)
+> **GitHub Portfolio:** [github.com/Chloe-Tu2/Applied-AI-Portfolio-Chloe-Tu](https://github.com/Chloe-Tu2/Applied-AI-Portfolio-Chloe-Tu )
 
 ---
 
