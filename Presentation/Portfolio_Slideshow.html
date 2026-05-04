@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chloe Tu — AI Portfolio Presentation</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;900&family=Fira+Code:wght@400;600&display=swap');
+  :root {
+    --bg: #0a0e1a;
+    --card: #111827;
+    --border: #1e3a5f;
+    --accent: #38bdf8;
+    --accent2: #818cf8;
+    --gold: #fbbf24;
+    --green: #34d399;
+    --text: #e2e8f0;
+    --muted: #94a3b8;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--text); }
+
+  /* SCREEN MODE - slideshow */
+  @media screen {
+    .slide {
+      width: 100vw; min-height: 100vh;
+      display: flex; flex-direction: column; justify-content: center;
+      padding: 60px 80px;
+      border-bottom: 2px solid var(--border);
+      position: relative; overflow: hidden;
+    }
+    .slide::before {
+      content: '';
+      position: absolute; inset: 0;
+      background: radial-gradient(ellipse at top left, rgba(56,189,248,0.07) 0%, transparent 60%),
+                  radial-gradient(ellipse at bottom right, rgba(129,140,248,0.07) 0%, transparent 60%);
+      pointer-events: none;
+    }
+  }
+
+  /* PRINT / PDF MODE */
+  @media print {
+    * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    body { background: #0a0e1a !important; }
+    .slide {
+      width: 100%; min-height: 100vh;
+      page-break-after: always;
+      padding: 48px 64px;
+      display: flex; flex-direction: column; justify-content: center;
+      border: none;
+    }
+    .slide:last-child { page-break-after: avoid; }
+    .no-print { display: none !important; }
+  }
+
+  /* NAVIGATION */
+  .nav { position: fixed; bottom: 24px; right: 32px; z-index: 100; display: flex; gap: 12px; }
+  .nav button {
+    background: rgba(56,189,248,0.15); border: 1px solid var(--accent);
+    color: var(--accent); padding: 10px 20px; border-radius: 8px;
+    cursor: pointer; font-family: 'Inter', sans-serif; font-size: 14px;
+    transition: all .2s;
+  }
+  .nav button:hover { background: var(--accent); color: #0a0e1a; }
+  .slide-counter { position: fixed; bottom: 24px; left: 32px; color: var(--muted); font-size: 13px; z-index: 100; }
+
+  /* TYPOGRAPHY */
+  .label { font-size: 11px; letter-spacing: 3px; text-transform: uppercase; color: var(--accent); font-weight: 600; margin-bottom: 12px; }
+  h1 { font-size: clamp(2.4rem, 5vw, 4rem); font-weight: 900; line-height: 1.1; }
+  h2 { font-size: clamp(1.6rem, 3vw, 2.4rem); font-weight: 700; margin-bottom: 16px; }
+  h3 { font-size: 1.2rem; font-weight: 600; color: var(--accent); margin-bottom: 8px; }
+  p, li { font-size: 1rem; line-height: 1.7; color: var(--text); }
+  .muted { color: var(--muted); font-size: 0.9rem; }
+
+  /* GRADIENT TEXT */
+  .grad { background: linear-gradient(135deg, var(--accent), var(--accent2)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+  .grad-gold { background: linear-gradient(135deg, var(--gold), #f97316); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+
+  /* CARDS */
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 24px; margin-bottom: 16px; }
+  .card-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; margin-top: 20px; }
+
+  /* TABLES */
+  table { width: 100%; border-collapse: collapse; margin-top: 16px; }
+  th { background: rgba(56,189,248,0.1); color: var(--accent); font-size: 12px; letter-spacing: 1px; text-transform: uppercase; padding: 10px 14px; text-align: left; border-bottom: 1px solid var(--border); }
+  td { padding: 10px 14px; border-bottom: 1px solid rgba(30,58,95,0.5); font-size: 0.9rem; }
+  tr:last-child td { border-bottom: none; }
+  .tag { display: inline-block; background: rgba(56,189,248,0.12); color: var(--accent); border: 1px solid rgba(56,189,248,0.3); border-radius: 20px; padding: 3px 12px; font-size: 12px; margin: 3px; }
+  .badge { display: inline-block; padding: 4px 12px; border-radius: 6px; font-size: 12px; font-weight: 600; }
+  .badge-green { background: rgba(52,211,153,0.15); color: var(--green); border: 1px solid rgba(52,211,153,0.3); }
+  .badge-gold { background: rgba(251,191,36,0.12); color: var(--gold); border: 1px solid rgba(251,191,36,0.3); }
+  .metric { text-align: center; }
+  .metric .num { font-size: 2.2rem; font-weight: 900; }
+  .metric .label2 { font-size: 0.8rem; color: var(--muted); margin-top: 4px; }
+  .metric-row { display: flex; gap: 16px; margin-top: 16px; flex-wrap: wrap; }
+  .pipeline { font-family: 'Fira Code', monospace; font-size: 0.82rem; background: rgba(0,0,0,0.4); border: 1px solid var(--border); border-radius: 8px; padding: 18px; margin-top: 12px; line-height: 1.8; color: #94d2ff; white-space: pre; overflow-x: auto; }
+  .divider { border: none; border-top: 1px solid var(--border); margin: 20px 0; }
+  ul { padding-left: 20px; }
+  ul li { margin-bottom: 6px; }
+  .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; margin-top: 16px; }
+  .skill-bar { height: 6px; background: rgba(255,255,255,0.08); border-radius: 3px; margin-top: 6px; margin-bottom: 12px; }
+  .skill-fill { height: 100%; border-radius: 3px; background: linear-gradient(90deg, var(--accent), var(--accent2)); }
+  .quote { border-left: 3px solid var(--accent2); padding-left: 16px; color: var(--muted); font-style: italic; margin: 16px 0; font-size: 0.95rem; }
+  .contact-item { display: flex; align-items: center; gap: 10px; padding: 10px 0; border-bottom: 1px solid var(--border); font-size: 0.95rem; }
+  .contact-item:last-child { border-bottom: none; }
+  .icon { font-size: 1.2rem; }
+</style>
+</head>
+<body>
+
+<!-- NAV (screen only) -->
+<div class="nav no-print">
+  <button onclick="prev()">← Prev</button>
+  <button onclick="next()">Next →</button>
+  <button onclick="window.print()">🖨 Print / PDF</button>
+</div>
+<div class="slide-counter no-print" id="counter"></div>
+
+<!-- ═══════════════════════════════════════════
+     SLIDE 1 — INTRODUCTION
+═══════════════════════════════════════════ -->
+<div class="slide" id="slide-1">
+  <div class="label">Applied AI &amp; Robotics Portfolio</div>
+  <h1><span class="grad">Chloe Tu</span></h1>
+  <p style="font-size:1.3rem;margin:12px 0 4px;color:var(--muted)">Artificial Intelligence, A.A.S. — Houston City College</p>
+  <p style="font-size:1rem;color:var(--muted);margin-bottom:32px">ITAI-1378 Computer Vision &nbsp;·&nbsp; ITAI-2373 NLP &nbsp;·&nbsp; ITAI-2376 Deep Learning</p>
+  <div class="quote" style="font-size:1.05rem;max-width:700px">"Building production-ready AI systems — from handcrafted neural networks to multi-agent autonomous pipelines — with a focus on Computer Vision, Deep Learning, and Natural Language Processing."</div>
+  <hr class="divider">
+  <div class="metric-row">
+    <div class="card metric" style="min-width:140px"><div class="num grad-gold">97%+</div><div class="label2">Phishing Detection</div></div>
+    <div class="card metric" style="min-width:140px"><div class="num grad">77.1%</div><div class="label2">mAP@50 PPE</div></div>
+    <div class="card metric" style="min-width:140px"><div class="num" style="color:var(--green)">66 FPS</div><div class="label2">Real-Time Inference</div></div>
+    <div class="card metric" style="min-width:140px"><div class="num" style="color:var(--accent2)">3</div><div class="label2">Courses Completed</div></div>
+  </div>
+  <hr class="divider">
+  <div style="display:flex;gap:24px;flex-wrap:wrap;margin-top:8px">
+    <div class="contact-item"><span class="icon">📧</span> cocobuttertutu@gmail.com</div>
+    <div class="contact-item"><span class="icon">💼</span> linkedin.com/in/chloe-tu-489532391</div>
+    <div class="contact-item"><span class="icon">🔗</span> github.com/Chloe-Tu2</div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════
+     SLIDE 2 — LEARNING JOURNEY
+═══════════════════════════════════════════ -->
+<div class="slide" id="slide-2">
+  <div class="label">Learning Journey</div>
+  <h2>From Pixels to <span class="grad">Autonomous Agents</span></h2>
+  <div class="pipeline">ITAI-1378 Computer Vision     ──►  ITAI-2373 NLP           ──►  ITAI-2376 Deep Learning
+─────────────────────────────────────────────────────────────────────────────────
+OpenCV · HOG · SIFT · SVM         NLTK · TF-IDF · BERT          NumPy · PyTorch · CNNs
+YOLOv8 · Transfer Learning        Word2Vec · Transformers        ViTs · DDPM · BiLSTM
+77.1% mAP · 66 FPS                Seq2Seq · GANs                 CrewAI · 97%+ Accuracy
+PPE Safety Detection              Ethical AI Robotics             Multi-Agent Pipeline</div>
+  <table style="margin-top:20px">
+    <tr><th>Course</th><th>Key Skills</th><th>Capstone Result</th></tr>
+    <tr><td><span class="badge badge-green">ITAI-1378</span> Computer Vision</td><td>HOG, SIFT, SVM, CNNs, YOLOv8, OpenCV</td><td>77.1% mAP · 66 FPS PPE Detection</td></tr>
+    <tr><td><span class="badge" style="background:rgba(129,140,248,0.15);color:var(--accent2);border:1px solid rgba(129,140,248,0.3)">ITAI-2373</span> NLP</td><td>Text Processing, TF-IDF, ANNs, GANs, Ethics</td><td>"The Maestro" Robotic AI Design</td></tr>
+    <tr><td><span class="badge badge-gold">ITAI-2376</span> Deep Learning</td><td>PyTorch, ViTs, DDPM, CrewAI, BiLSTM</td><td>97%+ Phishing Detection — The Hunter</td></tr>
+  </table>
+  <hr class="divider">
+  <div style="margin-top:8px">
+    <p style="margin-bottom:12px;font-weight:600">Technologies Mastered</p>
+    <div>
+      <span class="tag">Python</span><span class="tag">PyTorch</span><span class="tag">TensorFlow/Keras</span><span class="tag">OpenCV</span><span class="tag">YOLOv8</span>
+      <span class="tag">Hugging Face</span><span class="tag">BERT</span><span class="tag">NLTK</span><span class="tag">CrewAI</span><span class="tag">BiLSTM</span>
+      <span class="tag">Random Forest</span><span class="tag">SQLite</span><span class="tag">React</span><span class="tag">NumPy</span><span class="tag">Gymnasium</span>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════
+     SLIDE 3 — THE HUNTER
+═══════════════════════════════════════════ -->
+<div class="slide" id="slide-3">
+  <div class="label">🏆 Most Significant Project 1 · ITAI-2376 Deep Learning Capstone</div>
+  <h2>The Hunter — <span class="grad">Automated Email Phishing Defense</span></h2>
+  <p class="muted" style="margin-bottom:16px">A fully autonomous 3-agent AI cybersecurity pipeline achieving 97%+ phishing detection accuracy with cross-session threat memory.</p>
+  <div class="two-col">
+    <div>
+      <h3>Three-Agent Architecture</h3>
+      <div class="pipeline" style="font-size:0.75rem">AGENT 1 — Scanner &amp; Feature Extractor
+  • Reads headers, body, URLs, sender domain
+  • Extracts 15+ features per email
+  • Passes feature vector → Agent 2
+        ↓
+AGENT 2 — Classifier &amp; Escalation Engine
+  • BiLSTM + Random Forest Ensemble
+  • ≥0.85 → Auto-quarantine (no human)
+  • 0.50–0.84 → Escalate to analyst
+  • &lt;0.50 → Clear to inbox
+        ↓
+AGENT 3 — Repeat Offender Memory
+  • Persistent SQLite threat database
+  • Survives session restarts
+  • Elevates score for known bad domains</div>
+    </div>
+    <div>
+      <h3>Performance Metrics</h3>
+      <table>
+        <tr><th>Metric</th><th>Score</th></tr>
+        <tr><td>Detection Accuracy</td><td><strong style="color:var(--green)">97%+</strong></td></tr>
+        <tr><td>Precision</td><td>96.8%</td></tr>
+        <tr><td>Recall</td><td>97.4%</td></tr>
+        <tr><td>F1-Score</td><td>97.1%</td></tr>
+        <tr><td>Auto-Quarantine Rate</td><td>89% without human</td></tr>
+        <tr><td>Cross-Session Memory</td><td>100% repeat recognition</td></tr>
+      </table>
+      <h3 style="margin-top:16px">Tech Stack</h3>
+      <div><span class="tag">CrewAI</span><span class="tag">BiLSTM</span><span class="tag">Random Forest</span><span class="tag">PyTorch</span><span class="tag">SQLite</span><span class="tag">React</span><span class="tag">Vite</span></div>
+    </div>
+  </div>
+  <hr class="divider">
+  <div class="card-grid" style="margin-top:0">
+    <div class="card"><strong style="color:var(--accent)">Agentic Behavior 1</strong><p class="muted" style="margin-top:6px;font-size:0.85rem">Agent 2 autonomously escalates borderline cases (conf. 0.50–0.84) — no hardcoded rules, the agent decides independently based on model confidence.</p></div>
+    <div class="card"><strong style="color:var(--accent2)">Agentic Behavior 2</strong><p class="muted" style="margin-top:6px;font-size:0.85rem">Agent 3's SQLite memory persists across sessions — repeat offenders are recognized and auto-elevated even after program restarts.</p></div>
+    <div class="card"><strong style="color:var(--green)">Dataset</strong><p class="muted" style="margin-top:6px;font-size:0.85rem">Trained on Alam Phishing Dataset — 18,000+ labeled phishing &amp; legitimate emails. Ensemble of BiLSTM (sequential) + Random Forest (structured features).</p></div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════
+     SLIDE 4 — PPE DETECTION
+═══════════════════════════════════════════ -->
+<div class="slide" id="slide-4">
+  <div class="label">🥈 Most Significant Project 2 · ITAI-1378 Computer Vision Capstone</div>
+  <h2>Workplace Safety <span class="grad">PPE Detection System</span></h2>
+  <p class="muted" style="margin-bottom:16px">Real-time YOLOv8 system detecting 10 PPE categories at 66 FPS — enabling automated safety compliance monitoring on live camera feeds.</p>
+  <div class="two-col">
+    <div>
+      <h3>Detection Pipeline</h3>
+      <div class="pipeline" style="font-size:0.75rem">Live Camera / Video Feed
+         ↓
+PREPROCESSING
+  • Normalize frames to 640×640
+  • Mosaic augmentation (training)
+  • Color jitter + scale transforms
+         ↓
+YOLOv8 CUSTOM-TRAINED MODEL
+  • Backbone: CSPDarknet + C2f
+  • Transfer learning from COCO
+  • 100 epochs · Batch 16 · 640px
+         ↓
+10-CLASS OUTPUT
+  Hardhat ✓ | No-Hardhat ✗
+  Safety Vest ✓ | No-Vest ✗
+  Gloves ✓ | No-Gloves ✗
+  Safety Boots ✓ | No-Boots ✗
+  Person (worker) | Machinery</div>
+    </div>
+    <div>
+      <h3>Performance Metrics</h3>
+      <table>
+        <tr><th>Metric</th><th>Score</th></tr>
+        <tr><td>mAP@50 (Primary)</td><td><strong style="color:var(--green)">77.1%</strong></td></tr>
+        <tr><td>mAP@50:95</td><td>48.3%</td></tr>
+        <tr><td>Inference Speed</td><td><strong style="color:var(--accent)">66 FPS</strong></td></tr>
+        <tr><td>Precision</td><td>80.2%</td></tr>
+        <tr><td>Recall</td><td>72.6%</td></tr>
+        <tr><td>Training Epochs</td><td>100</td></tr>
+        <tr><td>Classes Detected</td><td>10 PPE categories</td></tr>
+      </table>
+      <h3 style="margin-top:16px">Tech Stack</h3>
+      <div><span class="tag">YOLOv8</span><span class="tag">PyTorch</span><span class="tag">OpenCV</span><span class="tag">Ultralytics</span><span class="tag">Google Colab</span></div>
+    </div>
+  </div>
+  <hr class="divider">
+  <div class="card-grid" style="margin-top:0">
+    <div class="card"><strong style="color:var(--accent)">Real-Time at 66 FPS</strong><p class="muted" style="margin-top:6px;font-size:0.85rem">Far exceeds the 30 FPS threshold needed for smooth live monitoring — suitable for continuous safety compliance on actual worksite cameras.</p></div>
+    <div class="card"><strong style="color:var(--accent2)">Compliance Pair Detection</strong><p class="muted" style="margin-top:6px;font-size:0.85rem">Detects both presence (Hardhat ✓) and absence (No-Hardhat ✗) as separate classes — enabling automatic violation flagging in a single inference pass.</p></div>
+    <div class="card"><strong style="color:var(--green)">Transfer Learning</strong><p class="muted" style="margin-top:6px;font-size:0.85rem">Fine-tuned from COCO-pretrained YOLOv8 weights using 5,000+ labeled construction safety images across 10 PPE categories.</p></div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════
+     SLIDE 5 — SKILLS & CONTACT
+═══════════════════════════════════════════ -->
+<div class="slide" id="slide-5">
+  <div class="label">Skills &amp; Reflection</div>
+  <h2>Technical <span class="grad">Competencies</span> &amp; Next Steps</h2>
+  <div class="two-col">
+    <div>
+      <h3>Core AI Skills</h3>
+      <div style="margin-top:8px">
+        <p style="font-size:0.85rem;margin-bottom:2px">Deep Learning (PyTorch / TensorFlow)</p>
+        <div class="skill-bar"><div class="skill-fill" style="width:95%"></div></div>
+        <p style="font-size:0.85rem;margin-bottom:2px">Computer Vision (OpenCV / YOLOv8)</p>
+        <div class="skill-bar"><div class="skill-fill" style="width:90%"></div></div>
+        <p style="font-size:0.85rem;margin-bottom:2px">NLP &amp; Transformers (BERT / Hugging Face)</p>
+        <div class="skill-bar"><div class="skill-fill" style="width:80%;background:linear-gradient(90deg,var(--accent2),#c084fc)"></div></div>
+        <p style="font-size:0.85rem;margin-bottom:2px">Multi-Agent AI (CrewAI)</p>
+        <div class="skill-bar"><div class="skill-fill" style="width:82%;background:linear-gradient(90deg,var(--accent2),var(--accent))"></div></div>
+        <p style="font-size:0.85rem;margin-bottom:2px">Generative AI (DDPM / GANs)</p>
+        <div class="skill-bar"><div class="skill-fill" style="width:72%;background:linear-gradient(90deg,var(--gold),#f97316)"></div></div>
+        <p style="font-size:0.85rem;margin-bottom:2px">Reinforcement Learning</p>
+        <div class="skill-bar"><div class="skill-fill" style="width:70%;background:linear-gradient(90deg,var(--green),var(--accent))"></div></div>
+      </div>
+    </div>
+    <div>
+      <h3>Future Goals</h3>
+      <table>
+        <tr><th>Goal</th></tr>
+        <tr><td>🧠 Deep Q-Networks (DQN) — neural RL</td></tr>
+        <tr><td>🎨 Stable Diffusion fine-tuning</td></tr>
+        <tr><td>🤖 Multi-modal agents (vision + NLP)</td></tr>
+        <tr><td>☁️ Cloud deployment — AWS / GCP CI/CD</td></tr>
+        <tr><td>📝 Domain-specific LLM fine-tuning</td></tr>
+      </table>
+      <div class="quote" style="margin-top:16px">"The Hunter and the PPE system are not just coursework — they are proof that I can build AI that works in the real world."</div>
+    </div>
+  </div>
+  <hr class="divider">
+  <div style="display:flex;gap:20px;flex-wrap:wrap;align-items:center;justify-content:space-between">
+    <div>
+      <p style="font-weight:700;font-size:1.1rem">Chloe Tu <span class="muted" style="font-weight:400">— Applied AI &amp; Robotics, A.A.S.</span></p>
+      <p class="muted" style="font-size:0.9rem">Houston City College</p>
+    </div>
+    <div style="display:flex;gap:16px;flex-wrap:wrap">
+      <div class="card" style="padding:12px 20px;margin:0"><span class="icon">📧</span> cocobuttertutu@gmail.com</div>
+      <div class="card" style="padding:12px 20px;margin:0"><span class="icon">💼</span> linkedin.com/in/chloe-tu-489532391</div>
+      <div class="card" style="padding:12px 20px;margin:0"><span class="icon">🔗</span> github.com/Chloe-Tu2</div>
+    </div>
+  </div>
+</div>
+
+<script>
+  const slides = document.querySelectorAll('.slide');
+  let cur = 0;
+  function show(i) {
+    cur = Math.max(0, Math.min(slides.length - 1, i));
+    slides.forEach((s, idx) => s.style.display = idx === cur ? 'flex' : 'none');
+    document.getElementById('counter').textContent = `Slide ${cur + 1} / ${slides.length}`;
+  }
+  function next() { show(cur + 1); }
+  function prev() { show(cur - 1); }
+  document.addEventListener('keydown', e => { if (e.key === 'ArrowRight' || e.key === 'ArrowDown') next(); if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') prev(); });
+  // On print, show all slides
+  window.addEventListener('beforeprint', () => slides.forEach(s => s.style.display = 'flex'));
+  window.addEventListener('afterprint', () => show(cur));
+  show(0);
+</script>
+</body>
+</html>
