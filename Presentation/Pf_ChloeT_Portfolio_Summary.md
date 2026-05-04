@@ -82,8 +82,8 @@ Year 1 ────────────────────────�
 **Course:** ITAI-2376 Deep Learning | **Type:** Capstone — Final Project
 **GitHub:** [View Full Project →](https://github.com/Chloe-Tu2/Deep-Learning-ITAI2376/The-Hunter)
 
-![The Hunter Interface](hunter_interface.png)
 
+![hunter_interface](./visualizations/hunter_interface.png)
 ---
 
 #### Problem Statement
