@@ -80,7 +80,6 @@ Year 1 ────────────────────────�
 
 ### 🏆 PROJECT 1: The Hunter — Automated Email Phishing Defense & Detection System
 **Course:** ITAI-2376 Deep Learning | **Type:** Capstone — Final Project
-**GitHub:** [View Full Project - ](./Deep-Learning-ITAI2376/The-Hunter-Automated-Email-Phishing-Defense-Detection-System)
 
 
 ![hunter_interface](./visualizations/hunter_interface.png)
@@ -170,7 +169,6 @@ The Hunter is not just a classifier — it is a **production-ready autonomous cy
 
 ### 🥈 PROJECT 2: Workplace Safety PPE Detection System
 **Course:** ITAI-1378 Computer Vision | **Type:** Capstone — Final Project
-**GitHub:** [View Full Project →](https://github.com/Chloe-Tu2/Computer-Vision-ITAI1378/PPE-Detection)
 
 
 ![PPE Detection](./visualizations/val_batch0_pred.jpg)
