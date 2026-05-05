@@ -299,7 +299,7 @@ AI-Portfolio-Chloe-Tu/
 │   │   ├── Portfolio_Slideshow.html                 # HTML slideshow presentation
 │   │   ├── hunter_interface.png                     # The Hunter web app screenshot
 │   │   └── val_batch0_pred.jpg                      # PPE detection output sample
-│   ├── PRESENTATION_README.md                       # 5-slide portfolio presentation (Markdown)
+│   ├── README.md                                    # 5-slide portfolio presentation (Markdown)
 │   ├── NLP-Natural-Language-Processing-ITAI2373-Portfolio-summary.txt
 │   ├── Pf_ChloeT_Portfolio_Summary_ITAI_2376.md     # Portfolio summary document
 │   └── Pf_Chloe_Tu_Portfolio_Summary_ITAI_2376.pdf  # Portfolio summary (PDF submission)
