@@ -467,6 +467,25 @@ Projects like Project Heptapod (alien language via BERT), the Film Noir image re
 
 ---
 
+## Repository Structure
+
+```text
+Presentation/                                    # Final Portfolio Presentation
+│
+├── visualizations/                              # Images used in presentation
+├── Portfolio_Overview.html                      # HTML portfolio overview page
+├── Portfolio_Slideshow.html                     # HTML slideshow presentation
+├── hunter_interface.png                         # The Hunter web app screenshot
+│   └── val_batch0_pred.jpg                      # PPE detection output sample
+├── README.md                                    # 5-slide portfolio presentation (Markdown)
+├── NLP-Natural-Language-Processing-ITAI2373-Portfolio-summary.txt
+├── Pf_ChloeT_Portfolio_Summary_ITAI_2376.md     # Portfolio summary document
+└── Pf_Chloe_Tu_Portfolio_Summary_ITAI_2376.pdf  # Portfolio summary (PDF submission)
+
+```
+
+---
+
 **File:** `PRESENTATION_README.md`  
 **Companion PDF:** `Pf_Chloe_Tu_Portfolio_Summary_ITAI_2376.pdf`  
 **GitHub:** [github.com/Chloe-Tu2](https://github.com/Chloe-Tu2)
