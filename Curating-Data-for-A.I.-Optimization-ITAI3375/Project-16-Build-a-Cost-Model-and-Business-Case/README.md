@@ -1,5 +1,11 @@
 # Project 16 — Build a Cost Model and Business Case
 
+![Cost Model](https://img.shields.io/badge/artifact-Cost_Model-9cf.svg)
+![Business Case](https://img.shields.io/badge/topic-Business_Case-orange.svg)
+![Excel](https://img.shields.io/badge/tool-Excel-217346.svg)
+![ROI](https://img.shields.io/badge/focus-ROI-green.svg)
+![Financial Modeling](https://img.shields.io/badge/domain-Financial_Modeling-blueviolet.svg)
+
 ## Project Overview
 
 This project builds a cost model for a data curation initiative and wraps it in a business case that justifies the investment. The cost model is an Excel workbook with line-item costs; the business case is a written document that connects those costs to measurable business outcomes.
