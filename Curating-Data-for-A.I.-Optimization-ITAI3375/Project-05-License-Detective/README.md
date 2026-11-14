@@ -1,5 +1,10 @@
 # Project 05 — License Detective
 
+![License](https://img.shields.io/badge/topic-License_Detection-9cf.svg)
+![Compliance](https://img.shields.io/badge/focus-Compliance-orange.svg)
+![SPDX](https://img.shields.io/badge/standard-SPDX-blueviolet.svg)
+![PDF](https://img.shields.io/badge/format-PDF-red.svg)
+
 ## Project Overview
 
 This project investigates the licensing status of a dataset or data artifact by tracing the full chain of provenance—from original sources through any transformations, aggregations, or redistributions—to determine what a downstream user is actually permitted to do.
