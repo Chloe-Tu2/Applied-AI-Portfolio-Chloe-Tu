@@ -74,3 +74,35 @@ Any downstream model or analysis needs these scores on a single numeric scale. N
 | `data/` | Instructions for obtaining source CSVs (~243 MB; not committed) |
 
 ## Project Structure
+```
+Midterm/
+├── README.md
+├── Midterm_Project_Curation_Plan_and_Pilot_Chloe_Kaire_ITAI_3375.pdf
+├── Midterm_Presentation_ITAI3375.pdf
+├── Rotten_tomatoes_pilot_ITAI_3375.ipynb
+├── pilot_output/
+│   ├── pilot_cleaned_school.csv
+│   ├── pilot_cleaned_site_aligned.csv
+│   ├── pilot_rejects_school.csv
+│   ├── pilot_rejects_site_aligned.csv
+│   ├── pilot_report_school.json
+│   ├── pilot_report_site_aligned.json
+│   ├── manual_audit_sample.csv
+│   └── README.md
+└── data/
+└── README.md
+```
+
+## Dependencies / Requirements
+
+- Python 3.x, pandas, numpy, kagglehub, matplotlib
+- Google Colab or Jupyter with internet access (for Kaggle download)
+- Kaggle credentials (for `kagglehub.dataset_download`)
+
+## Data Access
+
+Dataset: [Rotten Tomatoes Movies and Critic Reviews](https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset) by stefanoleone992 on Kaggle. License: CC0 1.0 (public domain). The notebook downloads data automatically via `kagglehub`; a local fallback path is provided. Full source CSVs (~243 MB) are not stored in this repository — see `data/README.md`. All pilot outputs are under `pilot_output/`.
+
+## Course Context
+
+**ITAI 3375 – Curating Data for A.I. Optimization**, Houston City College, Applied AI & Robotics program. This was the midterm project (team of two: Chloe Tu and Kaire Campomanes). The assignment required a full curation plan for a real dataset and a working pilot that tested the plan's riskiest assumption.
