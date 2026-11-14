@@ -1,5 +1,11 @@
 # Project 11 — Build and Evaluate a Small Knowledge Base
 
+![Knowledge Base](https://img.shields.io/badge/artifact-Knowledge_Base-9cf.svg)
+![Retrieval](https://img.shields.io/badge/topic-Retrieval-orange.svg)
+![RAG](https://img.shields.io/badge/architecture-RAG-blueviolet.svg)
+![Evaluation](https://img.shields.io/badge/method-Evaluation-green.svg)
+![PDF](https://img.shields.io/badge/format-PDF-red.svg)
+
 ## Project Overview
 
 This project builds a small knowledge base (KB) from scratch—a structured collection of entities, relationships, and facts—and then evaluates its quality by testing coverage, accuracy, and internal consistency.
