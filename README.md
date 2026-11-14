@@ -33,7 +33,7 @@ I am an **Applied AI student at Houston City College**, with a focus in **Comput
 
 This portfolio was created as part of the **Applied AI and Robotics program** at **Houston City College**. It represents a collection of projects demonstrating skills in artificial intelligence, machine learning, natural language processing, computer vision, autonomous AI systems, and the curation of data as a managed asset for AI.
 
-* **Degree Program:** Artificial Intelligence, A.A.S.
+* **Degree Program:** Artificial Intelligence, A.A.S. Artificial Intelligence & Robotics, B.A.T.
 * **Institution:** Houston City College
 
 ---
