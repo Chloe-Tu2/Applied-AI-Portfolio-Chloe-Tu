@@ -29,7 +29,7 @@ This repository documents a full semester of applied data curation work complete
 | Failure reported | First letter-grade mapping agreed with the site's own Fresh/Rotten label only **64.5 %** of the time—reported as a failure, not hidden |
 | Deliverables | Full curation plan PDF, presentation PDF, working pilot notebook, pilot outputs |
 
-→ **[View the Midterm project folder](./Rotten-Tomatoes-Curation-Plan/Midterm/)**
+→ **[View the Midterm project folder](./Rotten-Tomatoes-Curation-Plan-and-Pilot/Midterm/)**
 
 ## Project Directory
 
@@ -68,8 +68,8 @@ This repository documents a full semester of applied data curation work complete
 ### Capstone workstream
 | Folder | Description |
 |--------|-------------|
-| [Rotten-Tomatoes-Curation-Plan](./Rotten-Tomatoes-Curation-Plan/) | Outer folder for the Rotten Tomatoes line of work (Midterm complete; Final upcoming) |
-| [Midterm](./Rotten-Tomatoes-Curation-Plan/Midterm/) | Full plan, presentation, notebook, and pilot outputs |
+| [Rotten-Tomatoes-Curation-Plan](./Rotten-Tomatoes-Curation-Plan-and-Pilot/) | Outer folder for the Rotten Tomatoes line of work (Midterm complete; Final upcoming) |
+| [Midterm](./Rotten-Tomatoes-Curation-Plan-and-Pilot/Midterm/) | Full plan, presentation, notebook, and pilot outputs |
 
 ## Notebooks & Technical Artifacts Overview
 
@@ -190,4 +190,4 @@ Curating-Data-for-AI-Optimization-ITAI3375/
 
 ## How to Navigate
 
-If you are a recruiter or interviewer, start with the **[Midterm folder](./Rotten-Tomatoes-Curation-Plan/Midterm/)** — it is the most substantial piece and demonstrates end-to-end curation thinking with real data and honest failure reporting. Then look at **[Project-08](Project-08-Run-a-Full-Quality-Audit/)** (quality audit with quantified findings), **[Project-14](Project-14-Build-a-Governance-and-Compliance-Plan/)** (governance planning), and **[Project-07](Project-07-Build-a-Complete-Data-Sheet/)** (data sheet documentation). These four artifacts together show data judgment, technical execution, and professional documentation.
+If you are a recruiter or interviewer, start with the **[Midterm folder](./Rotten-Tomatoes-Curation-Plan-and-Pilot/Midterm/)** — it is the most substantial piece and demonstrates end-to-end curation thinking with real data and honest failure reporting. Then look at **[Project-08](Project-08-Run-a-Full-Quality-Audit/)** (quality audit with quantified findings), **[Project-14](Project-14-Build-a-Governance-and-Compliance-Plan/)** (governance planning), and **[Project-07](Project-07-Build-a-Complete-Data-Sheet/)** (data sheet documentation). These four artifacts together show data judgment, technical execution, and professional documentation.
