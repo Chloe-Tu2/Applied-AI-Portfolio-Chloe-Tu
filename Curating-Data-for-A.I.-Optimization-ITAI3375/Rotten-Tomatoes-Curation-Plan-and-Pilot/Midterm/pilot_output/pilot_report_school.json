@@ -1,0 +1,28 @@
+{
+ "letter_map": "school",
+ "sample_n": 50000,
+ "status_counts": {
+  "ok": 36203,
+  "missing_score": 13722,
+  "bare_number_unknown_scale": 64,
+  "no_movie_match": 7,
+  "numerator_exceeds_denominator": 4
+ },
+ "kept_rows": 36203,
+ "kept_pct": 72.4,
+ "agreement_with_label_pct": 89.7,
+ "agreement_fractions_pct": 94.4,
+ "agreement_letter_grades_pct": 64.5,
+ "kept_pct_by_era": {
+  "before 1970": 67.9,
+  "1970s and 80s": 72.7,
+  "1990s": 73.3,
+  "2000s": 74.8,
+  "2010s and later": 71.3
+ },
+ "kept_pct_by_top_critic": {
+  "false": 75.2,
+  "true": 64.2
+ },
+ "sample_rows_with_unknown_release_year": 1074
+}
