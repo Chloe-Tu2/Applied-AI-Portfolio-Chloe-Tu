@@ -1,0 +1,26 @@
+source_file,job_title,organization,location,pay,skills
+job_posting_01.txt,Cloud Security Manager - Azure Infrastructure & AI,Deloitte,"Houston, TX","$107,000 - $142,000","Python, AWS, and CI/CD pipelines"
+job_posting_02.txt,Lead Software Engineer - Cloud/Python,JPMorgan Chase,"Houston, TX","$103,000 - $138,000","MLOps, Docker, Kubernetes, and TensorFlow"
+job_posting_03.txt,Cloud Security Engineer,"Greenberg Traurig, LLP","Greenberg Traurig, LL","$100,000 - $135,000",
+job_posting_04.txt,Cloud Engineer,Chevron,"Houston, TX",,"cloud migration, Python scripting, and system architecture"
+job_posting_05.txt,Cloud / DevOps Engineer (Azure),VC5 Consulting,"Houston, TX","$137,000 - $172,000","SQL, data governance, and stakeholder communication"
+job_posting_06.txt,Cloud & Hybrid Infrastructure Lead,Alvarez & Marsal,"Houston, TX","$114,000 - $149,000","Python, AWS, and CI/CD pipelines"
+job_posting_07.txt,Platform Engineer - AI & Automation Platform,Cognizant,"Houston, TX","$116,000 - $151,000","MLOps, Docker, Kubernetes, and TensorFlow"
+job_posting_08.txt,Cloud Infrastructure Architect,Infosys,"Houston, TX","$92,000 - $127,000","Python, AWS, and CI/CD pipelines"
+job_posting_09.txt,AI Solutions Engineer,Affirm,"Houston, TX",,"Azure infrastructure, threat modeling, and generative AI security"
+job_posting_10.txt,AI/ML Engineer,Bain & Company,,"$110,000 - $145,000","cloud migration, Python scripting, and system architecture"
+job_posting_11.txt,"Customer Engineer III, Cloud AI",Google,"Houston, TX","$107,000 - $142,000","Azure infrastructure, threat modeling, and generative AI security"
+job_posting_12.txt,Azure Infrastructure Engineer,Corebridge Financial,"Houston, TX","$110,000 - $145,000","MLOps, Docker, Kubernetes, and TensorFlow"
+job_posting_13.txt,MLOps Engineer,DPR Construction,"Houston, TX","$119,000 - $154,000",
+job_posting_14.txt,AI/ML & MLOps Engineer,Harvey Nash,"Houston, TX","$92,000 - $127,000","Azure infrastructure, threat modeling, and generative AI security"
+job_posting_15.txt,AI Engineer,Chevron,"Houston, TX",,"MLOps, Docker, Kubernetes, and TensorFlow"
+job_posting_16.txt,AI/ML Engineer,Slalom,"Houston, TX","$113,000 - $148,000","Azure infrastructure, threat modeling, and generative AI security"
+job_posting_17.txt,Azure AI/ML Architect,Smart IT Frame,"Houston, TX","$129,000 - $164,000","cloud migration, Python scripting, and system architecture"
+job_posting_18.txt,Gen AI/ML Solution Architect,Marencor,"Houston, TX","$137,000 - $172,000","Python, AWS, and CI/CD pipelines"
+job_posting_19.txt,AI Architect,Expert Technology Services,,"$135,000 - $170,000","cloud migration, Python scripting, and system architecture"
+job_posting_20.txt,AI Architect,ZEUS SOLUTIONS INC,"Houston, TX","$125,000 - $160,000","Azure infrastructure, threat modeling, and generative AI security"
+job_posting_21.txt,Cloud Operations Specialist,Sysco,"Houston, TX","$90,000 - $125,000","MLOps, Docker, Kubernetes, and TensorFlow"
+job_posting_22.txt,"Solution Architect, Cloud and AI",Long View Systems,"Houston, TX","$140,000 - $175,000",
+job_posting_23.txt,Cloud Software Engineer,Schlumberger,"Houston, TX","$112,000 - $147,000","cloud migration, Python scripting, and system architecture"
+job_posting_24.txt,Entry Level AWS Programmer,M & D Mechanical Contractors,"Houston, TX","$116,000 - $151,000","Azure infrastructure, threat modeling, and generative AI security"
+job_posting_25.txt,Cloud Infrastructure Architect - Senior,Infosys,"Houston, TX","$96,000 - $131,000","MLOps, Docker, Kubernetes, and TensorFlow"
