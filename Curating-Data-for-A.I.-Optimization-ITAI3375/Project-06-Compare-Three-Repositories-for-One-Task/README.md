@@ -1,5 +1,10 @@
 # Project 06 — Compare Three Repositories for One Task
 
+![Repository Comparison](https://img.shields.io/badge/topic-Repository_Comparison-9cf.svg)
+![Source Selection](https://img.shields.io/badge/focus-Source_Selection-orange.svg)
+![Decision Framework](https://img.shields.io/badge/method-Decision_Framework-blueviolet.svg)
+![PDF](https://img.shields.io/badge/format-PDF-red.svg)
+
 ## Project Overview
 
 This project compares three different data repositories (e.g., Kaggle, Hugging Face, UCI ML Repository, government data portals) as sources for a single machine learning task. The comparison evaluates each repository on data quality, documentation, licensing, ease of access, and fitness for the intended purpose.
