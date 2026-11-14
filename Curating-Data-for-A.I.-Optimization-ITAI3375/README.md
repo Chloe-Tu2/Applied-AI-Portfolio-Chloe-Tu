@@ -1,5 +1,16 @@
 # Curating Data for A.I. Optimization — ITAI 3375
 
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![pandas](https://img.shields.io/badge/library-pandas-150458.svg)
+![Jupyter](https://img.shields.io/badge/tool-Jupyter-F37626.svg)
+![Kaggle](https://img.shields.io/badge/platform-Kaggle-20BEFF.svg)
+![Excel](https://img.shields.io/badge/tool-Excel-217346.svg)
+![Data Curation](https://img.shields.io/badge/topic-Data_Curation-9cf.svg)
+![FAIR](https://img.shields.io/badge/principle-FAIR-blueviolet.svg)
+![Quality Audit](https://img.shields.io/badge/topic-Quality_Audit-orange.svg)
+![Governance](https://img.shields.io/badge/topic-Governance-4B0082.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 ## Course Overview
 
 This repository documents a full semester of applied data curation work completed for **ITAI 3375 – Curating Data for A.I. Optimization** at Houston City College, part of the Applied AI & Robotics program. The course treats data not as a passive input to machine learning but as a managed asset with its own lifecycle, quality requirements, licensing constraints, and financial value. Students learn to profile, audit, license-check, document, and govern datasets so they are defensible and genuinely usable for AI systems. Every project in this portfolio reflects a real curation decision—what to keep, what to reject, what to document, and what to report honestly when things fail.
