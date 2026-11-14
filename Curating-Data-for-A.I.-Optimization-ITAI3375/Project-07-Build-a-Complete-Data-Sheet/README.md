@@ -1,5 +1,10 @@
 # Project 07 — Build a Complete Data Sheet
 
+![Data Sheet](https://img.shields.io/badge/artifact-Data_Sheet-9cf.svg)
+![Documentation](https://img.shields.io/badge/topic-Documentation-orange.svg)
+![Datasheets for Datasets](https://img.shields.io/badge/standard-Datasheets_for_Datasets-blueviolet.svg)
+![PDF](https://img.shields.io/badge/format-PDF-red.svg)
+
 ## Project Overview
 
 This project produces a complete data sheet for a dataset, following structured documentation standards. A data sheet is a permanent record of what a dataset contains, how it was collected, who created it, what it should and should not be used for, and what its known limitations are.
