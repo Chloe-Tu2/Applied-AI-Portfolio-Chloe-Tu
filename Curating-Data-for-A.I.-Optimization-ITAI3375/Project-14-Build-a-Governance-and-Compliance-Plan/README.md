@@ -1,5 +1,11 @@
 # Project 14 — Build a Governance and Compliance Plan
 
+![Governance](https://img.shields.io/badge/topic-Governance-4B0082.svg)
+![Compliance](https://img.shields.io/badge/focus-Compliance-orange.svg)
+![Data Policy](https://img.shields.io/badge/artifact-Data_Policy-9cf.svg)
+![Risk Management](https://img.shields.io/badge/topic-Risk_Management-red.svg)
+![PDF](https://img.shields.io/badge/format-PDF-red.svg)
+
 ## Project Overview
 
 This project creates a governance and compliance plan for an AI data operation. The plan covers data classification, access controls, retention policies, compliance with relevant regulations, audit procedures, and incident response for data quality failures.
