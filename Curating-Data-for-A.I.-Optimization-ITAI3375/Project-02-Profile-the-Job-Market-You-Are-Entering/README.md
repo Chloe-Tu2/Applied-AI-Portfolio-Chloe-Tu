@@ -1,4 +1,8 @@
 # Project 02 — Profile the Job Market You Are Entering
+![Job Market](https://img.shields.io/badge/topic-Job_Market-9cf.svg)
+![Career Research](https://img.shields.io/badge/focus-Career_Research-orange.svg)
+![Data Roles](https://img.shields.io/badge/domain-Data_Roles-blueviolet.svg)
+![PDF](https://img.shields.io/badge/format-PDF-red.svg)
 
 ## Project Overview
 
