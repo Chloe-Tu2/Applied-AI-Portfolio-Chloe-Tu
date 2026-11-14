@@ -257,18 +257,95 @@ AI-Portfolio-Chloe-Tu/
 │
 ├── Deep-Learning-ITAI2376/
 │   ├── The-Hunter-Automated-Email-Phishing-Defense-Detection-System/  # Capstone
-│   ├── Project-01-... through Project-09-...
-│   └── README.md
+│   │   ├── notebooks/                    # Training & demo notebooks
+│   │   ├── app/                          # React web application
+│   │   ├── data/                         # Datasets
+│   │   ├── models/                       # Trained model files
+│   │   ├── results/
+│   │   │   ├── demo_visualizations/      # Pipeline screenshots
+│   │   │   └── notebook_visualizations/  # Training charts
+│   │   ├── docs/                         # Documentation
+│   │   ├── requirements.txt
+│   │   └── README.md
+│   │
+│   ├── Project-01-A-Comparative-Analysis-of-Machine-Learning-and-Deep-Learning-Tools-and-Frameworks/
+│   │   ├── P01_A-Comparative-Analysis-of-Machine-Learning-and-Deep-Learning-Tools-and-Frameworks.pdf
+│   │   └── README.md
+│   │
+│   ├── Project-02-Neural-Network-Zoo/
+│   │   ├── P02_Neural-Network-Zoo.pptx
+│   │   ├── P02_Neural-Network-Zoo.pdf
+│   │   ├── P02_Neural-Network-Zoo-Mantis-Shrimp-D-Rotational-Video-Showcase.mp4
+│   │   ├── Results-&-Visualizations/     # 12 slide screenshots
+│   │   ├── Convoshrimp/                  # Interactive web app
+│   │   └── README.md
+│   │
+│   ├── Project-03-Neural-Networks-from-Scratch-to-Frameworks/
+│   │   ├── P03_Neural-Networks-from-Scratch-to-Frameworks.ipynb
+│   │   ├── P03_Neural-Networks-from-Scratch-to-Frameworks.pdf
+│   │   ├── Results-&-Visualizations/     # Fashion-MNIST & loss curves
+│   │   └── README.md
+│   │
+│   ├── Project-04-Deep-Learning-for-an-11-year-old/
+│   │   ├── P04_Deep-Learning-for-an-11-year-old.pdf
+│   │   ├── Results-&-Visualizations/     # 15 character illustrations
+│   │   ├── Neural-Network-Squad/         # Interactive web app
+│   │   └── README.md
+│   │
+│   ├── Project-05-CNN-Puppy-or-Bagel/
+│   │   ├── P05_CNN-Puppy-or-Bagel.ipynb
+│   │   ├── P05_CNN-Puppy-or-Bagel.pdf
+│   │   ├── Results-&-Visualizations/     # Confusion matrix, predictions, loss curves
+│   │   └── README.md
+│   │
+│   ├── Project-06-Analyzing-Arrival-Through-the-Lens-of-NLP/
+│   │   ├── P06_ARRIVAL_HEPTAPOD_LAB.ipynb
+│   │   ├── P06_ARRIVAL_HEPTAPOD_LAB.ipynb-Colab.pdf
+│   │   ├── P06_Analyzing-Arrival-Through-the-Lens-of-NLP.pdf
+│   │   ├── Results-&-Visualizations/     # 11 attention maps & logograms
+│   │   └── README.md
+│   │
+│   ├── Project-07-RNNs-vs-Transformers-vs-Vision-Transformers/
+│   │   ├── P07_RNNs-vs-Transformers-vs-Vision-Transformers.ipynb
+│   │   ├── P07_RNNs-vs-Transformers-vs-Vision-Transformers.pdf
+│   │   ├── Results-&-Visualizations/     # 12 visualizations incl. deer/frog/bird/truck attention maps
+│   │   └── README.md
+│   │
+│   ├── Project-08-Diffusion-Models/
+│   │   ├── P08_Diffusion-Models.ipynb
+│   │   ├── P08_Diffusion-Models.pdf
+│   │   ├── Results-&-Visualizations/     # 25 generation & training visualizations
+│   │   └── README.md
+│   │
+│   └── Project-09-Teach-an-Agent-to-Balance-a-Pole/
+│       ├── P09_Teach-an-Agent-to-Balance-a-Pole.ipynb
+│       ├── P09_Teach-an-Agent-to-Balance-a-Pole.pdf
+│       ├── Results-&-Visualizations/     # Q-Learning training curves & epsilon decay
+│       └── README.md
 │
 ├── Computer-Vision-ITAI1378/
-│   ├── Workplace-Safety-PPE-Detection-System/       # Capstone
-│   ├── Project-01-... through Project-09-...
-│   └── README.md
+│   ├── Workplace-Safety-PPE-Detection-System/       # Capstone — Object Detection
+│   │   ├── notebooks/                               # Jupyter notebooks
+│   │   ├── models/                                  # Trained YOLOv8 models
+│   │   ├── data/                                    # Dataset and samples
+│   │   ├── results/                                 # Evaluation metrics & visualizations
+│   │   ├── docs/                                    # Documentation & presentations
+│   │   └── README.md
+│   │
+│   ├── Project-01-Exploring-Real-World-Applications-of-Computer-Vision/
+│   ├── Project-02-Image-Processing-Fundamentals/
+│   ├── Project-03-Image-Processing-Adventure-Quest/
+│   ├── Project-04-Comprehensive-Feature-Extraction-&-Algorithm-Comparison/
+│   ├── Project-05-Focused-Image-Classification-with-SVM/
+│   ├── Project-06-Neural-Networks-Chihuahua-or-Muffin/
+│   ├── Project-07-CNN-Chihuahua-or-Muffin/
+│   ├── Project-08-Object-Detection-using-Transfer-learning-and-Pascal-VOC-207-Dataset/
+│   └── Project-09-Visual-Language-Models-(VLMs)/
 │
 ├── NLP-Natural-Language-Processing-ITAI2373/
 │   ├── Module-01 through Module-13/
 │   └── README.md
-│
+│  
 ├── Curating-Data-for-AI-Optimization-ITAI3375/
 │   ├── README.md
 │   ├── Midterm-Rotten-Tomatoes-Curation-Pilot/
@@ -293,8 +370,16 @@ AI-Portfolio-Chloe-Tu/
 │   ├── Project-15-The-Budget-Reduction-Memo/
 │   └── Project-16-Build-a-Cost-Model-and-Business-Case/
 │
-├── Presentation/
-│   └── ...
+├── Presentation/                                    # Final Portfolio Presentation
+│   ├── visualizations/                              # Images used in presentation
+│   │   ├── Portfolio_Overview.html                  # HTML portfolio overview page
+│   │   ├── Portfolio_Slideshow.html                 # HTML slideshow presentation
+│   │   ├── hunter_interface.png                     # The Hunter web app screenshot
+│   │   └── val_batch0_pred.jpg                      # PPE detection output sample
+│   ├── README.md                                    # 5-slide portfolio presentation (Markdown)
+│   ├── NLP-Natural-Language-Processing-ITAI2373-Portfolio-summary.txt
+│   ├── Pf_ChloeT_Portfolio_Summary_ITAI_2376.md     # Portfolio summary document
+│   └── Pf_Chloe_Tu_Portfolio_Summary_ITAI_2376.pdf  # Portfolio summary (PDF submission)
 │
 └── README.md                                        # This file
 ```
