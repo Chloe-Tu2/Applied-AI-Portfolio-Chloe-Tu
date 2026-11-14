@@ -1,0 +1,1001 @@
+id,genre,critic_type,label,review_text,word_count,year
+S0001,Comedy,regular,fresh,a visually striking and well paced picture,7,2018
+S0002,Drama,regular,fresh,funny and surprisingly moving,4,2003
+S0003,Comedy,regular,rotten,style over substance throughout,4,2019
+S0004,Sci-Fi,regular,fresh,funny and surprisingly moving,4,2019
+S0005,Drama,top_critic,fresh,sharp writing carries the story,5,2019
+S0006,Drama,regular,fresh,sharp writing carries the story,5,2020
+S0007,Drama,top_critic,rotten,style over substance throughout,4,2017
+S0008,Sci-Fi,regular,fresh,the lead performance is excellent,5,2016
+S0009,Drama,regular,rotten,the humor falls flat and an uneven film with a weak ending,12,2012
+S0010,Drama,regular,rotten,characters feel thin and unconvincing and the plot drags and loses focus,12,2015
+S0011,Comedy,regular,fresh,funny and surprisingly moving,4,2024
+S0012,Action,regular,rotten,the plot drags and loses focus,6,2024
+S0013,Romance,regular,rotten,the plot drags and loses focus and the humor falls flat,11,2005
+S0014,Horror,regular,rotten,style over substance throughout,4,2013
+S0015,Action,regular,rotten,characters feel thin and unconvincing and too long and too predictable,11,2009
+S0016,Sci-Fi,regular,rotten,too long and too predictable,5,2003
+S0017,Drama,regular,rotten,the plot drags and loses focus,6,2010
+S0018,Documentary,top_critic,fresh,sharp writing carries the story,5,2007
+S0019,Drama,regular,fresh,sharp writing carries the story,5,2015
+S0020,Documentary,regular,rotten,style over substance throughout and characters feel thin and unconvincing,10,2019
+S0021,Drama,regular,rotten,too long and too predictable and the humor falls flat,10,2015
+S0022,Action,top_critic,rotten,the plot drags and loses focus,6,2008
+S0023,Drama,regular,fresh,funny and surprisingly moving,4,2016
+S0024,Drama,top_critic,fresh,sharp writing carries the story,5,2020
+S0025,Animation,regular,fresh,sharp writing carries the story,5,2002
+S0026,Drama,top_critic,fresh,sharp writing carries the story,5,2016
+S0027,Action,regular,rotten,the humor falls flat,4,2021
+S0028,Horror,regular,fresh,funny and surprisingly moving and a warm and confident film,10,2015
+S0029,Romance,regular,fresh,a warm and confident film,5,2002
+S0030,Comedy,regular,fresh,a warm and confident film and funny and surprisingly moving,10,2011
+S0031,Horror,regular,fresh,tight direction and a strong finish and the lead performance is excellent,12,2011
+S0032,Drama,top_critic,fresh,a visually striking and well paced picture,7,2000
+S0033,Animation,regular,fresh,a visually striking and well paced picture,7,2000
+S0034,Action,regular,rotten,an uneven film with a weak ending,7,2023
+S0035,Comedy,regular,fresh,a visually striking and well paced picture,7,2017
+S0036,Drama,top_critic,fresh,funny and surprisingly moving and a warm and confident film,10,2007
+S0037,Romance,regular,rotten,style over substance throughout,4,2008
+S0038,Animation,top_critic,fresh,funny and surprisingly moving and sharp writing carries the story,10,2024
+S0039,Animation,regular,fresh,sharp writing carries the story,5,2021
+S0040,Drama,regular,fresh,sharp writing carries the story,5,2012
+S0041,Drama,regular,fresh,sharp writing carries the story,5,2001
+S0042,Horror,regular,fresh,sharp writing carries the story and a visually striking and well paced picture,13,2008
+S0043,Romance,regular,fresh,funny and surprisingly moving,4,2010
+S0044,Horror,regular,fresh,the lead performance is excellent and a warm and confident film,11,2008
+S0045,Animation,regular,rotten,too long and too predictable,5,2020
+S0046,Documentary,top_critic,rotten,the humor falls flat and an uneven film with a weak ending,12,2007
+S0047,Horror,regular,fresh,a warm and confident film,5,2020
+S0048,Action,regular,fresh,a warm and confident film,5,2006
+S0049,Documentary,regular,rotten,the humor falls flat,4,2001
+S0050,Drama,regular,rotten,style over substance throughout,4,2016
+S0051,Action,regular,fresh,tight direction and a strong finish,6,2002
+S0052,Comedy,regular,fresh,a visually striking and well paced picture,7,2020
+S0053,Animation,regular,rotten,style over substance throughout,4,2010
+S0054,Comedy,regular,fresh,tight direction and a strong finish,6,2020
+S0055,Romance,regular,rotten,the humor falls flat,4,2009
+S0056,Action,regular,fresh,tight direction and a strong finish,6,2011
+S0057,Comedy,regular,rotten,the humor falls flat,4,2015
+S0058,Romance,regular,rotten,the humor falls flat,4,2005
+S0059,Action,regular,fresh,a visually striking and well paced picture and funny and surprisingly moving,12,2023
+S0060,Comedy,regular,fresh,a visually striking and well paced picture,7,2022
+S0061,Drama,regular,rotten,an uneven film with a weak ending,7,2017
+S0062,Action,regular,fresh,funny and surprisingly moving,4,2021
+S0063,Comedy,regular,fresh,sharp writing carries the story,5,2004
+S0064,Sci-Fi,regular,fresh,sharp writing carries the story,5,2003
+S0065,Comedy,top_critic,fresh,a warm and confident film,5,2012
+S0066,Action,top_critic,fresh,a warm and confident film,5,2002
+S0067,Romance,regular,fresh,a visually striking and well paced picture,7,2015
+S0068,Comedy,regular,rotten,the humor falls flat,4,2003
+S0069,Drama,regular,fresh,sharp writing carries the story,5,2000
+S0070,Drama,top_critic,rotten,an uneven film with a weak ending,7,2011
+S0071,Drama,regular,fresh,funny and surprisingly moving and funny and surprisingly moving,9,2019
+S0072,Drama,regular,rotten,the humor falls flat and style over substance throughout,9,2013
+S0073,Documentary,regular,fresh,tight direction and a strong finish,6,2006
+S0074,Action,regular,fresh,sharp writing carries the story and tight direction and a strong finish,12,2020
+S0075,Documentary,regular,fresh,the lead performance is excellent,5,2006
+S0076,Drama,regular,fresh,sharp writing carries the story,5,2004
+S0077,Horror,top_critic,rotten,the humor falls flat,4,2022
+S0078,Drama,regular,fresh,a warm and confident film and funny and surprisingly moving,10,2021
+S0079,Comedy,regular,fresh,tight direction and a strong finish,6,2024
+S0080,Comedy,regular,fresh,a warm and confident film,5,2000
+S0081,Drama,regular,fresh,funny and surprisingly moving,4,2006
+S0082,Drama,regular,rotten,an uneven film with a weak ending,7,2003
+S0083,Action,regular,rotten,the plot drags and loses focus,6,2010
+S0084,Comedy,regular,rotten,characters feel thin and unconvincing,5,2000
+S0085,Action,regular,rotten,the humor falls flat,4,2023
+S0086,Comedy,regular,fresh,a warm and confident film,5,2000
+S0087,Comedy,regular,rotten,style over substance throughout,4,2018
+S0088,Action,regular,fresh,the lead performance is excellent,5,2003
+S0089,Horror,regular,fresh,a visually striking and well paced picture and the lead performance is excellent,13,2017
+S0090,Horror,regular,fresh,a visually striking and well paced picture and sharp writing carries the story,13,2002
+S0091,Documentary,top_critic,fresh,the lead performance is excellent,5,2019
+S0092,Drama,regular,rotten,an uneven film with a weak ending,7,2021
+S0093,Comedy,top_critic,rotten,too long and too predictable,5,2020
+S0094,Drama,regular,rotten,too long and too predictable and too long and too predictable,11,2003
+S0095,Horror,regular,rotten,the plot drags and loses focus,6,2020
+S0096,Comedy,regular,rotten,an uneven film with a weak ending,7,2016
+S0097,Comedy,regular,fresh,a warm and confident film,5,2020
+S0098,Drama,regular,fresh,a warm and confident film,5,2005
+S0099,Comedy,regular,fresh,funny and surprisingly moving,4,2001
+S0100,Comedy,regular,fresh,a visually striking and well paced picture,7,2011
+S0101,Action,regular,fresh,the lead performance is excellent,5,2023
+S0102,Drama,regular,rotten,the plot drags and loses focus,6,2013
+S0103,Horror,regular,rotten,style over substance throughout,4,2018
+S0104,Sci-Fi,top_critic,fresh,sharp writing carries the story,5,2015
+S0105,Drama,top_critic,fresh,a warm and confident film,5,2023
+S0106,Animation,regular,rotten,characters feel thin and unconvincing,5,2003
+S0107,Drama,top_critic,fresh,a warm and confident film,5,2004
+S0108,Drama,regular,fresh,a visually striking and well paced picture,7,2020
+S0109,Action,regular,rotten,too long and too predictable,5,2004
+S0110,Romance,regular,fresh,a warm and confident film,5,2009
+S0111,Documentary,regular,fresh,the lead performance is excellent,5,2023
+S0112,Action,regular,fresh,sharp writing carries the story and sharp writing carries the story,11,2016
+S0113,Sci-Fi,regular,fresh,a warm and confident film,5,2000
+S0114,Drama,regular,fresh,a warm and confident film and the lead performance is excellent,11,2002
+S0115,Horror,top_critic,fresh,sharp writing carries the story,5,2011
+S0116,Comedy,regular,rotten,the humor falls flat,4,2002
+S0117,Documentary,regular,fresh,sharp writing carries the story,5,2023
+S0118,Drama,regular,fresh,tight direction and a strong finish,6,2019
+S0119,Comedy,regular,fresh,sharp writing carries the story,5,2011
+S0120,Action,regular,rotten,too long and too predictable and too long and too predictable,11,2018
+S0121,Comedy,regular,fresh,a warm and confident film and sharp writing carries the story,11,2021
+S0122,Action,regular,fresh,tight direction and a strong finish,6,2004
+S0123,Drama,regular,fresh,a warm and confident film,5,2014
+S0124,Action,regular,fresh,the lead performance is excellent,5,2009
+S0125,Comedy,regular,rotten,style over substance throughout,4,2007
+S0126,Drama,top_critic,fresh,tight direction and a strong finish,6,2012
+S0127,Documentary,regular,fresh,a visually striking and well paced picture,7,2018
+S0128,Action,regular,rotten,an uneven film with a weak ending,7,2007
+S0129,Comedy,regular,fresh,a warm and confident film,5,2013
+S0130,Drama,regular,fresh,a warm and confident film,5,2008
+S0131,Horror,top_critic,fresh,tight direction and a strong finish,6,2003
+S0132,Horror,regular,fresh,sharp writing carries the story,5,2016
+S0133,Comedy,regular,fresh,the lead performance is excellent,5,2015
+S0134,Comedy,top_critic,fresh,funny and surprisingly moving,4,2013
+S0135,Horror,regular,fresh,a warm and confident film,5,2002
+S0136,Animation,regular,fresh,funny and surprisingly moving,4,2000
+S0137,Documentary,regular,fresh,sharp writing carries the story and sharp writing carries the story,11,2020
+S0138,Comedy,regular,rotten,the humor falls flat,4,2008
+S0139,Sci-Fi,regular,rotten,the plot drags and loses focus,6,2004
+S0140,Horror,top_critic,rotten,the humor falls flat and the humor falls flat,9,2001
+S0141,Comedy,regular,rotten,too long and too predictable and style over substance throughout,10,2015
+S0142,Action,regular,rotten,an uneven film with a weak ending,7,2024
+S0143,Romance,regular,fresh,funny and surprisingly moving,4,2008
+S0144,Comedy,regular,rotten,style over substance throughout,4,2002
+S0145,Comedy,top_critic,rotten,characters feel thin and unconvincing,5,2012
+S0146,Sci-Fi,regular,fresh,a warm and confident film,5,2007
+S0147,Animation,regular,fresh,a visually striking and well paced picture,7,2022
+S0148,Comedy,regular,fresh,the lead performance is excellent and funny and surprisingly moving,10,2004
+S0149,Action,regular,fresh,funny and surprisingly moving and funny and surprisingly moving,9,2024
+S0150,Drama,regular,rotten,characters feel thin and unconvincing,5,2002
+S0151,Comedy,regular,fresh,a visually striking and well paced picture,7,2002
+S0152,Romance,regular,fresh,the lead performance is excellent and sharp writing carries the story,11,2013
+S0153,Drama,regular,fresh,a visually striking and well paced picture and funny and surprisingly moving,12,2013
+S0154,Action,regular,rotten,an uneven film with a weak ending,7,2012
+S0155,Drama,regular,rotten,style over substance throughout and the plot drags and loses focus,11,2021
+S0156,Drama,regular,fresh,tight direction and a strong finish,6,2003
+S0157,Action,regular,rotten,style over substance throughout,4,2009
+S0158,Action,top_critic,rotten,style over substance throughout and too long and too predictable,10,2004
+S0159,Drama,regular,fresh,the lead performance is excellent,5,2024
+S0160,Comedy,regular,fresh,sharp writing carries the story,5,2003
+S0161,Comedy,regular,fresh,tight direction and a strong finish,6,2014
+S0162,Documentary,top_critic,rotten,the plot drags and loses focus and style over substance throughout,11,2022
+S0163,Drama,top_critic,rotten,the humor falls flat,4,2002
+S0164,Drama,regular,rotten,the humor falls flat,4,2002
+S0165,Comedy,regular,fresh,sharp writing carries the story,5,2024
+S0166,Drama,regular,fresh,a visually striking and well paced picture,7,2023
+S0167,Comedy,regular,fresh,sharp writing carries the story,5,2019
+S0168,Action,regular,rotten,an uneven film with a weak ending,7,2003
+S0169,Action,regular,rotten,an uneven film with a weak ending,7,2019
+S0170,Horror,regular,rotten,an uneven film with a weak ending,7,2011
+S0171,Action,regular,fresh,sharp writing carries the story,5,2016
+S0172,Sci-Fi,regular,fresh,funny and surprisingly moving,4,2020
+S0173,Action,top_critic,fresh,a visually striking and well paced picture,7,2022
+S0174,Comedy,regular,rotten,an uneven film with a weak ending,7,2003
+S0175,Comedy,regular,fresh,funny and surprisingly moving,4,2017
+S0176,Drama,top_critic,fresh,tight direction and a strong finish,6,2010
+S0177,Action,regular,rotten,an uneven film with a weak ending,7,2011
+S0178,Drama,regular,fresh,sharp writing carries the story,5,2002
+S0179,Comedy,regular,rotten,style over substance throughout and style over substance throughout,9,2023
+S0180,Animation,regular,fresh,a warm and confident film and a visually striking and well paced picture,13,2014
+S0181,Drama,top_critic,fresh,a visually striking and well paced picture and funny and surprisingly moving,12,2004
+S0182,Drama,regular,fresh,tight direction and a strong finish,6,2023
+S0183,Action,regular,rotten,too long and too predictable and an uneven film with a weak ending,13,2013
+S0184,Animation,regular,fresh,a visually striking and well paced picture,7,2015
+S0185,Animation,regular,fresh,tight direction and a strong finish,6,2013
+S0186,Drama,regular,rotten,an uneven film with a weak ending,7,2013
+S0187,Comedy,regular,rotten,an uneven film with a weak ending,7,2013
+S0188,Horror,regular,fresh,the lead performance is excellent,5,2002
+S0189,Drama,regular,fresh,a visually striking and well paced picture,7,2015
+S0190,Horror,regular,fresh,the lead performance is excellent,5,2007
+S0191,Animation,regular,fresh,tight direction and a strong finish,6,2017
+S0192,Comedy,regular,fresh,tight direction and a strong finish,6,2003
+S0193,Animation,regular,rotten,the plot drags and loses focus,6,2018
+S0194,Romance,regular,rotten,an uneven film with a weak ending and characters feel thin and unconvincing,13,2002
+S0195,Comedy,regular,fresh,sharp writing carries the story,5,2018
+S0196,Drama,regular,rotten,an uneven film with a weak ending,7,2015
+S0197,Drama,regular,fresh,sharp writing carries the story and tight direction and a strong finish,12,2001
+S0198,Drama,regular,fresh,a visually striking and well paced picture and tight direction and a strong finish,14,2022
+S0199,Sci-Fi,regular,rotten,characters feel thin and unconvincing,5,2001
+S0200,Action,regular,rotten,an uneven film with a weak ending,7,2022
+S0201,Animation,regular,fresh,a visually striking and well paced picture,7,2005
+S0202,Drama,regular,rotten,characters feel thin and unconvincing,5,2023
+S0203,Drama,regular,fresh,the lead performance is excellent,5,2016
+S0204,Animation,regular,fresh,the lead performance is excellent,5,2005
+S0205,Action,regular,rotten,the plot drags and loses focus,6,2002
+S0206,Comedy,regular,fresh,a warm and confident film and funny and surprisingly moving,10,2009
+S0207,Action,regular,rotten,characters feel thin and unconvincing,5,2024
+S0208,Drama,regular,rotten,the plot drags and loses focus and characters feel thin and unconvincing,12,2001
+S0209,Action,regular,fresh,a warm and confident film,5,2015
+S0210,Drama,regular,rotten,an uneven film with a weak ending,7,2015
+S0211,Documentary,regular,fresh,tight direction and a strong finish,6,2016
+S0212,Horror,regular,fresh,sharp writing carries the story and a visually striking and well paced picture,13,2007
+S0213,Action,regular,fresh,tight direction and a strong finish,6,2007
+S0214,Drama,regular,fresh,funny and surprisingly moving,4,2001
+S0215,Drama,top_critic,fresh,a visually striking and well paced picture,7,2005
+S0216,Comedy,regular,fresh,a visually striking and well paced picture,7,2023
+S0217,Drama,top_critic,fresh,sharp writing carries the story,5,2017
+S0218,Action,regular,fresh,a warm and confident film,5,2001
+S0219,Horror,regular,fresh,the lead performance is excellent,5,2015
+S0220,Drama,top_critic,fresh,the lead performance is excellent and a visually striking and well paced picture,13,2022
+S0221,Action,regular,fresh,the lead performance is excellent,5,2011
+S0222,Horror,regular,fresh,sharp writing carries the story,5,2024
+S0223,Action,regular,rotten,too long and too predictable,5,2001
+S0224,Drama,regular,fresh,a warm and confident film,5,2009
+S0225,Comedy,regular,fresh,tight direction and a strong finish,6,2024
+S0226,Sci-Fi,regular,fresh,a warm and confident film,5,2007
+S0227,Comedy,regular,rotten,an uneven film with a weak ending,7,2019
+S0228,Drama,regular,rotten,the plot drags and loses focus,6,2018
+S0229,Horror,regular,fresh,sharp writing carries the story,5,2012
+S0230,Romance,regular,rotten,the plot drags and loses focus and an uneven film with a weak ending,14,2007
+S0231,Drama,top_critic,fresh,sharp writing carries the story,5,2019
+S0232,Comedy,regular,rotten,style over substance throughout,4,2015
+S0233,Drama,top_critic,fresh,tight direction and a strong finish,6,2008
+S0234,Action,regular,fresh,funny and surprisingly moving,4,2020
+S0235,Horror,regular,rotten,characters feel thin and unconvincing,5,2024
+S0236,Comedy,regular,fresh,a warm and confident film and the lead performance is excellent,11,2012
+S0237,Comedy,regular,fresh,the lead performance is excellent,5,2016
+S0238,Action,regular,rotten,the humor falls flat and characters feel thin and unconvincing,10,2016
+S0239,Action,regular,rotten,the humor falls flat,4,2022
+S0240,Drama,regular,fresh,tight direction and a strong finish,6,2012
+S0241,Drama,regular,rotten,style over substance throughout,4,2004
+S0242,Comedy,regular,fresh,the lead performance is excellent,5,2019
+S0243,Drama,top_critic,rotten,style over substance throughout,4,2000
+S0244,Documentary,regular,fresh,tight direction and a strong finish and sharp writing carries the story,12,2017
+S0245,Horror,regular,fresh,the lead performance is excellent and tight direction and a strong finish,12,2008
+S0246,Drama,regular,fresh,a warm and confident film,5,2010
+S0247,Drama,regular,fresh,a visually striking and well paced picture and sharp writing carries the story,13,2011
+S0248,Action,top_critic,rotten,an uneven film with a weak ending,7,2004
+S0249,Comedy,regular,rotten,an uneven film with a weak ending,7,2000
+S0250,Animation,regular,rotten,the humor falls flat,4,2012
+S0251,Comedy,regular,fresh,the lead performance is excellent,5,2002
+S0252,Drama,regular,rotten,too long and too predictable,5,2021
+S0253,Animation,regular,fresh,the lead performance is excellent,5,2011
+S0254,Drama,regular,fresh,a warm and confident film,5,2019
+S0255,Action,top_critic,fresh,a warm and confident film,5,2014
+S0256,Comedy,top_critic,fresh,sharp writing carries the story,5,2008
+S0257,Comedy,regular,rotten,characters feel thin and unconvincing,5,2008
+S0258,Drama,regular,fresh,a warm and confident film,5,2012
+S0259,Drama,regular,fresh,funny and surprisingly moving and funny and surprisingly moving,9,2022
+S0260,Sci-Fi,regular,rotten,the plot drags and loses focus,6,2022
+S0261,Drama,top_critic,fresh,sharp writing carries the story,5,2005
+S0262,Comedy,regular,fresh,the lead performance is excellent,5,2009
+S0263,Comedy,regular,fresh,tight direction and a strong finish and the lead performance is excellent,12,2022
+S0264,Drama,top_critic,fresh,a warm and confident film,5,2003
+S0265,Animation,regular,fresh,funny and surprisingly moving,4,2015
+S0266,Drama,regular,fresh,a visually striking and well paced picture and the lead performance is excellent,13,2012
+S0267,Comedy,regular,fresh,tight direction and a strong finish,6,2011
+S0268,Horror,regular,rotten,characters feel thin and unconvincing,5,2004
+S0269,Action,regular,rotten,too long and too predictable,5,2008
+S0270,Documentary,regular,rotten,style over substance throughout,4,2020
+S0271,Drama,regular,rotten,characters feel thin and unconvincing,5,2008
+S0272,Comedy,regular,fresh,tight direction and a strong finish,6,2001
+S0273,Drama,regular,fresh,sharp writing carries the story,5,2023
+S0274,Action,regular,fresh,a warm and confident film,5,2015
+S0275,Drama,regular,rotten,style over substance throughout,4,2012
+S0276,Horror,top_critic,rotten,too long and too predictable,5,2022
+S0277,Drama,regular,rotten,the humor falls flat and the plot drags and loses focus,11,2017
+S0278,Romance,regular,rotten,the plot drags and loses focus and the plot drags and loses focus,13,2008
+S0279,Action,regular,rotten,an uneven film with a weak ending,7,2002
+S0280,Comedy,regular,rotten,the plot drags and loses focus and the plot drags and loses focus,13,2024
+S0281,Comedy,regular,rotten,the humor falls flat and characters feel thin and unconvincing,10,2013
+S0282,Comedy,regular,rotten,the humor falls flat,4,2006
+S0283,Action,regular,fresh,the lead performance is excellent and the lead performance is excellent,11,2007
+S0284,Sci-Fi,regular,fresh,tight direction and a strong finish and a warm and confident film,12,2005
+S0285,Action,regular,fresh,a warm and confident film,5,2009
+S0286,Drama,regular,fresh,a warm and confident film,5,2000
+S0287,Horror,regular,rotten,style over substance throughout,4,2009
+S0288,Documentary,regular,fresh,a warm and confident film,5,2015
+S0289,Comedy,regular,fresh,funny and surprisingly moving and funny and surprisingly moving,9,2004
+S0290,Drama,regular,fresh,tight direction and a strong finish,6,2011
+S0291,Action,regular,rotten,the plot drags and loses focus,6,2010
+S0292,Action,regular,rotten,characters feel thin and unconvincing and style over substance throughout,10,2004
+S0293,Action,top_critic,fresh,a warm and confident film and the lead performance is excellent,11,2011
+S0294,Drama,regular,rotten,the plot drags and loses focus,6,2010
+S0295,Romance,regular,fresh,a warm and confident film,5,2010
+S0296,Drama,regular,fresh,the lead performance is excellent,5,2007
+S0297,Comedy,regular,fresh,the lead performance is excellent and a visually striking and well paced picture,13,2010
+S0298,Animation,regular,fresh,a warm and confident film and tight direction and a strong finish,12,2021
+S0299,Comedy,regular,fresh,funny and surprisingly moving,4,2014
+S0300,Animation,regular,fresh,funny and surprisingly moving,4,2003
+S0301,Documentary,regular,fresh,tight direction and a strong finish,6,2012
+S0302,Comedy,regular,rotten,the plot drags and loses focus,6,2001
+S0303,Action,regular,rotten,the plot drags and loses focus,6,2010
+S0304,Drama,regular,fresh,tight direction and a strong finish,6,2006
+S0305,Horror,regular,fresh,sharp writing carries the story,5,2015
+S0306,Drama,regular,rotten,characters feel thin and unconvincing,5,2003
+S0307,Comedy,top_critic,fresh,a warm and confident film,5,2008
+S0308,Comedy,regular,rotten,the plot drags and loses focus,6,2006
+S0309,Comedy,regular,fresh,a warm and confident film,5,2024
+S0310,Comedy,regular,rotten,the plot drags and loses focus,6,2017
+S0311,Sci-Fi,regular,rotten,an uneven film with a weak ending and an uneven film with a weak ending,15,2001
+S0312,Romance,regular,fresh,the lead performance is excellent and sharp writing carries the story,11,2019
+S0313,Comedy,regular,fresh,a visually striking and well paced picture and tight direction and a strong finish,14,2006
+S0314,Action,regular,rotten,characters feel thin and unconvincing,5,2013
+S0315,Comedy,regular,fresh,tight direction and a strong finish,6,2021
+S0316,Action,regular,fresh,sharp writing carries the story and funny and surprisingly moving,10,2014
+S0317,Drama,regular,rotten,an uneven film with a weak ending,7,2011
+S0318,Comedy,top_critic,rotten,characters feel thin and unconvincing,5,2011
+S0319,Animation,regular,fresh,a warm and confident film,5,2013
+S0320,Comedy,regular,fresh,sharp writing carries the story,5,2003
+S0321,Comedy,regular,fresh,funny and surprisingly moving and a warm and confident film,10,2009
+S0322,Romance,regular,rotten,characters feel thin and unconvincing,5,2012
+S0323,Drama,regular,fresh,tight direction and a strong finish and a visually striking and well paced picture,14,2010
+S0324,Drama,regular,fresh,the lead performance is excellent,5,2000
+S0325,Action,regular,rotten,characters feel thin and unconvincing,5,2008
+S0326,Comedy,top_critic,rotten,too long and too predictable and style over substance throughout,10,2003
+S0327,Comedy,regular,rotten,the plot drags and loses focus,6,2023
+S0328,Action,regular,fresh,a warm and confident film,5,2004
+S0329,Comedy,regular,rotten,an uneven film with a weak ending,7,2020
+S0330,Action,regular,fresh,a visually striking and well paced picture,7,2007
+S0331,Action,regular,fresh,a warm and confident film,5,2020
+S0332,Comedy,regular,fresh,funny and surprisingly moving and the lead performance is excellent,10,2004
+S0333,Comedy,regular,rotten,the plot drags and loses focus and style over substance throughout,11,2022
+S0334,Action,regular,fresh,tight direction and a strong finish,6,2003
+S0335,Comedy,regular,rotten,an uneven film with a weak ending,7,2000
+S0336,Drama,regular,fresh,a warm and confident film,5,2003
+S0337,Comedy,top_critic,fresh,funny and surprisingly moving and tight direction and a strong finish,11,2002
+S0338,Comedy,regular,rotten,characters feel thin and unconvincing and the humor falls flat,10,2014
+S0339,Drama,regular,rotten,too long and too predictable and characters feel thin and unconvincing,11,2003
+S0340,Documentary,top_critic,fresh,funny and surprisingly moving,4,2013
+S0341,Action,regular,fresh,a warm and confident film,5,2000
+S0342,Drama,top_critic,fresh,tight direction and a strong finish,6,2005
+S0343,Drama,regular,fresh,a visually striking and well paced picture,7,2017
+S0344,Action,top_critic,fresh,a visually striking and well paced picture,7,2006
+S0345,Drama,regular,rotten,an uneven film with a weak ending,7,2006
+S0346,Action,regular,fresh,funny and surprisingly moving,4,2003
+S0347,Comedy,regular,rotten,an uneven film with a weak ending and the plot drags and loses focus,14,2013
+S0348,Documentary,regular,fresh,the lead performance is excellent,5,2001
+S0349,Comedy,top_critic,fresh,a visually striking and well paced picture,7,2012
+S0350,Documentary,regular,fresh,a warm and confident film,5,2015
+S0351,Romance,regular,fresh,tight direction and a strong finish and a visually striking and well paced picture,14,2018
+S0352,Sci-Fi,regular,rotten,characters feel thin and unconvincing,5,2019
+S0353,Horror,regular,fresh,funny and surprisingly moving and sharp writing carries the story,10,2015
+S0354,Drama,regular,fresh,a warm and confident film and funny and surprisingly moving,10,2008
+S0355,Documentary,regular,fresh,the lead performance is excellent,5,2009
+S0356,Action,regular,rotten,characters feel thin and unconvincing,5,2010
+S0357,Drama,top_critic,rotten,an uneven film with a weak ending,7,2001
+S0358,Sci-Fi,regular,fresh,a warm and confident film,5,2010
+S0359,Action,regular,rotten,characters feel thin and unconvincing,5,2000
+S0360,Documentary,regular,fresh,tight direction and a strong finish,6,2002
+S0361,Drama,regular,rotten,characters feel thin and unconvincing,5,2014
+S0362,Action,regular,fresh,tight direction and a strong finish,6,2003
+S0363,Romance,regular,rotten,style over substance throughout and the plot drags and loses focus,11,2012
+S0364,Comedy,regular,fresh,sharp writing carries the story and the lead performance is excellent,11,2017
+S0365,Drama,top_critic,fresh,the lead performance is excellent,5,2001
+S0366,Animation,regular,fresh,tight direction and a strong finish,6,2015
+S0367,Comedy,regular,fresh,a visually striking and well paced picture and tight direction and a strong finish,14,2005
+S0368,Horror,top_critic,rotten,characters feel thin and unconvincing,5,2012
+S0369,Action,regular,fresh,funny and surprisingly moving,4,2014
+S0370,Comedy,regular,fresh,a visually striking and well paced picture,7,2022
+S0371,Comedy,regular,fresh,a visually striking and well paced picture,7,2008
+S0372,Romance,regular,fresh,sharp writing carries the story,5,2013
+S0373,Animation,top_critic,rotten,the humor falls flat,4,2014
+S0374,Comedy,regular,rotten,too long and too predictable and an uneven film with a weak ending,13,2016
+S0375,Documentary,regular,rotten,too long and too predictable and the humor falls flat,10,2010
+S0376,Comedy,regular,rotten,an uneven film with a weak ending,7,2003
+S0377,Drama,regular,rotten,too long and too predictable,5,2011
+S0378,Drama,regular,fresh,the lead performance is excellent,5,2011
+S0379,Drama,regular,fresh,funny and surprisingly moving,4,2023
+S0380,Sci-Fi,regular,rotten,characters feel thin and unconvincing,5,2008
+S0381,Action,regular,rotten,an uneven film with a weak ending,7,2008
+S0382,Drama,regular,fresh,sharp writing carries the story,5,2005
+S0383,Documentary,top_critic,fresh,a warm and confident film,5,2023
+S0384,Drama,regular,fresh,funny and surprisingly moving,4,2008
+S0385,Comedy,regular,rotten,style over substance throughout,4,2007
+S0386,Comedy,regular,fresh,sharp writing carries the story,5,2016
+S0387,Drama,regular,fresh,a warm and confident film,5,2003
+S0388,Action,regular,fresh,the lead performance is excellent,5,2003
+S0389,Romance,regular,fresh,the lead performance is excellent,5,2004
+S0390,Drama,top_critic,fresh,a warm and confident film,5,2004
+S0391,Sci-Fi,regular,fresh,funny and surprisingly moving,4,2013
+S0392,Action,regular,rotten,an uneven film with a weak ending,7,2006
+S0393,Animation,top_critic,rotten,characters feel thin and unconvincing and the humor falls flat,10,2000
+S0394,Action,regular,fresh,sharp writing carries the story,5,2008
+S0395,Comedy,regular,fresh,funny and surprisingly moving,4,2004
+S0396,Animation,top_critic,fresh,a visually striking and well paced picture,7,2021
+S0397,Action,regular,fresh,sharp writing carries the story and funny and surprisingly moving,10,2005
+S0398,Romance,top_critic,rotten,an uneven film with a weak ending,7,2000
+S0399,Comedy,regular,rotten,too long and too predictable,5,2018
+S0400,Horror,top_critic,fresh,the lead performance is excellent and sharp writing carries the story,11,2012
+S0401,Documentary,regular,fresh,the lead performance is excellent,5,2024
+S0402,Drama,regular,rotten,style over substance throughout,4,2021
+S0403,Comedy,regular,fresh,a visually striking and well paced picture and sharp writing carries the story,13,2006
+S0404,Drama,regular,fresh,the lead performance is excellent and tight direction and a strong finish,12,2020
+S0405,Action,regular,fresh,funny and surprisingly moving,4,2005
+S0406,Comedy,regular,rotten,style over substance throughout,4,2021
+S0407,Drama,top_critic,rotten,style over substance throughout,4,2007
+S0408,Comedy,regular,rotten,characters feel thin and unconvincing,5,2011
+S0409,Drama,regular,rotten,characters feel thin and unconvincing,5,2021
+S0410,Documentary,regular,fresh,a visually striking and well paced picture,7,2017
+S0411,Action,regular,fresh,a warm and confident film and a warm and confident film,11,2012
+S0412,Romance,top_critic,fresh,a warm and confident film and a visually striking and well paced picture,13,2007
+S0413,Romance,regular,rotten,characters feel thin and unconvincing,5,2010
+S0414,Romance,top_critic,rotten,style over substance throughout and style over substance throughout,9,2021
+S0415,Comedy,top_critic,rotten,an uneven film with a weak ending and the plot drags and loses focus,14,2005
+S0416,Horror,top_critic,fresh,the lead performance is excellent and a warm and confident film,11,2008
+S0417,Action,regular,fresh,funny and surprisingly moving,4,2002
+S0418,Drama,top_critic,rotten,an uneven film with a weak ending,7,2021
+S0419,Comedy,regular,rotten,too long and too predictable and the humor falls flat,10,2019
+S0420,Comedy,regular,fresh,a visually striking and well paced picture and sharp writing carries the story,13,2015
+S0421,Sci-Fi,regular,rotten,the humor falls flat,4,2009
+S0422,Drama,regular,rotten,characters feel thin and unconvincing,5,2000
+S0423,Drama,regular,fresh,tight direction and a strong finish and a warm and confident film,12,2005
+S0424,Comedy,regular,rotten,an uneven film with a weak ending,7,2019
+S0425,Action,regular,fresh,tight direction and a strong finish,6,2011
+S0426,Drama,regular,fresh,a visually striking and well paced picture,7,2014
+S0427,Drama,regular,fresh,tight direction and a strong finish,6,2021
+S0428,Drama,regular,fresh,the lead performance is excellent,5,2023
+S0429,Comedy,regular,fresh,tight direction and a strong finish,6,2009
+S0430,Action,top_critic,fresh,a visually striking and well paced picture,7,2015
+S0431,Horror,regular,fresh,tight direction and a strong finish and a visually striking and well paced picture,14,2012
+S0432,Drama,regular,fresh,a visually striking and well paced picture and the lead performance is excellent,13,2015
+S0433,Action,top_critic,rotten,the plot drags and loses focus,6,2014
+S0434,Drama,top_critic,rotten,too long and too predictable,5,2001
+S0435,Drama,regular,fresh,a visually striking and well paced picture,7,2001
+S0436,Romance,regular,fresh,the lead performance is excellent,5,2021
+S0437,Comedy,regular,rotten,characters feel thin and unconvincing,5,2014
+S0438,Documentary,regular,fresh,tight direction and a strong finish and tight direction and a strong finish,13,2022
+S0439,Drama,regular,rotten,the plot drags and loses focus,6,2009
+S0440,Horror,regular,rotten,too long and too predictable,5,2015
+S0441,Documentary,regular,fresh,tight direction and a strong finish,6,2021
+S0442,Drama,regular,rotten,the humor falls flat,4,2005
+S0443,Action,regular,fresh,tight direction and a strong finish,6,2004
+S0444,Horror,regular,fresh,a visually striking and well paced picture,7,2024
+S0445,Animation,regular,fresh,tight direction and a strong finish,6,2007
+S0446,Comedy,top_critic,rotten,characters feel thin and unconvincing,5,2007
+S0447,Drama,top_critic,fresh,sharp writing carries the story,5,2010
+S0448,Comedy,top_critic,fresh,the lead performance is excellent,5,2003
+S0449,Comedy,regular,fresh,the lead performance is excellent,5,2018
+S0450,Action,regular,fresh,the lead performance is excellent and sharp writing carries the story,11,2016
+S0451,Sci-Fi,top_critic,rotten,style over substance throughout,4,2015
+S0452,Horror,regular,fresh,funny and surprisingly moving,4,2013
+S0453,Comedy,top_critic,rotten,an uneven film with a weak ending,7,2020
+S0454,Action,regular,rotten,the humor falls flat,4,2002
+S0455,Drama,regular,fresh,tight direction and a strong finish,6,2020
+S0456,Romance,regular,fresh,funny and surprisingly moving,4,2000
+S0457,Action,regular,rotten,the plot drags and loses focus,6,2005
+S0458,Action,regular,rotten,style over substance throughout,4,2008
+S0459,Horror,regular,fresh,a visually striking and well paced picture and a warm and confident film,13,2015
+S0460,Drama,regular,rotten,too long and too predictable and an uneven film with a weak ending,13,2014
+S0461,Horror,top_critic,rotten,the humor falls flat,4,2023
+S0462,Drama,regular,fresh,funny and surprisingly moving,4,2002
+S0463,Horror,top_critic,rotten,the humor falls flat,4,2012
+S0464,Drama,regular,fresh,a warm and confident film and sharp writing carries the story,11,2023
+S0465,Comedy,regular,fresh,tight direction and a strong finish and the lead performance is excellent,12,2000
+S0466,Drama,regular,fresh,a visually striking and well paced picture,7,2006
+S0467,Drama,regular,fresh,a visually striking and well paced picture and tight direction and a strong finish,14,2013
+S0468,Drama,regular,fresh,a warm and confident film,5,2009
+S0469,Action,regular,rotten,style over substance throughout,4,2014
+S0470,Action,regular,fresh,a visually striking and well paced picture,7,2002
+S0471,Horror,regular,rotten,too long and too predictable,5,2021
+S0472,Comedy,regular,rotten,too long and too predictable,5,2017
+S0473,Action,regular,fresh,a visually striking and well paced picture and a visually striking and well paced picture,15,2011
+S0474,Horror,regular,rotten,characters feel thin and unconvincing,5,2009
+S0475,Sci-Fi,regular,rotten,the plot drags and loses focus,6,2001
+S0476,Documentary,regular,fresh,funny and surprisingly moving,4,2022
+S0477,Horror,regular,fresh,the lead performance is excellent,5,2021
+S0478,Action,regular,fresh,sharp writing carries the story,5,2018
+S0479,Comedy,regular,fresh,the lead performance is excellent,5,2010
+S0480,Action,top_critic,fresh,tight direction and a strong finish,6,2015
+S0481,Action,regular,rotten,the humor falls flat,4,2003
+S0482,Action,regular,rotten,the humor falls flat,4,2009
+S0483,Comedy,top_critic,fresh,the lead performance is excellent,5,2005
+S0484,Horror,regular,fresh,the lead performance is excellent and funny and surprisingly moving,10,2017
+S0485,Comedy,regular,fresh,a visually striking and well paced picture and the lead performance is excellent,13,2020
+S0486,Animation,regular,fresh,sharp writing carries the story and a warm and confident film,11,2020
+S0487,Documentary,regular,fresh,a visually striking and well paced picture and funny and surprisingly moving,12,2000
+S0488,Action,regular,rotten,too long and too predictable,5,2022
+S0489,Comedy,regular,fresh,a visually striking and well paced picture,7,2000
+S0490,Comedy,regular,fresh,funny and surprisingly moving,4,2011
+S0491,Drama,regular,rotten,characters feel thin and unconvincing,5,2010
+S0492,Documentary,top_critic,fresh,sharp writing carries the story,5,2021
+S0493,Horror,regular,rotten,an uneven film with a weak ending and an uneven film with a weak ending,15,2007
+S0494,Comedy,regular,rotten,style over substance throughout and style over substance throughout,9,2023
+S0495,Drama,regular,fresh,funny and surprisingly moving and the lead performance is excellent,10,2001
+S0496,Action,regular,fresh,funny and surprisingly moving,4,2002
+S0497,Documentary,regular,fresh,funny and surprisingly moving and the lead performance is excellent,10,2001
+S0498,Action,regular,fresh,a visually striking and well paced picture,7,2007
+S0499,Action,regular,rotten,characters feel thin and unconvincing,5,2009
+S0500,Drama,regular,rotten,too long and too predictable and characters feel thin and unconvincing,11,2003
+S0501,Drama,regular,rotten,characters feel thin and unconvincing,5,2024
+S0502,Animation,regular,fresh,tight direction and a strong finish,6,2013
+S0503,Documentary,regular,fresh,a visually striking and well paced picture,7,2017
+S0504,Sci-Fi,regular,fresh,the lead performance is excellent and the lead performance is excellent,11,2012
+S0505,Drama,regular,fresh,the lead performance is excellent,5,2011
+S0506,Animation,regular,fresh,tight direction and a strong finish,6,2014
+S0507,Drama,regular,fresh,funny and surprisingly moving,4,2006
+S0508,Drama,regular,rotten,too long and too predictable,5,2017
+S0509,Comedy,regular,fresh,a warm and confident film,5,2003
+S0510,Drama,regular,rotten,style over substance throughout,4,2014
+S0511,Action,regular,fresh,funny and surprisingly moving,4,2018
+S0512,Horror,regular,rotten,characters feel thin and unconvincing,5,2006
+S0513,Romance,regular,fresh,funny and surprisingly moving,4,2019
+S0514,Drama,regular,rotten,characters feel thin and unconvincing,5,2007
+S0515,Horror,regular,rotten,too long and too predictable,5,2020
+S0516,Drama,regular,rotten,characters feel thin and unconvincing,5,2001
+S0517,Comedy,regular,fresh,sharp writing carries the story,5,2023
+S0518,Drama,regular,fresh,the lead performance is excellent,5,2023
+S0519,Drama,regular,fresh,tight direction and a strong finish and funny and surprisingly moving,11,2009
+S0520,Comedy,regular,fresh,tight direction and a strong finish,6,2013
+S0521,Comedy,regular,fresh,the lead performance is excellent,5,2006
+S0522,Action,regular,rotten,characters feel thin and unconvincing,5,2021
+S0523,Horror,regular,fresh,tight direction and a strong finish,6,2022
+S0524,Comedy,regular,rotten,too long and too predictable,5,2016
+S0525,Drama,regular,rotten,too long and too predictable,5,2010
+S0526,Comedy,regular,fresh,funny and surprisingly moving and funny and surprisingly moving,9,2000
+S0527,Comedy,regular,fresh,sharp writing carries the story,5,2015
+S0528,Horror,regular,rotten,the plot drags and loses focus and the humor falls flat,11,2014
+S0529,Drama,regular,fresh,sharp writing carries the story,5,2023
+S0530,Animation,top_critic,fresh,the lead performance is excellent and a warm and confident film,11,2000
+S0531,Drama,top_critic,fresh,tight direction and a strong finish and the lead performance is excellent,12,2019
+S0532,Sci-Fi,regular,fresh,sharp writing carries the story,5,2006
+S0533,Comedy,top_critic,rotten,too long and too predictable and characters feel thin and unconvincing,11,2017
+S0534,Documentary,regular,fresh,tight direction and a strong finish,6,2012
+S0535,Drama,regular,rotten,the plot drags and loses focus and an uneven film with a weak ending,14,2000
+S0536,Comedy,regular,fresh,the lead performance is excellent,5,2021
+S0537,Drama,regular,fresh,the lead performance is excellent,5,2003
+S0538,Animation,regular,rotten,an uneven film with a weak ending and the plot drags and loses focus,14,2022
+S0539,Horror,regular,fresh,the lead performance is excellent,5,2003
+S0540,Action,regular,rotten,style over substance throughout,4,2019
+S0541,Action,regular,fresh,the lead performance is excellent,5,2015
+S0542,Action,top_critic,fresh,a visually striking and well paced picture,7,2002
+S0543,Drama,top_critic,fresh,tight direction and a strong finish,6,2006
+S0544,Comedy,regular,fresh,a visually striking and well paced picture,7,2000
+S0545,Drama,regular,fresh,sharp writing carries the story,5,2008
+S0546,Drama,regular,fresh,a warm and confident film and tight direction and a strong finish,12,2000
+S0547,Action,regular,fresh,funny and surprisingly moving,4,2002
+S0548,Comedy,regular,fresh,sharp writing carries the story,5,2015
+S0549,Romance,regular,fresh,a visually striking and well paced picture and tight direction and a strong finish,14,2023
+S0550,Documentary,regular,fresh,tight direction and a strong finish,6,2006
+S0551,Drama,regular,fresh,a visually striking and well paced picture,7,2005
+S0552,Action,regular,rotten,an uneven film with a weak ending,7,2001
+S0553,Comedy,top_critic,fresh,tight direction and a strong finish,6,2021
+S0554,Drama,regular,fresh,a warm and confident film and tight direction and a strong finish,12,2000
+S0555,Comedy,regular,rotten,the plot drags and loses focus and an uneven film with a weak ending,14,2004
+S0556,Drama,regular,fresh,a warm and confident film,5,2020
+S0557,Horror,regular,fresh,funny and surprisingly moving and a warm and confident film,10,2021
+S0558,Action,regular,rotten,an uneven film with a weak ending,7,2014
+S0559,Drama,regular,fresh,a visually striking and well paced picture,7,2016
+S0560,Drama,regular,rotten,an uneven film with a weak ending,7,2021
+S0561,Drama,regular,fresh,a warm and confident film,5,2016
+S0562,Comedy,regular,rotten,style over substance throughout,4,2012
+S0563,Horror,top_critic,fresh,a warm and confident film and a visually striking and well paced picture,13,2017
+S0564,Drama,top_critic,fresh,sharp writing carries the story,5,2003
+S0565,Action,regular,fresh,the lead performance is excellent,5,2012
+S0566,Animation,top_critic,rotten,characters feel thin and unconvincing,5,2004
+S0567,Drama,regular,rotten,style over substance throughout and style over substance throughout,9,2004
+S0568,Drama,regular,fresh,a warm and confident film,5,2001
+S0569,Comedy,regular,rotten,the plot drags and loses focus,6,2020
+S0570,Comedy,regular,rotten,characters feel thin and unconvincing,5,2019
+S0571,Drama,regular,fresh,a visually striking and well paced picture and tight direction and a strong finish,14,2002
+S0572,Comedy,regular,rotten,characters feel thin and unconvincing,5,2023
+S0573,Comedy,regular,fresh,funny and surprisingly moving and funny and surprisingly moving,9,2016
+S0574,Romance,regular,fresh,funny and surprisingly moving,4,2005
+S0575,Action,regular,rotten,style over substance throughout,4,2022
+S0576,Romance,top_critic,rotten,too long and too predictable and characters feel thin and unconvincing,11,2007
+S0577,Documentary,regular,fresh,the lead performance is excellent and a warm and confident film,11,2005
+S0578,Drama,regular,fresh,a warm and confident film,5,2019
+S0579,Comedy,regular,fresh,a visually striking and well paced picture,7,2020
+S0580,Sci-Fi,regular,fresh,a warm and confident film,5,2011
+S0581,Comedy,regular,fresh,tight direction and a strong finish,6,2009
+S0582,Comedy,regular,fresh,the lead performance is excellent,5,2005
+S0583,Romance,regular,rotten,the plot drags and loses focus,6,2020
+S0584,Action,regular,fresh,a visually striking and well paced picture and a warm and confident film,13,2011
+S0585,Horror,regular,fresh,a visually striking and well paced picture,7,2009
+S0586,Horror,regular,rotten,an uneven film with a weak ending,7,2000
+S0587,Drama,regular,rotten,too long and too predictable,5,2007
+S0588,Comedy,regular,fresh,a warm and confident film,5,2014
+S0589,Comedy,regular,fresh,tight direction and a strong finish,6,2004
+S0590,Comedy,top_critic,fresh,tight direction and a strong finish and a warm and confident film,12,2005
+S0591,Comedy,regular,rotten,too long and too predictable,5,2009
+S0592,Romance,regular,fresh,a visually striking and well paced picture and the lead performance is excellent,13,2021
+S0593,Drama,regular,fresh,funny and surprisingly moving,4,2022
+S0594,Action,regular,fresh,a visually striking and well paced picture and sharp writing carries the story,13,2023
+S0595,Drama,regular,rotten,an uneven film with a weak ending and characters feel thin and unconvincing,13,2014
+S0596,Drama,regular,fresh,funny and surprisingly moving,4,2010
+S0597,Documentary,regular,rotten,the plot drags and loses focus,6,2006
+S0598,Drama,regular,rotten,too long and too predictable,5,2005
+S0599,Comedy,regular,fresh,a visually striking and well paced picture and a warm and confident film,13,2021
+S0600,Comedy,regular,fresh,funny and surprisingly moving,4,2018
+S0601,Comedy,regular,fresh,tight direction and a strong finish,6,2005
+S0602,Comedy,regular,fresh,tight direction and a strong finish,6,2015
+S0603,Romance,top_critic,rotten,characters feel thin and unconvincing,5,2002
+S0604,Animation,top_critic,fresh,the lead performance is excellent and the lead performance is excellent,11,2020
+S0605,Documentary,regular,fresh,a visually striking and well paced picture and the lead performance is excellent,13,2014
+S0606,Comedy,regular,fresh,funny and surprisingly moving,4,2004
+S0607,Drama,regular,fresh,a warm and confident film,5,2013
+S0608,Action,regular,rotten,the plot drags and loses focus,6,2011
+S0609,Drama,top_critic,fresh,tight direction and a strong finish,6,2012
+S0610,Comedy,regular,rotten,the humor falls flat,4,2007
+S0611,Drama,regular,fresh,sharp writing carries the story and the lead performance is excellent,11,2015
+S0612,Horror,regular,fresh,a visually striking and well paced picture,7,2002
+S0613,Comedy,regular,fresh,a warm and confident film,5,2019
+S0614,Comedy,top_critic,fresh,the lead performance is excellent and sharp writing carries the story,11,2003
+S0615,Comedy,top_critic,fresh,funny and surprisingly moving,4,2006
+S0616,Drama,regular,fresh,a warm and confident film and the lead performance is excellent,11,2009
+S0617,Documentary,top_critic,fresh,a visually striking and well paced picture and sharp writing carries the story,13,2012
+S0618,Horror,regular,rotten,the plot drags and loses focus,6,2009
+S0619,Comedy,regular,fresh,funny and surprisingly moving,4,2011
+S0620,Drama,regular,fresh,a visually striking and well paced picture,7,2002
+S0621,Drama,regular,rotten,an uneven film with a weak ending and characters feel thin and unconvincing,13,2000
+S0622,Documentary,regular,fresh,a warm and confident film,5,2014
+S0623,Action,regular,rotten,the humor falls flat,4,2017
+S0624,Action,regular,rotten,an uneven film with a weak ending,7,2022
+S0625,Animation,regular,fresh,a visually striking and well paced picture,7,2018
+S0626,Documentary,regular,fresh,a warm and confident film,5,2019
+S0627,Action,regular,fresh,funny and surprisingly moving,4,2012
+S0628,Drama,regular,fresh,the lead performance is excellent and a visually striking and well paced picture,13,2003
+S0629,Horror,regular,rotten,the plot drags and loses focus,6,2023
+S0630,Comedy,regular,fresh,a warm and confident film,5,2014
+S0631,Horror,regular,rotten,too long and too predictable and the humor falls flat,10,2015
+S0632,Drama,regular,rotten,the humor falls flat,4,2003
+S0633,Documentary,regular,rotten,too long and too predictable and an uneven film with a weak ending,13,2012
+S0634,Comedy,regular,fresh,funny and surprisingly moving,4,2000
+S0635,Romance,regular,fresh,sharp writing carries the story,5,2006
+S0636,Comedy,regular,fresh,the lead performance is excellent,5,2009
+S0637,Comedy,top_critic,rotten,characters feel thin and unconvincing,5,2001
+S0638,Action,top_critic,rotten,the plot drags and loses focus,6,2008
+S0639,Action,regular,rotten,style over substance throughout,4,2004
+S0640,Horror,regular,fresh,the lead performance is excellent,5,2019
+S0641,Action,regular,rotten,characters feel thin and unconvincing,5,2006
+S0642,Drama,top_critic,fresh,a warm and confident film,5,2013
+S0643,Documentary,regular,fresh,a warm and confident film,5,2023
+S0644,Documentary,top_critic,rotten,style over substance throughout,4,2001
+S0645,Animation,regular,fresh,tight direction and a strong finish and the lead performance is excellent,12,2022
+S0646,Comedy,regular,rotten,the humor falls flat,4,2012
+S0647,Comedy,regular,rotten,style over substance throughout,4,2022
+S0648,Drama,regular,rotten,characters feel thin and unconvincing,5,2004
+S0649,Drama,regular,fresh,sharp writing carries the story,5,2000
+S0650,Action,top_critic,fresh,the lead performance is excellent,5,2011
+S0651,Drama,regular,fresh,a warm and confident film,5,2017
+S0652,Romance,regular,fresh,a warm and confident film,5,2014
+S0653,Comedy,regular,rotten,style over substance throughout and too long and too predictable,10,2011
+S0654,Comedy,regular,rotten,too long and too predictable,5,2015
+S0655,Action,regular,fresh,sharp writing carries the story,5,2020
+S0656,Comedy,regular,rotten,an uneven film with a weak ending and too long and too predictable,13,2012
+S0657,Comedy,regular,rotten,too long and too predictable,5,2012
+S0658,Horror,regular,rotten,an uneven film with a weak ending,7,2010
+S0659,Action,regular,fresh,the lead performance is excellent and a warm and confident film,11,2016
+S0660,Comedy,regular,fresh,a visually striking and well paced picture,7,2019
+S0661,Drama,top_critic,fresh,the lead performance is excellent,5,2024
+S0662,Horror,regular,fresh,the lead performance is excellent,5,2001
+S0663,Comedy,top_critic,rotten,too long and too predictable,5,2005
+S0664,Documentary,regular,rotten,the humor falls flat and an uneven film with a weak ending,12,2016
+S0665,Sci-Fi,regular,rotten,the plot drags and loses focus,6,2000
+S0666,Drama,regular,rotten,too long and too predictable,5,2021
+S0667,Sci-Fi,regular,fresh,tight direction and a strong finish,6,2008
+S0668,Animation,regular,fresh,a warm and confident film,5,2016
+S0669,Romance,regular,rotten,too long and too predictable,5,2004
+S0670,Drama,regular,fresh,a visually striking and well paced picture,7,2015
+S0671,Drama,top_critic,fresh,funny and surprisingly moving and a visually striking and well paced picture,12,2021
+S0672,Sci-Fi,top_critic,rotten,the humor falls flat,4,2024
+S0673,Documentary,regular,rotten,an uneven film with a weak ending,7,2022
+S0674,Animation,regular,fresh,the lead performance is excellent and a warm and confident film,11,2003
+S0675,Sci-Fi,regular,fresh,funny and surprisingly moving,4,2015
+S0676,Drama,regular,rotten,too long and too predictable,5,2009
+S0677,Drama,top_critic,rotten,the plot drags and loses focus and too long and too predictable,12,2013
+S0678,Comedy,regular,fresh,the lead performance is excellent,5,2017
+S0679,Comedy,regular,fresh,funny and surprisingly moving,4,2001
+S0680,Drama,regular,rotten,style over substance throughout and an uneven film with a weak ending,12,2004
+S0681,Comedy,top_critic,fresh,sharp writing carries the story,5,2001
+S0682,Documentary,regular,fresh,sharp writing carries the story,5,2001
+S0683,Drama,regular,fresh,the lead performance is excellent and a visually striking and well paced picture,13,2007
+S0684,Action,top_critic,fresh,funny and surprisingly moving,4,2004
+S0685,Comedy,regular,fresh,a warm and confident film and a visually striking and well paced picture,13,2008
+S0686,Drama,regular,fresh,tight direction and a strong finish,6,2004
+S0687,Horror,regular,rotten,the humor falls flat,4,2007
+S0688,Action,regular,rotten,the humor falls flat,4,2016
+S0689,Drama,regular,fresh,tight direction and a strong finish,6,2007
+S0690,Drama,regular,fresh,sharp writing carries the story,5,2007
+S0691,Drama,regular,rotten,too long and too predictable,5,2013
+S0692,Drama,top_critic,fresh,sharp writing carries the story and the lead performance is excellent,11,2020
+S0693,Animation,regular,fresh,funny and surprisingly moving,4,2004
+S0694,Comedy,regular,fresh,sharp writing carries the story,5,2021
+S0695,Comedy,regular,fresh,tight direction and a strong finish,6,2006
+S0696,Comedy,regular,rotten,the humor falls flat,4,2004
+S0697,Drama,regular,fresh,the lead performance is excellent,5,2024
+S0698,Romance,regular,rotten,the plot drags and loses focus,6,2018
+S0699,Comedy,regular,rotten,the plot drags and loses focus,6,2002
+S0700,Horror,regular,rotten,the plot drags and loses focus,6,2014
+S0701,Comedy,regular,fresh,a warm and confident film,5,2013
+S0702,Documentary,regular,fresh,sharp writing carries the story and a warm and confident film,11,2020
+S0703,Comedy,regular,rotten,too long and too predictable and the humor falls flat,10,2017
+S0704,Horror,regular,fresh,funny and surprisingly moving,4,2020
+S0705,Action,top_critic,fresh,the lead performance is excellent,5,2023
+S0706,Romance,regular,fresh,a warm and confident film and the lead performance is excellent,11,2013
+S0707,Documentary,regular,fresh,sharp writing carries the story and a warm and confident film,11,2002
+S0708,Documentary,top_critic,fresh,a warm and confident film,5,2010
+S0709,Drama,regular,fresh,tight direction and a strong finish,6,2023
+S0710,Action,regular,rotten,an uneven film with a weak ending,7,2021
+S0711,Drama,top_critic,fresh,funny and surprisingly moving,4,2008
+S0712,Documentary,regular,rotten,the plot drags and loses focus,6,2007
+S0713,Drama,regular,rotten,characters feel thin and unconvincing,5,2014
+S0714,Drama,regular,fresh,tight direction and a strong finish,6,2005
+S0715,Action,regular,fresh,funny and surprisingly moving,4,2003
+S0716,Comedy,regular,fresh,tight direction and a strong finish,6,2005
+S0717,Horror,top_critic,rotten,an uneven film with a weak ending and characters feel thin and unconvincing,13,2017
+S0718,Drama,regular,fresh,a warm and confident film,5,2017
+S0719,Documentary,regular,fresh,funny and surprisingly moving,4,2003
+S0720,Romance,regular,rotten,too long and too predictable,5,2015
+S0721,Drama,top_critic,fresh,sharp writing carries the story,5,2006
+S0722,Drama,top_critic,fresh,tight direction and a strong finish and tight direction and a strong finish,13,2021
+S0723,Action,regular,fresh,funny and surprisingly moving and funny and surprisingly moving,9,2014
+S0724,Action,regular,fresh,a warm and confident film,5,2009
+S0725,Action,regular,fresh,the lead performance is excellent,5,2024
+S0726,Comedy,regular,fresh,sharp writing carries the story,5,2004
+S0727,Sci-Fi,regular,fresh,funny and surprisingly moving and a visually striking and well paced picture,12,2002
+S0728,Drama,regular,rotten,too long and too predictable and the humor falls flat,10,2023
+S0729,Comedy,regular,fresh,the lead performance is excellent,5,2017
+S0730,Drama,regular,fresh,a warm and confident film,5,2023
+S0731,Comedy,regular,rotten,an uneven film with a weak ending,7,2000
+S0732,Animation,regular,rotten,characters feel thin and unconvincing,5,2007
+S0733,Sci-Fi,regular,rotten,the plot drags and loses focus,6,2006
+S0734,Animation,regular,fresh,a visually striking and well paced picture,7,2011
+S0735,Comedy,regular,rotten,too long and too predictable,5,2015
+S0736,Documentary,regular,rotten,the humor falls flat,4,2019
+S0737,Horror,regular,rotten,too long and too predictable and style over substance throughout,10,2007
+S0738,Comedy,top_critic,rotten,characters feel thin and unconvincing and characters feel thin and unconvincing,11,2013
+S0739,Comedy,regular,fresh,tight direction and a strong finish,6,2005
+S0740,Drama,regular,fresh,the lead performance is excellent,5,2013
+S0741,Horror,regular,rotten,an uneven film with a weak ending,7,2019
+S0742,Drama,regular,fresh,a visually striking and well paced picture,7,2004
+S0743,Action,regular,fresh,sharp writing carries the story,5,2002
+S0744,Comedy,regular,rotten,an uneven film with a weak ending,7,2005
+S0745,Romance,regular,rotten,characters feel thin and unconvincing,5,2021
+S0746,Drama,regular,rotten,too long and too predictable,5,2007
+S0747,Action,regular,fresh,sharp writing carries the story,5,2011
+S0748,Comedy,regular,rotten,the humor falls flat and characters feel thin and unconvincing,10,2015
+S0749,Horror,regular,rotten,the plot drags and loses focus and characters feel thin and unconvincing,12,2001
+S0750,Drama,regular,fresh,sharp writing carries the story and funny and surprisingly moving,10,2008
+S0751,Horror,regular,fresh,a visually striking and well paced picture,7,2016
+S0752,Action,regular,rotten,the plot drags and loses focus,6,2003
+S0753,Drama,regular,fresh,the lead performance is excellent,5,2018
+S0754,Comedy,regular,rotten,too long and too predictable,5,2014
+S0755,Horror,regular,rotten,the humor falls flat,4,2007
+S0756,Drama,regular,fresh,a warm and confident film,5,2005
+S0757,Action,top_critic,rotten,an uneven film with a weak ending,7,2023
+S0758,Romance,regular,fresh,a visually striking and well paced picture,7,2008
+S0759,Drama,regular,fresh,tight direction and a strong finish,6,2002
+S0760,Action,regular,rotten,an uneven film with a weak ending and the humor falls flat,12,2009
+S0761,Comedy,regular,rotten,an uneven film with a weak ending,7,2000
+S0762,Drama,regular,fresh,tight direction and a strong finish,6,2016
+S0763,Documentary,top_critic,fresh,a visually striking and well paced picture,7,2024
+S0764,Drama,regular,fresh,tight direction and a strong finish,6,2018
+S0765,Action,regular,rotten,characters feel thin and unconvincing,5,2004
+S0766,Animation,regular,fresh,a warm and confident film,5,2015
+S0767,Action,regular,rotten,the plot drags and loses focus,6,2000
+S0768,Horror,regular,fresh,funny and surprisingly moving and funny and surprisingly moving,9,2019
+S0769,Drama,regular,fresh,sharp writing carries the story,5,2019
+S0770,Comedy,regular,rotten,too long and too predictable,5,2013
+S0771,Comedy,regular,fresh,sharp writing carries the story,5,2024
+S0772,Animation,regular,fresh,funny and surprisingly moving and tight direction and a strong finish,11,2009
+S0773,Drama,regular,fresh,funny and surprisingly moving,4,2007
+S0774,Drama,top_critic,fresh,sharp writing carries the story,5,2010
+S0775,Comedy,regular,rotten,the plot drags and loses focus,6,2023
+S0776,Action,regular,rotten,too long and too predictable,5,2010
+S0777,Drama,regular,rotten,too long and too predictable,5,2008
+S0778,Drama,regular,rotten,characters feel thin and unconvincing and the plot drags and loses focus,12,2021
+S0779,Drama,regular,rotten,the plot drags and loses focus,6,2011
+S0780,Romance,regular,fresh,sharp writing carries the story,5,2003
+S0781,Horror,regular,rotten,style over substance throughout,4,2021
+S0782,Romance,regular,fresh,funny and surprisingly moving,4,2021
+S0783,Horror,regular,rotten,style over substance throughout and too long and too predictable,10,2005
+S0784,Action,top_critic,fresh,the lead performance is excellent,5,2001
+S0785,Sci-Fi,regular,rotten,too long and too predictable,5,2019
+S0786,Action,regular,rotten,the humor falls flat and too long and too predictable,10,2018
+S0787,Comedy,regular,fresh,a visually striking and well paced picture and funny and surprisingly moving,12,2014
+S0788,Horror,regular,rotten,too long and too predictable,5,2010
+S0789,Drama,regular,fresh,tight direction and a strong finish and a visually striking and well paced picture,14,2021
+S0790,Comedy,top_critic,rotten,an uneven film with a weak ending,7,2012
+S0791,Drama,regular,rotten,characters feel thin and unconvincing,5,2002
+S0792,Drama,regular,fresh,sharp writing carries the story,5,2006
+S0793,Animation,regular,fresh,a visually striking and well paced picture,7,2013
+S0794,Drama,top_critic,fresh,funny and surprisingly moving,4,2019
+S0795,Comedy,regular,fresh,a visually striking and well paced picture and tight direction and a strong finish,14,2001
+S0796,Action,regular,rotten,characters feel thin and unconvincing,5,2004
+S0797,Comedy,regular,fresh,the lead performance is excellent,5,2010
+S0798,Comedy,regular,rotten,style over substance throughout,4,2002
+S0799,Documentary,regular,fresh,tight direction and a strong finish,6,2002
+S0800,Action,regular,fresh,sharp writing carries the story and the lead performance is excellent,11,2022
+S0801,Drama,regular,rotten,characters feel thin and unconvincing,5,2023
+S0802,Comedy,regular,fresh,sharp writing carries the story,5,2016
+S0803,Comedy,regular,fresh,a warm and confident film,5,2001
+S0804,Comedy,top_critic,fresh,a visually striking and well paced picture,7,2004
+S0805,Horror,regular,rotten,an uneven film with a weak ending,7,2017
+S0806,Drama,top_critic,rotten,the plot drags and loses focus and style over substance throughout,11,2014
+S0807,Comedy,top_critic,fresh,the lead performance is excellent,5,2024
+S0808,Comedy,regular,rotten,an uneven film with a weak ending,7,2009
+S0809,Comedy,regular,fresh,tight direction and a strong finish and the lead performance is excellent,12,2017
+S0810,Sci-Fi,regular,rotten,the plot drags and loses focus,6,2019
+S0811,Action,regular,rotten,the humor falls flat,4,2006
+S0812,Documentary,regular,fresh,a warm and confident film,5,2023
+S0813,Horror,regular,rotten,too long and too predictable,5,2016
+S0814,Horror,regular,fresh,a visually striking and well paced picture,7,2014
+S0815,Drama,regular,fresh,funny and surprisingly moving,4,2004
+S0816,Animation,regular,fresh,a warm and confident film,5,2001
+S0817,Romance,regular,fresh,funny and surprisingly moving and sharp writing carries the story,10,2010
+S0818,Drama,regular,fresh,a warm and confident film,5,2022
+S0819,Documentary,regular,fresh,a warm and confident film and funny and surprisingly moving,10,2005
+S0820,Comedy,regular,rotten,characters feel thin and unconvincing,5,2010
+S0821,Drama,regular,fresh,the lead performance is excellent,5,2021
+S0822,Comedy,regular,fresh,tight direction and a strong finish,6,2023
+S0823,Horror,regular,fresh,the lead performance is excellent,5,2023
+S0824,Horror,regular,rotten,an uneven film with a weak ending and style over substance throughout,12,2019
+S0825,Drama,regular,fresh,tight direction and a strong finish,6,2003
+S0826,Action,top_critic,rotten,style over substance throughout,4,2007
+S0827,Drama,regular,fresh,a visually striking and well paced picture,7,2006
+S0828,Comedy,regular,fresh,the lead performance is excellent,5,2001
+S0829,Horror,regular,rotten,the humor falls flat,4,2002
+S0830,Comedy,regular,rotten,the plot drags and loses focus,6,2002
+S0831,Action,regular,fresh,a visually striking and well paced picture,7,2000
+S0832,Comedy,regular,rotten,an uneven film with a weak ending,7,2004
+S0833,Drama,regular,fresh,the lead performance is excellent,5,2009
+S0834,Action,regular,fresh,funny and surprisingly moving,4,2016
+S0835,Horror,regular,rotten,the humor falls flat,4,2008
+S0836,Sci-Fi,regular,fresh,a warm and confident film,5,2001
+S0837,Romance,regular,fresh,sharp writing carries the story,5,2002
+S0838,Action,top_critic,fresh,a visually striking and well paced picture,7,2006
+S0839,Action,regular,rotten,characters feel thin and unconvincing and too long and too predictable,11,2019
+S0840,Action,top_critic,fresh,funny and surprisingly moving,4,2002
+S0841,Comedy,top_critic,rotten,the humor falls flat,4,2015
+S0842,Action,regular,fresh,funny and surprisingly moving,4,2011
+S0843,Horror,regular,rotten,style over substance throughout,4,2020
+S0844,Action,regular,fresh,the lead performance is excellent,5,2008
+S0845,Comedy,regular,rotten,the plot drags and loses focus,6,2012
+S0846,Horror,regular,fresh,a visually striking and well paced picture,7,2010
+S0847,Sci-Fi,regular,rotten,an uneven film with a weak ending,7,2000
+S0848,Comedy,regular,rotten,characters feel thin and unconvincing,5,2002
+S0849,Drama,regular,rotten,an uneven film with a weak ending and too long and too predictable,13,2002
+S0850,Action,regular,fresh,sharp writing carries the story,5,2024
+S0851,Action,regular,rotten,too long and too predictable and characters feel thin and unconvincing,11,2020
+S0852,Comedy,regular,fresh,funny and surprisingly moving and a visually striking and well paced picture,12,2012
+S0853,Drama,top_critic,fresh,a warm and confident film and a warm and confident film,11,2015
+S0854,Romance,regular,rotten,too long and too predictable and characters feel thin and unconvincing,11,2011
+S0855,Documentary,regular,fresh,a warm and confident film,5,2023
+S0856,Drama,regular,fresh,funny and surprisingly moving,4,2006
+S0857,Comedy,regular,rotten,an uneven film with a weak ending and characters feel thin and unconvincing,13,2012
+S0858,Comedy,regular,fresh,funny and surprisingly moving,4,2012
+S0859,Horror,regular,rotten,the humor falls flat and the humor falls flat,9,2009
+S0860,Sci-Fi,regular,rotten,the humor falls flat and the humor falls flat,9,2002
+S0861,Action,regular,rotten,the humor falls flat and too long and too predictable,10,2008
+S0862,Action,regular,rotten,too long and too predictable and too long and too predictable,11,2000
+S0863,Action,regular,rotten,style over substance throughout,4,2006
+S0864,Documentary,regular,fresh,funny and surprisingly moving,4,2017
+S0865,Romance,regular,rotten,an uneven film with a weak ending and too long and too predictable,13,2014
+S0866,Drama,regular,fresh,sharp writing carries the story,5,2016
+S0867,Action,regular,rotten,an uneven film with a weak ending and the plot drags and loses focus,14,2007
+S0868,Comedy,regular,rotten,an uneven film with a weak ending and the humor falls flat,12,2006
+S0869,Comedy,regular,fresh,the lead performance is excellent,5,2011
+S0870,Drama,regular,rotten,the humor falls flat,4,2009
+S0871,Horror,regular,rotten,the plot drags and loses focus,6,2003
+S0872,Horror,regular,fresh,tight direction and a strong finish,6,2019
+S0873,Documentary,regular,fresh,the lead performance is excellent,5,2009
+S0874,Drama,regular,rotten,characters feel thin and unconvincing,5,2020
+S0875,Comedy,top_critic,rotten,the humor falls flat,4,2023
+S0876,Comedy,regular,rotten,an uneven film with a weak ending and too long and too predictable,13,2014
+S0877,Action,regular,fresh,funny and surprisingly moving,4,2022
+S0878,Animation,regular,fresh,tight direction and a strong finish,6,2002
+S0879,Sci-Fi,regular,rotten,too long and too predictable,5,2007
+S0880,Action,top_critic,fresh,sharp writing carries the story,5,2021
+S0881,Romance,regular,rotten,an uneven film with a weak ending and the plot drags and loses focus,14,2024
+S0882,Comedy,regular,fresh,sharp writing carries the story,5,2016
+S0883,Drama,regular,fresh,funny and surprisingly moving,4,2008
+S0884,Comedy,regular,fresh,tight direction and a strong finish,6,2010
+S0885,Comedy,regular,rotten,the humor falls flat,4,2003
+S0886,Animation,regular,rotten,the plot drags and loses focus,6,2002
+S0887,Drama,regular,fresh,tight direction and a strong finish,6,2004
+S0888,Comedy,top_critic,fresh,a warm and confident film,5,2004
+S0889,Action,top_critic,fresh,sharp writing carries the story,5,2021
+S0890,Action,top_critic,fresh,the lead performance is excellent,5,2002
+S0891,Animation,regular,rotten,an uneven film with a weak ending,7,2018
+S0892,Drama,regular,fresh,tight direction and a strong finish,6,2004
+S0893,Comedy,regular,fresh,funny and surprisingly moving,4,2004
+S0894,Romance,regular,rotten,the plot drags and loses focus,6,2007
+S0895,Drama,regular,fresh,a visually striking and well paced picture,7,2004
+S0896,Drama,regular,rotten,the plot drags and loses focus,6,2022
+S0897,Sci-Fi,regular,fresh,a warm and confident film,5,2002
+S0898,Drama,regular,fresh,a visually striking and well paced picture,7,2012
+S0899,Comedy,regular,rotten,style over substance throughout,4,2001
+S0900,Drama,regular,rotten,style over substance throughout,4,2007
+S0901,Comedy,regular,fresh,a visually striking and well paced picture,7,2008
+S0902,Drama,regular,fresh,the lead performance is excellent and a warm and confident film,11,2006
+S0903,Comedy,regular,rotten,an uneven film with a weak ending,7,2024
+S0904,Documentary,regular,fresh,sharp writing carries the story and a warm and confident film,11,2010
+S0905,Action,top_critic,rotten,the plot drags and loses focus and the plot drags and loses focus,13,2010
+S0906,Drama,regular,rotten,too long and too predictable and too long and too predictable,11,2006
+S0907,Comedy,regular,rotten,an uneven film with a weak ending and the humor falls flat,12,2010
+S0908,Drama,regular,rotten,style over substance throughout,4,2024
+S0909,Comedy,regular,fresh,tight direction and a strong finish,6,2016
+S0910,Drama,regular,fresh,sharp writing carries the story,5,2016
+S0911,Drama,regular,fresh,a warm and confident film,5,2021
+S0912,Romance,regular,fresh,tight direction and a strong finish,6,2021
+S0913,Drama,regular,fresh,a visually striking and well paced picture and tight direction and a strong finish,14,2000
+S0914,Comedy,top_critic,fresh,the lead performance is excellent,5,2023
+S0915,Drama,top_critic,fresh,a visually striking and well paced picture,7,2015
+S0916,Drama,regular,fresh,the lead performance is excellent,5,2013
+S0917,Comedy,top_critic,fresh,a visually striking and well paced picture,7,2010
+S0918,Horror,regular,rotten,an uneven film with a weak ending,7,2016
+S0919,Drama,regular,fresh,sharp writing carries the story,5,2018
+S0920,Animation,regular,rotten,an uneven film with a weak ending,7,2014
+S0921,Horror,regular,fresh,the lead performance is excellent,5,2011
+S0922,Documentary,top_critic,fresh,funny and surprisingly moving and the lead performance is excellent,10,2006
+S0923,Drama,regular,rotten,an uneven film with a weak ending,7,2010
+S0924,Action,regular,fresh,a warm and confident film,5,2022
+S0925,Comedy,regular,fresh,a warm and confident film,5,2006
+S0926,Drama,regular,rotten,style over substance throughout,4,2018
+S0927,Romance,regular,fresh,tight direction and a strong finish,6,2002
+S0928,Horror,regular,rotten,characters feel thin and unconvincing,5,2007
+S0929,Animation,regular,rotten,an uneven film with a weak ending,7,2020
+S0930,Drama,regular,fresh,a warm and confident film,5,2019
+S0931,Documentary,regular,rotten,an uneven film with a weak ending,7,2001
+S0932,Horror,regular,rotten,an uneven film with a weak ending and style over substance throughout,12,2009
+S0933,Comedy,regular,fresh,a warm and confident film,5,2010
+S0934,Action,regular,rotten,too long and too predictable and an uneven film with a weak ending,13,2005
+S0935,Action,regular,fresh,a warm and confident film,5,2008
+S0936,Documentary,regular,fresh,a warm and confident film and funny and surprisingly moving,10,2022
+S0937,Animation,regular,fresh,tight direction and a strong finish,6,2008
+S0938,Action,regular,rotten,too long and too predictable,5,2020
+S0939,Animation,regular,fresh,a warm and confident film and tight direction and a strong finish,12,2020
+S0940,Comedy,regular,rotten,the plot drags and loses focus and the plot drags and loses focus,13,2005
+S0941,Comedy,regular,fresh,tight direction and a strong finish and the lead performance is excellent,12,2004
+S0942,Documentary,regular,rotten,too long and too predictable,5,2000
+S0943,Drama,regular,fresh,a visually striking and well paced picture,7,2017
+S0944,Sci-Fi,regular,fresh,a visually striking and well paced picture,7,2011
+S0945,Comedy,regular,rotten,characters feel thin and unconvincing,5,2010
+S0946,Drama,regular,rotten,too long and too predictable,5,2023
+S0947,Comedy,top_critic,fresh,funny and surprisingly moving,4,2003
+S0948,Comedy,regular,rotten,the plot drags and loses focus and the plot drags and loses focus,13,2000
+S0949,Drama,regular,fresh,sharp writing carries the story,5,2000
+S0950,Animation,top_critic,rotten,style over substance throughout,4,2024
+S0951,Romance,regular,fresh,tight direction and a strong finish,6,2010
+S0952,Animation,regular,fresh,tight direction and a strong finish,6,2013
+S0953,Horror,regular,fresh,a warm and confident film and a visually striking and well paced picture,13,2020
+S0954,Animation,regular,fresh,a visually striking and well paced picture,7,2007
+S0955,Horror,regular,fresh,a visually striking and well paced picture,7,2013
+S0956,Drama,top_critic,rotten,style over substance throughout,4,2006
+S0957,Action,regular,rotten,the plot drags and loses focus,6,2003
+S0958,Documentary,regular,fresh,tight direction and a strong finish,6,2002
+S0959,Animation,regular,fresh,funny and surprisingly moving,4,2002
+S0960,Animation,top_critic,fresh,a warm and confident film,5,2023
+S0961,Documentary,regular,rotten,an uneven film with a weak ending and characters feel thin and unconvincing,13,2021
+S0962,Comedy,regular,fresh,sharp writing carries the story,5,2020
+S0963,Romance,regular,rotten,too long and too predictable,5,2002
+S0964,Comedy,regular,rotten,the plot drags and loses focus,6,2019
+S0965,Drama,top_critic,fresh,tight direction and a strong finish,6,2001
+S0966,Comedy,regular,fresh,a warm and confident film,5,2015
+S0967,Comedy,top_critic,fresh,sharp writing carries the story and a warm and confident film,11,2005
+S0968,Drama,regular,rotten,the humor falls flat,4,2003
+S0969,Animation,regular,rotten,an uneven film with a weak ending,7,2013
+S0970,Action,regular,rotten,the humor falls flat,4,2008
+S0971,Action,regular,fresh,funny and surprisingly moving,4,2001
+S0972,Horror,top_critic,rotten,an uneven film with a weak ending and the humor falls flat,12,2019
+S0973,Animation,regular,fresh,the lead performance is excellent and a visually striking and well paced picture,13,2016
+S0974,Horror,regular,fresh,tight direction and a strong finish,6,2005
+S0975,Animation,regular,rotten,too long and too predictable,5,2006
+S0976,Documentary,regular,rotten,the humor falls flat,4,2009
+S0977,Sci-Fi,regular,fresh,funny and surprisingly moving,4,2014
+S0978,Comedy,regular,rotten,the humor falls flat,4,2012
+S0979,Sci-Fi,top_critic,fresh,sharp writing carries the story,5,2020
+S0980,Comedy,regular,rotten,the humor falls flat,4,2008
+S0981,Action,regular,rotten,an uneven film with a weak ending,7,2004
+S0982,Comedy,regular,fresh,tight direction and a strong finish,6,2011
+S0983,Comedy,regular,rotten,characters feel thin and unconvincing,5,2013
+S0984,Action,regular,rotten,too long and too predictable,5,2018
+S0985,Drama,regular,fresh,funny and surprisingly moving and funny and surprisingly moving,9,2014
+S0986,Romance,regular,fresh,tight direction and a strong finish,6,2020
+S0987,Drama,regular,fresh,a warm and confident film,5,2022
+S0988,Romance,regular,fresh,funny and surprisingly moving,4,2021
+S0989,Drama,regular,rotten,an uneven film with a weak ending,7,2017
+S0990,Comedy,regular,fresh,sharp writing carries the story,5,2021
+S0991,Comedy,regular,fresh,a visually striking and well paced picture,7,2016
+S0992,Action,regular,rotten,an uneven film with a weak ending,7,2012
+S0993,Drama,top_critic,fresh,funny and surprisingly moving,4,2008
+S0994,Comedy,regular,rotten,an uneven film with a weak ending and the humor falls flat,12,2018
+S0995,Horror,top_critic,rotten,too long and too predictable,5,2012
+S0996,Comedy,top_critic,fresh,a warm and confident film,5,2001
+S0997,Animation,regular,rotten,characters feel thin and unconvincing,5,2021
+S0998,Action,top_critic,rotten,too long and too predictable,5,2008
+S0999,Action,regular,fresh,tight direction and a strong finish,6,2018
+S1000,Documentary,regular,fresh,a warm and confident film,5,2002
