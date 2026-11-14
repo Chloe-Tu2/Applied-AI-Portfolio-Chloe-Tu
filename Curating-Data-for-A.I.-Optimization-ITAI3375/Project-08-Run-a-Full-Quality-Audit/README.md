@@ -1,5 +1,13 @@
 # Project 08 — Run a Full Quality Audit
 
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![pandas](https://img.shields.io/badge/library-pandas-150458.svg)
+![Jupyter](https://img.shields.io/badge/tool-Jupyter-F37626.svg)
+![Kaggle](https://img.shields.io/badge/platform-Kaggle-20BEFF.svg)
+![Quality Audit](https://img.shields.io/badge/topic-Quality_Audit-orange.svg)
+![Missingness](https://img.shields.io/badge/analysis-Missingness-9cf.svg)
+![matplotlib](https://img.shields.io/badge/library-matplotlib-11557c.svg)
+
 ## Project Overview
 
 This project is a hands-on quality audit of the **Spotify and YouTube** dataset (published by Salvatore Rastelli on Kaggle). The audit systematically checks completeness, uniqueness, validity, and consistency across 20,718 rows and 28 columns, producing quantified findings with visualizations.
