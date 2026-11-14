@@ -1,5 +1,14 @@
 # Rotten Tomatoes Curation Plan and Pilot
 
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![pandas](https://img.shields.io/badge/library-pandas-150458.svg)
+![Jupyter](https://img.shields.io/badge/tool-Jupyter-F37626.svg)
+![Kaggle](https://img.shields.io/badge/platform-Kaggle-20BEFF.svg)
+![Data Quality](https://img.shields.io/badge/topic-Data_Quality-orange.svg)
+![Score Normalization](https://img.shields.io/badge/task-Score_Normalization-9cf.svg)
+![CC0](https://img.shields.io/badge/license-CC0_1.0-lightgrey.svg)
+![Team Project](https://img.shields.io/badge/type-Team_Project-blueviolet.svg)
+
 ## Project Overview
 
 This midterm project delivers a full data curation plan and working pilot for the Rotten Tomatoes movies and critic reviews dataset. The team designed a plan to make the dataset usable for AI systems that need structured, numeric review scores—then tested the riskiest assumption (score normalization) on a 50,000-row sample.
