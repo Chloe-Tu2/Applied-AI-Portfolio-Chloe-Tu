@@ -83,7 +83,7 @@ A production-ready computer vision system designed to detect **Personal Protecti
 
 ---
 
-### 3. [Rotten Tomatoes Curation Plan and Pilot](./Curating-Data-for-AI-Optimization-ITAI3375/Midterm-Rotten-Tomatoes-Curation-Pilot)
+### 3. [Rotten Tomatoes Curation Plan and Pilot](./Curating-Data-for-A.I.-Optimization-ITAI3375/Midterm-Rotten-Tomatoes-Curation-Pilot)
 **Focus:** Data Curation | Quality Audit | Score Normalization | Honest Failure Reporting  
 **Tech:** Python, pandas, Jupyter, Kaggle (CC0 dataset)
 
@@ -92,7 +92,7 @@ Full curation plan and working pilot for the Rotten Tomatoes movies + critic rev
 * **Key Result:** On a seeded 50,000-row sample, **72.4%** of rows survived normalization to a single 0–100 scale.
 * **Honest Failure:** First letter-grade mapping agreed with the site’s own Fresh/Rotten label only **64.5%** of the time — reported as a failure, not hidden.
 * **Hand Audit:** 100 records read by hand; 47 had problems.
-* **[View Project →](./Curating-Data-for-AI-Optimization-ITAI3375/Midterm-Rotten-Tomatoes-Curation-Pilot)**
+* * **[View Project →](./Curating-Data-for-A.I.-Optimization-ITAI3375/Midterm-Rotten-Tomatoes-Curation-Pilot)**
 
 ---
 
@@ -218,35 +218,35 @@ Explored the frontier of AI by bridging Computer Vision with Natural Language Pr
 
 ---
 
-### [Curating Data for A.I. Optimization — ITAI-3375](./Curating-Data-for-AI-Optimization-ITAI3375)
+### [Curating Data for A.I. Optimization — ITAI-3375](./Curating-Data-for-A.I.-Optimization-ITAI3375)
 *Data as a managed asset: lifecycle, quality, licensing, governance, valuation, and the practical work of making data usable and defensible for AI systems.*
 
 #### Foundations
-* **[Project 01: Curation in Your Industry](./Curating-Data-for-AI-Optimization-ITAI3375/Project-01-Curation-in-Your-Industry)** — Mapped curation work inside Meta’s algorithmic content engineering organization
-* **[Project 02: Profile the Job Market](./Curating-Data-for-AI-Optimization-ITAI3375/Project-02-Profile-the-Job-Market-You-Are-Entering)** — Labor-market analysis of data curation and AI data roles
-* **[Project 03: The FAIR and Open Memo](./Curating-Data-for-AI-Optimization-ITAI3375/Project-03-The-FAIR-and-Open-Memo)** — Policy memo applying FAIR and Open principles
+* **[Project 01: Curation in Your Industry](./Curating-Data-for-A.I.-Optimization-ITAI3375/Project-01-Curation-in-Your-Industry)** — Mapped curation work inside Meta’s algorithmic content engineering organization
+* **[Project 02: Profile the Job Market](./Curating-Data-for-A.I.-Optimization-ITAI3375/Project-02-Profile-the-Job-Market-You-Are-Entering)** — Labor-market analysis of data curation and AI data roles
+* **[Project 03: The FAIR and Open Memo](./Curating-Data-for-A.I.-Optimization-ITAI3375/Project-03-The-FAIR-and-Open-Memo)** — Policy memo applying FAIR and Open principles
 
 #### Quality, Licensing & Documentation
-* **[Project 04: Assess a Public Dataset as a Business Asset](./Curating-Data-for-AI-Optimization-ITAI3375/Project-04-Assess-a-Public-Dataset-as-a-Business-Asset)** — Valuation and risk assessment of a public dataset
-* **[Project 05: License Detective](./Curating-Data-for-AI-Optimization-ITAI3375/Project-05-License-Detective)** — Systematic license identification and downstream-use implications
-* **[Project 06: Compare Three Repositories](./Curating-Data-for-AI-Optimization-ITAI3375/Project-06-Compare-Three-Repositories-for-One-Task)** — Side-by-side evaluation of three data repositories
-* **[Project 07: Build a Complete Data Sheet](./Curating-Data-for-AI-Optimization-ITAI3375/Project-07-Build-a-Complete-Data-Sheet)** — Full data sheet following established documentation standards
-* **[Project 08: Run a Full Quality Audit](./Curating-Data-for-AI-Optimization-ITAI3375/Project-08-Run-a-Full-Quality-Audit)** — End-to-end quality audit (Spotify + YouTube dataset) with quantified missingness
+* **[Project 04: Assess a Public Dataset as a Business Asset](./Curating-Data-for-A.I.-Optimization-ITAI3375/Project-04-Assess-a-Public-Dataset-as-a-Business-Asset)** — Valuation and risk assessment of a public dataset
+* **[Project 05: License Detective](./Curating-Data-for-A.I.-Optimization-ITAI3375/Project-05-License-Detective)** — Systematic license identification and downstream-use implications
+* **[Project 06: Compare Three Repositories](./Curating-Data-for-A.I.-Optimization-ITAI3375/Project-06-Compare-Three-Repositories-for-One-Task)** — Side-by-side evaluation of three data repositories
+* **[Project 07: Build a Complete Data Sheet](./Curating-Data-for-A.I.-Optimization-ITAI3375/Project-07-Build-a-Complete-Data-Sheet)** — Full data sheet following established documentation standards
+* **[Project 08: Run a Full Quality Audit](./Curating-Data-for-A.I.-Optimization-ITAI3375/Project-08-Run-a-Full-Quality-Audit)** — End-to-end quality audit (Spotify + YouTube dataset) with quantified missingness
 
 #### Pipelines & Knowledge Work
-* **[Project 09: Build a Small Extraction Pipeline](./Curating-Data-for-AI-Optimization-ITAI3375/Project-09-Build-a-Small-Extraction-Pipeline)** — Working extraction pipeline (notebook + CSV)
-* **[Project 10: Audit an Instruction/Preference Dataset](./Curating-Data-for-AI-Optimization-ITAI3375/Project-10-Audit-an-Instruction-or-Preference-Dataset)** — Structured audit of alignment-style data
-* **[Project 11: Build and Evaluate a Small Knowledge Base](./Curating-Data-for-AI-Optimization-ITAI3375/Project-11-Build-and-Evaluate-a-Small-Knowledge-Base)** — Construction and evaluation of a retrieval knowledge base
-* **[Project 12: Design a Labeling Pipeline](./Curating-Data-for-AI-Optimization-ITAI3375/Project-12-Design-a-Labeling-Pipeline)** — End-to-end labeling design (includes Excel specification)
-* **[Project 13: Generate and Evaluate a Synthetic Dataset](./Curating-Data-for-AI-Optimization-ITAI3375/Project-13-Generate-and-Evaluate-a-Synthetic-Dataset)** — Synthetic data generation + quality evaluation
+* **[Project 09: Build a Small Extraction Pipeline](./Curating-Data-for-A.I.-Optimization-ITAI3375/Project-09-Build-a-Small-Extraction-Pipeline)** — Working extraction pipeline (notebook + CSV)
+* **[Project 10: Audit an Instruction/Preference Dataset](./Curating-Data-for-A.I.-Optimization-ITAI3375/Project-10-Audit-an-Instruction-or-Preference-Dataset)** — Structured audit of alignment-style data
+* **[Project 11: Build and Evaluate a Small Knowledge Base](./Curating-Data-for-A.I.-Optimization-ITAI3375/Project-11-Build-and-Evaluate-a-Small-Knowledge-Base)** — Construction and evaluation of a retrieval knowledge base
+* **[Project 12: Design a Labeling Pipeline](./Curating-Data-for-A.I.-Optimization-ITAI3375/Project-12-Design-a-Labeling-Pipeline)** — End-to-end labeling design (includes Excel specification)
+* **[Project 13: Generate and Evaluate a Synthetic Dataset](./Curating-Data-for-A.I.-Optimization-ITAI3375/Project-13-Generate-and-Evaluate-a-Synthetic-Dataset)** — Synthetic data generation + quality evaluation
 
 #### Governance, Cost & Business
-* **[Project 14: Build a Governance and Compliance Plan](./Curating-Data-for-AI-Optimization-ITAI3375/Project-14-Build-a-Governance-and-Compliance-Plan)** — Governance and compliance plan for AI data assets
-* **[Project 15: The Budget Reduction Memo](./Curating-Data-for-AI-Optimization-ITAI3375/Project-15-The-Budget-Reduction-Memo)** — Decision memo under budget pressure
-* **[Project 16: Build a Cost Model and Business Case](./Curating-Data-for-AI-Optimization-ITAI3375/Project-16-Build-a-Cost-Model-and-Business-Case)** — Quantitative cost model (Excel) + business case
+* **[Project 14: Build a Governance and Compliance Plan](./Curating-Data-for-A.I.-Optimization-ITAI3375/Project-14-Build-a-Governance-and-Compliance-Plan)** — Governance and compliance plan for AI data assets
+* **[Project 15: The Budget Reduction Memo](./Curating-Data-for-A.I.-Optimization-ITAI3375/Project-15-The-Budget-Reduction-Memo)** — Decision memo under budget pressure
+* **[Project 16: Build a Cost Model and Business Case](./Curating-Data-for-A.I.-Optimization-ITAI3375/Project-16-Build-a-Cost-Model-and-Business-Case)** — Quantitative cost model (Excel) + business case
 
 #### Midterm
-* **[Rotten Tomatoes Curation Plan and Pilot](./Curating-Data-for-AI-Optimization-ITAI3375/Midterm-Rotten-Tomatoes-Curation-Pilot)** — Full plan + working pilot; 72.4% survival after score normalization; honest failure reporting on letter-grade mapping *(See Featured Highlights above.)*
+* **[Rotten Tomatoes Curation Plan and Pilot](./Curating-Data-for-A.I.-Optimization-ITAI3375/Midterm-Rotten-Tomatoes-Curation-Pilot)** — Full plan + working pilot; 72.4% survival after score normalization; honest failure reporting on letter-grade mapping *(See Featured Highlights above.)*
 
 ---
 
@@ -346,7 +346,7 @@ AI-Portfolio-Chloe-Tu/
 │   ├── Module-01 through Module-13/
 │   └── README.md
 │  
-├── Curating-Data-for-AI-Optimization-ITAI3375/
+├── Curating-Data-for-A.I.-Optimization-ITAI3375/
 │   ├── README.md
 │   ├── Midterm-Rotten-Tomatoes-Curation-Pilot/
 │   │   ├── README.md
