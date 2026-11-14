@@ -1,5 +1,11 @@
 # Project 01 — Curation in Your Industry
 
+![Industry Analysis](https://img.shields.io/badge/topic-Industry_Analysis-9cf.svg)
+![Meta](https://img.shields.io/badge/org-Meta-0668E1.svg)
+![Content Engineering](https://img.shields.io/badge/domain-Content_Engineering-blueviolet.svg)
+![Job Market](https://img.shields.io/badge/focus-Job_Market-orange.svg)
+![PDF](https://img.shields.io/badge/format-PDF-red.svg)
+
 ## Project Overview
 
 This project examines data curation challenges in the technology industry, focusing on Meta's algorithmic content engineering operations. The analysis centers on the role of a Product Content Engineer and how multimodal data (text, images, video, engagement signals) must be curated to train and evaluate recommendation and content-ranking systems.
