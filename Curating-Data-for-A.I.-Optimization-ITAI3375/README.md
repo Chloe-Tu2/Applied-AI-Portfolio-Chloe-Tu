@@ -27,9 +27,9 @@ This repository documents a full semester of applied data curation work complete
 | Pilot sample | 50,000 reviews (seeded, reproducible) |
 | Survival rate | **72.4 %** of rows survived normalization to a 0–100 scale |
 | Failure reported | First letter-grade mapping agreed with the site's own Fresh/Rotten label only **64.5 %** of the time—reported as a failure, not hidden |
-| Deliverables | Full curation plan PDF, presentation PDF, working pilot notebook |
+| Deliverables | Full curation plan PDF, presentation PDF, working pilot notebook, pilot outputs |
 
-→ **[View the Midterm project folder](Midterm-Rotten-Tomatoes-Curation-Pilot/)**
+→ **[View the Midterm project folder](./Rotten-Tomatoes-Curation-Plan/Midterm/)**
 
 ## Project Directory
 
@@ -65,6 +65,12 @@ This repository documents a full semester of applied data curation work complete
 | [Project-15](Project-15-The-Budget-Reduction-Memo/) | Memo: how to cut a data curation budget while preserving quality |
 | [Project-16](Project-16-Build-a-Cost-Model-and-Business-Case/) | Cost model and business case for a data curation initiative |
 
+### Capstone workstream
+| Folder | Description |
+|--------|-------------|
+| [Rotten-Tomatoes-Curation-Plan](./Rotten-Tomatoes-Curation-Plan/) | Outer folder for the Rotten Tomatoes line of work (Midterm complete; Final upcoming) |
+| [Midterm](./Rotten-Tomatoes-Curation-Plan/Midterm/) | Full plan, presentation, notebook, and pilot outputs |
+
 ## Notebooks & Technical Artifacts Overview
 
 | Artifact | Type | Key Detail |
@@ -74,7 +80,7 @@ This repository documents a full semester of applied data curation work complete
 | P12 Labeling Pipeline | PDF + Excel | Pipeline design with role assignments and quality gates |
 | P13 Synthetic Dataset | PDF + CSV | Generated dataset with evaluation against real-data baselines |
 | P16 Cost Model | PDF + Excel | Line-item cost model with ROI projection |
-| Midterm Pilot | Jupyter notebook | Rotten Tomatoes score normalization; 50,000-row sample; rejected-row tracking |
+| Midterm Pilot | Jupyter notebook + pilot_output/ | Rotten Tomatoes score normalization; 50,000-row sample; rejected-row tracking |
 
 ## Key Learning Outcomes
 
@@ -94,6 +100,9 @@ Python · pandas · Jupyter / Google Colab · Kaggle / kagglehub · matplotlib �
 ## Real-World Applications
 
 The skills demonstrated here map directly to roles such as **Data Curator**, **ML Data Engineer**, **Content/Knowledge Engineer**, **AI Governance Specialist**, and vendor due-diligence analyst. Organizations building or buying training data need people who can assess quality before it reaches a model, detect license risk before it becomes legal exposure, and build the documentation that makes a dataset defensible under audit. These are judgment-heavy roles that cannot be automated away.
+
+## Repository Structure
+
 
 ## Repository Structure
 
@@ -178,6 +187,7 @@ Curating-Data-for-AI-Optimization-ITAI3375/
     └── P16-Build-a-Cost-Model-and-Business-Case.xlsx
 ```
 
+
 ## How to Navigate
 
-If you are a recruiter or interviewer, start with the **[Midterm folder](Midterm-Rotten-Tomatoes-Curation-Pilot/)** — it is the most substantial piece and demonstrates end-to-end curation thinking with real data and honest failure reporting. Then look at **[Project-08](Project-08-Run-a-Full-Quality-Audit/)** (quality audit with quantified findings), **[Project-14](Project-14-Build-a-Governance-and-Compliance-Plan/)** (governance planning), and **[Project-07](Project-07-Build-a-Complete-Data-Sheet/)** (data sheet documentation). These four artifacts together show data judgment, technical execution, and professional documentation.
+If you are a recruiter or interviewer, start with the **[Midterm folder](./Rotten-Tomatoes-Curation-Plan/Midterm/)** — it is the most substantial piece and demonstrates end-to-end curation thinking with real data and honest failure reporting. Then look at **[Project-08](Project-08-Run-a-Full-Quality-Audit/)** (quality audit with quantified findings), **[Project-14](Project-14-Build-a-Governance-and-Compliance-Plan/)** (governance planning), and **[Project-07](Project-07-Build-a-Complete-Data-Sheet/)** (data sheet documentation). These four artifacts together show data judgment, technical execution, and professional documentation.
