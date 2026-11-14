@@ -92,7 +92,7 @@ Full curation plan and working pilot for the Rotten Tomatoes movies + critic rev
 * **Key Result:** On a seeded 50,000-row sample, **72.4%** of rows survived normalization to a single 0–100 scale.
 * **Honest Failure:** First letter-grade mapping agreed with the site’s own Fresh/Rotten label only **64.5%** of the time — reported as a failure, not hidden.
 * **Hand Audit:** 100 records read by hand; 47 had problems.
-* * **[View Project →](./Curating-Data-for-A.I.-Optimization-ITAI3375/Midterm-Rotten-Tomatoes-Curation-Pilot)**
+* * **[View Project →](./Curating-Data-for-A.I.-Optimization-ITAI3375/Rotten-Tomatoes-Curation-Plan-and-Pilot)**
 
 ---
 
@@ -246,7 +246,7 @@ Explored the frontier of AI by bridging Computer Vision with Natural Language Pr
 * **[Project 16: Build a Cost Model and Business Case](./Curating-Data-for-A.I.-Optimization-ITAI3375/Project-16-Build-a-Cost-Model-and-Business-Case)** — Quantitative cost model (Excel) + business case
 
 #### Midterm
-* **[Rotten Tomatoes Curation Plan and Pilot](./Curating-Data-for-A.I.-Optimization-ITAI3375/Midterm-Rotten-Tomatoes-Curation-Pilot)** — Full plan + working pilot; 72.4% survival after score normalization; honest failure reporting on letter-grade mapping *(See Featured Highlights above.)*
+* **[Rotten Tomatoes Curation Plan and Pilot](./Curating-Data-for-A.I.-Optimization-ITAI3375/Rotten-Tomatoes-Curation-Plan-and-Pilot)** — Full plan + working pilot; 72.4% survival after score normalization; honest failure reporting on letter-grade mapping *(See Featured Highlights above.)*
 
 ---
 
