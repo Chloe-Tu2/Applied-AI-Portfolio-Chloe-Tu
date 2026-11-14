@@ -1,5 +1,12 @@
 # Project 09 — Build a Small Extraction Pipeline
 
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![pandas](https://img.shields.io/badge/library-pandas-150458.svg)
+![Jupyter](https://img.shields.io/badge/tool-Jupyter-F37626.svg)
+![ETL](https://img.shields.io/badge/topic-ETL_Pipeline-orange.svg)
+![CSV](https://img.shields.io/badge/output-CSV-green.svg)
+![Extraction](https://img.shields.io/badge/task-Extraction-9cf.svg)
+
 ## Project Overview
 
 This project builds a small extraction pipeline that reads 25 unstructured job posting text files and produces a structured CSV table with five fields: job title, organization, location, pay range, and required skills. The pipeline tracks and reports every extraction failure.
