@@ -58,3 +58,29 @@ Until the final is published, the **Midterm** folder is the complete, portfolio-
 ---
 
 ## Repository layout
+```
+Rotten-Tomatoes-Curation-Plan/
+├── README.md                 ← this file
+└── Midterm/
+├── README.md
+├── Midterm_Project_Curation_Plan_and_Pilot_Chloe_Kaire_ITAI_3375.pdf
+├── Midterm_Presentation_ITAI3375.pdf
+├── Rotten_tomatoes_pilot_ITAI_3375.ipynb
+├── pilot_output/         ← cleaned CSVs, rejects, JSON reports, hand-audit sample
+└── data/                 ← instructions only (full source CSVs from Kaggle, not committed)
+```
+
+---
+
+## How a stranger should navigate
+
+1. Start with **[Midterm/README.md](./Midterm/README.md)** for the full story (problem, method, results, failures).
+2. Open the notebook for the executable pilot.
+3. Inspect `Midterm/pilot_output/` for the cleaned and rejected tables.
+4. Return here later for the **Final** folder when it is published.
+
+---
+
+## Course context
+
+Part of the ITAI 3375 course portfolio. Designed as hiring evidence of judgment: quantified quality problems, tested fixes, and explicit reporting of what did not work — including the 64.5 % letter-grade mapping failure and the circular nature of the site-aligned alternative.
