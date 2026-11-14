@@ -1,4 +1,8 @@
 # Project 03 — The FAIR and Open Memo
+![FAIR](https://img.shields.io/badge/principle-FAIR-blueviolet.svg)
+![Open Data](https://img.shields.io/badge/principle-Open_Data-9cf.svg)
+![Policy Memo](https://img.shields.io/badge/type-Policy_Memo-orange.svg)
+![PDF](https://img.shields.io/badge/format-PDF-red.svg)
 
 ## Project Overview
 
