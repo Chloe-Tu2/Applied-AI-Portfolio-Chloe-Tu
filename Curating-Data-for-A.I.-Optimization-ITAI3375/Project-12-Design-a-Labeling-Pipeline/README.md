@@ -1,5 +1,11 @@
 # Project 12 — Design a Labeling Pipeline
 
+![Labeling](https://img.shields.io/badge/topic-Labeling_Pipeline-9cf.svg)
+![Annotation](https://img.shields.io/badge/focus-Annotation-orange.svg)
+![Excel](https://img.shields.io/badge/tool-Excel-217346.svg)
+![Guidelines](https://img.shields.io/badge/artifact-Guidelines-blueviolet.svg)
+![Quality Control](https://img.shields.io/badge/method-Quality_Control-red.svg)
+
 ## Project Overview
 
 This project designs a complete labeling pipeline: the process by which raw data is annotated with the labels a supervised learning model needs. The design covers role definitions, task instructions, quality gates, disagreement resolution, and throughput estimation.
