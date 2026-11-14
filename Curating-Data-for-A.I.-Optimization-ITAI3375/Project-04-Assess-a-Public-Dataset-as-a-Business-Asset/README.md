@@ -1,5 +1,10 @@
 # Project 04 — Assess a Public Dataset as a Business Asset
 
+![Business Asset](https://img.shields.io/badge/topic-Business_Asset-9cf.svg)
+![Dataset Valuation](https://img.shields.io/badge/focus-Dataset_Valuation-orange.svg)
+![Risk Assessment](https://img.shields.io/badge/topic-Risk_Assessment-blueviolet.svg)
+![PDF](https://img.shields.io/badge/format-PDF-red.svg)
+
 ## Project Overview
 
 This project evaluates a public dataset as if it were a business asset being considered for acquisition. The assessment covers data quality, license terms, maintenance trajectory, replacement cost, and fitness for a specific AI use case.
