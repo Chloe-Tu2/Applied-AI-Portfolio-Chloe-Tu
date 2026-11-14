@@ -89,27 +89,82 @@ The skills demonstrated here map directly to roles such as **Data Curator**, **M
 ```
 Curating-Data-for-AI-Optimization-ITAI3375/
 ├── README.md
+│
 ├── Midterm-Rotten-Tomatoes-Curation-Pilot/
 │   ├── README.md
 │   ├── Midterm_Project_Curation_Plan_and_Pilot_Chloe_Kaire_ITAI_3375.pdf
 │   ├── Midterm_Presentation_ITAI3375.pdf
 │   └── Rotten_tomatoes_pilot_ITAI_3375.ipynb
+│
 ├── Project-01-Curation-in-Your-Industry/
+│   ├── README.md
+│   └── P01-Curation-in-Your-Industry.pdf
+│
 ├── Project-02-Profile-the-Job-Market-You-Are-Entering/
+│   ├── README.md
+│   └── P02-Profile-the-Job-Market-You-Are-Entering.pdf
+│
 ├── Project-03-The-FAIR-and-Open-Memo/
+│   ├── README.md
+│   └── P03-The-FAIR-and-Open-Memo.pdf
+│
 ├── Project-04-Assess-a-Public-Dataset-as-a-Business-Asset/
+│   ├── README.md
+│   └── P04-Assess-a-Public-Dataset-as-a-Business-Asset.pdf
+│
 ├── Project-05-License-Detective/
+│   ├── README.md
+│   └── P05-License-Detective.pdf
+│
 ├── Project-06-Compare-Three-Repositories-for-One-Task/
+│   ├── README.md
+│   └── P06-Compare-Three-Repositories-for-One-Task.pdf
+│
 ├── Project-07-Build-a-Complete-Data-Sheet/
+│   ├── README.md
+│   └── P07-Build-a-Complete-Data-Sheet.pdf
+│
 ├── Project-08-Run-a-Full-Quality-Audit/
+│   ├── README.md
+│   ├── P08-Run-a-Full-Quality-Audit.ipynb
+│   └── P08-Run-a-Full-Quality-Audit.pdf
+│
 ├── Project-09-Build-a-Small-Extraction-Pipeline/
+│   ├── README.md
+│   ├── P09-Build-a-Small-Extraction-Pipeline.ipynb
+│   ├── P09-Build-a-Small-Extraction-Pipeline.csv
+│   └── P09-Build-a-Small-Extraction-Pipeline.pdf
+│
 ├── Project-10-Audit-an-Instruction-or-Preference-Dataset/
+│   ├── README.md
+│   └── P10-Audit-an-Instruction-or-Preference-Dataset.pdf
+│
 ├── Project-11-Build-and-Evaluate-a-Small-Knowledge-Base/
+│   ├── README.md
+│   └── P11-Build-and-Evaluate-a-Small-Knowledge-Base.pdf
+│
 ├── Project-12-Design-a-Labeling-Pipeline/
+│   ├── README.md
+│   ├── P12-Design-a-Labeling-Pipeline.pdf
+│   └── P12-Design-a-Labeling-Pipeline.xlsx
+│
 ├── Project-13-Generate-and-Evaluate-a-Synthetic-Dataset/
+│   ├── README.md
+│   ├── P13-Generate-and-Evaluate-a-Synthetic-Dataset.pdf
+│   └── P13-Generate-and-Evaluate-a-Synthetic-Dataset.csv
+│
 ├── Project-14-Build-a-Governance-and-Compliance-Plan/
+│   ├── README.md
+│   └── P14-Build-a-Governance-and-Compliance-Plan.pdf
+│
 ├── Project-15-The-Budget-Reduction-Memo/
+│   ├── README.md
+│   └── P15-The-Budget-Reduction-Memo.pdf
+│
 └── Project-16-Build-a-Cost-Model-and-Business-Case/
+    ├── README.md
+    ├── P16-Build-a-Cost-Model-and-Business-Case.pdf
+    └── P16-Build-a-Cost-Model-and-Business-Case.xlsx
 ```
 
 ## How to Navigate
