@@ -1,5 +1,11 @@
 # Project 15 — The Budget Reduction Memo
 
+![Budget](https://img.shields.io/badge/topic-Budget_Decision-9cf.svg)
+![Memo](https://img.shields.io/badge/type-Decision_Memo-orange.svg)
+![Cost Tradeoff](https://img.shields.io/badge/focus-Cost_Tradeoff-blueviolet.svg)
+![Business Case](https://img.shields.io/badge/domain-Business-green.svg)
+![PDF](https://img.shields.io/badge/format-PDF-red.svg)
+
 ## Project Overview
 
 This project is a decision memo responding to a budget cut scenario: a data curation operation must reduce its budget by a significant percentage while maintaining acceptable data quality. The memo recommends what to cut, what to preserve, and what the consequences of each trade-off will be.
