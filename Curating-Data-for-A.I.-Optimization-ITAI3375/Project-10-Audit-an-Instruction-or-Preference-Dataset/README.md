@@ -1,5 +1,11 @@
 # Project 10 — Audit an Instruction or Preference Dataset
 
+![Instruction Data](https://img.shields.io/badge/topic-Instruction_Data-9cf.svg)
+![Preference Data](https://img.shields.io/badge/topic-Preference_Data-blueviolet.svg)
+![Alignment](https://img.shields.io/badge/domain-Model_Alignment-orange.svg)
+![Quality Audit](https://img.shields.io/badge/method-Quality_Audit-red.svg)
+![PDF](https://img.shields.io/badge/format-PDF-red.svg)
+
 ## Project Overview
 
 This project audits an instruction-tuning or preference dataset of the type used to fine-tune large language models (LLMs). The audit evaluates whether the data is fit for its intended purpose: teaching a model to follow instructions or align with human preferences.
