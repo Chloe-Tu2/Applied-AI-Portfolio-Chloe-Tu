@@ -83,7 +83,7 @@ A production-ready computer vision system designed to detect **Personal Protecti
 
 ---
 
-### 3. [Rotten Tomatoes Curation Plan and Pilot](./Curating-Data-for-A.I.-Optimization-ITAI3375/Midterm-Rotten-Tomatoes-Curation-Pilot)
+### 3. [Rotten Tomatoes Curation Plan and Pilot](./Curating-Data-for-A.I.-Optimization-ITAI3375/Rotten-Tomatoes-Curation-Plan-and-Pilot)
 **Focus:** Data Curation | Quality Audit | Score Normalization | Honest Failure Reporting  
 **Tech:** Python, pandas, Jupyter, Kaggle (CC0 dataset)
 
