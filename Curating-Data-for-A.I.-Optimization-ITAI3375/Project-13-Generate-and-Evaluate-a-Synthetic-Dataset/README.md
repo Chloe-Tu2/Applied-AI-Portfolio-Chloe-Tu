@@ -1,5 +1,11 @@
 # Project 13 — Generate and Evaluate a Synthetic Dataset
 
+![Synthetic Data](https://img.shields.io/badge/topic-Synthetic_Data-9cf.svg)
+![Data Generation](https://img.shields.io/badge/task-Data_Generation-orange.svg)
+![CSV](https://img.shields.io/badge/output-CSV-green.svg)
+![Evaluation](https://img.shields.io/badge/method-Evaluation-blueviolet.svg)
+![PDF](https://img.shields.io/badge/format-PDF-red.svg)
+
 ## Project Overview
 
 This project generates a synthetic dataset and evaluates its quality by comparing it against properties of real-world data. Synthetic data is increasingly used for training, testing, and augmentation when real data is scarce, sensitive, or expensive. This project practices the generation and tests whether the result is actually usable.
