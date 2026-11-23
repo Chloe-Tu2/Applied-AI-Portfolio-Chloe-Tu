@@ -250,6 +250,20 @@ Explored the frontier of AI by bridging Computer Vision with Natural Language Pr
 
 ---
 
+### [Artificial Intel Resource — ITAI-2277](./Artificial-Intel-Resource-ITAI2277)
+*Capstone-track course: idea → data pipeline → trained models → live multi-agent MVP → employer-facing portfolio package.*
+
+**Capstone:** [EverFlavor AI](./Artificial-Intel-Resource-ITAI2277/Capstone-EverFlavor-AI) — multi-agent diet & discovery system ([live app](https://everflavor-ai-kitchen.streamlit.app/) · [code](https://github.com/Chloe-Tu2/The-EverFlavor-AI))
+
+* **[Phase 01: Capstone Proposal & Problem Framing](./Artificial-Intel-Resource-ITAI2277/Phase-01-Capstone-Proposal-and-Problem-Framing)** — Personas, three-agent design, safety-by-code architecture (Week 3)
+* **[Phase 02: Data Pipeline & Exploratory Analysis](./Artificial-Intel-Resource-ITAI2277/Phase-02-Data-Pipeline-and-Exploratory-Analysis)** — Six public sources, cleaning, features, ethics docs (Weeks 4–6)
+* **[Phase 03: Trained Models & Evaluation](./Artificial-Intel-Resource-ITAI2277/Phase-03-Trained-Models-and-Evaluation)** — Cuisine, nutrition, origin, freshness models + local agents + safety gate (Weeks 7–10)
+* **[Phase 04: Integrated System Prototype / MVP](./Artificial-Intel-Resource-ITAI2277/Phase-04-Integrated-System-Prototype-MVP)** — Live Streamlit Kitchen, 579-test suite, Houston map, waiters, kitchens (Weeks 11–13)
+* **[Phase 05: Final Presentation & Completed Package](./Artificial-Intel-Resource-ITAI2277/Phase-05-Final-Presentation-and-Completed-Project-Package)** — `Pf_ChloeTu_ITAI_2277.pdf` and packaging checklist
+* **[Notes & Key Resources](./Artificial-Intel-Resource-ITAI2277/Notes-and-Key-Resources)** · **[Presentation outline](./Artificial-Intel-Resource-ITAI2277/Presentation)**
+
+---
+
 ## Repository Structure
 
 ```text
