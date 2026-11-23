@@ -31,7 +31,7 @@
 ![OpenCV](https://img.shields.io/badge/library-OpenCV-green.svg)
 ![YOLOv8](https://img.shields.io/badge/model-YOLOv8-blueviolet.svg)
 ![CrewAI](https://img.shields.io/badge/framework-CrewAI-4B0082.svg)
-![Streamlit](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?logo=streamlit)]
+![Streamlit](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?logo=streamlit)
 ![Transformers](https://img.shields.io/badge/library-Hugging_Face_Transformers-yellow.svg)
 ![Reinforcement Learning](https://img.shields.io/badge/topic-Reinforcement_Learning-orange.svg)
 ![Data Curation](https://img.shields.io/badge/topic-Data_Curation-9cf.svg)
