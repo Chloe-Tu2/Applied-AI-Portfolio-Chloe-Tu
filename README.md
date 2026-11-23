@@ -21,6 +21,27 @@
 ![Kaggle](https://img.shields.io/badge/platform-Kaggle-20BEFF.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
+[![GitHub](https://img.shields.io/badge/GitHub-Chloe--Tu2-181717?style=flat&logo=github&logoColor=white)](https://github.com/Chloe-Tu2)
+![Data Analysis](https://img.shields.io/badge/Skill-Data_Analysis-ff69b4.svg)
+![AI/ML Applied Projects](https://img.shields.io/badge/Collection-AI%2FML_Applied_Projects-blueviolet?style=flat)
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![pandas](https://img.shields.io/badge/library-pandas-150458.svg)
+![TensorFlow](https://img.shields.io/badge/framework-TensorFlow-FF6F00.svg)
+![PyTorch](https://img.shields.io/badge/framework-PyTorch-EE4C2C.svg)
+![OpenCV](https://img.shields.io/badge/library-OpenCV-green.svg)
+![YOLOv8](https://img.shields.io/badge/model-YOLOv8-blueviolet.svg)
+![CrewAI](https://img.shields.io/badge/framework-CrewAI-4B0082.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?logo=streamlit)](https://everflavor-ai-kitchen.streamlit.app/)
+![Transformers](https://img.shields.io/badge/library-Hugging_Face_Transformers-yellow.svg)
+![Reinforcement Learning](https://img.shields.io/badge/topic-Reinforcement_Learning-orange.svg)
+![Data Curation](https://img.shields.io/badge/topic-Data_Curation-9cf.svg)
+![FAIR](https://img.shields.io/badge/principle-FAIR-blueviolet.svg)
+![Quality Audit](https://img.shields.io/badge/topic-Quality_Audit-orange.svg)
+![Governance](https://img.shields.io/badge/topic-Governance-4B0082.svg)
+![Jupyter](https://img.shields.io/badge/tool-Jupyter-F37626.svg)
+![Google Colab](https://img.shields.io/badge/tool-Google_Colab-F9AB00.svg)
+![Kaggle](https://img.shields.io/badge/platform-Kaggle-20BEFF.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
 ---
 
 ## About Me
@@ -58,7 +79,22 @@ This portfolio was created as part of the **Applied AI and Robotics program** at
 
 ---
 
-### 1. [The Hunter — Automated Email Phishing Defense & Detection System](./Deep-Learning-ITAI2376/The-Hunter-Automated-Email-Phishing-Defense-Detection-System)
+### 1. [EverFlavor AI — Multi-Agent Diet & Discovery System](./Artificial-Intel-Resource-ITAI2277/Capstone-EverFlavor-AI)
+**Focus:** Multi-Agent AI | Dietary Safety | Live Deployment | Data Pipeline  
+**Tech:** CrewAI, Streamlit, scikit-learn, PyTorch, Ollama, USDA / Open Food Facts  
+**Live app:** [everflavor-ai-kitchen.streamlit.app](https://everflavor-ai-kitchen.streamlit.app/)  
+**Code:** [github.com/Chloe-Tu2/The-EverFlavor-AI](https://github.com/Chloe-Tu2/The-EverFlavor-AI)
+
+A conversational multi-agent system that recommends authentic global recipes matched to a user’s calorie budget, allergies, religious/ethical rules, and local ingredient availability. Three agents (Nutritionist & Preference, Chef, Sourcing) cooperate; a **hard-coded safety gate** decides whether a recipe is safe — the LLM never makes that decision.
+
+* **Key results:** Cuisine classifier val acc **0.77** / macro F1 **0.62**; freshness CV **98.8%** produce / **87.4%** fish; origin model **89.3%** on high-confidence slice; **579** tests passed (0 failed); **200+** red-team safety checks.
+* **Scale:** Recipe corpus on the order of **~291k** recipes; waiter knowledge base **4,885** sourced dish entries; Houston map pilot for specialty stores.
+* **Impact:** End-to-end arc from proposal → data pipeline → trained models → live Streamlit MVP, with privacy (no server-side user DB) and honest failure reporting.
+* **[View course folder →](./Artificial-Intel-Resource-ITAI2277)** · **[View capstone summary →](./Artificial-Intel-Resource-ITAI2277/Capstone-EverFlavor-AI)**
+
+---
+
+### 2. [The Hunter — Automated Email Phishing Defense & Detection System](./Deep-Learning-ITAI2376/The-Hunter-Automated-Email-Phishing-Defense-Detection-System)
 **Focus:** Multi-Agent AI | Cybersecurity | NLP | Deep Learning  
 **Tech:** CrewAI, BiLSTM, Random Forest Ensemble, React
 
@@ -71,7 +107,7 @@ A production-ready **multi-agent AI system** that autonomously analyzes, classif
 
 ---
 
-### 2. [Workplace Safety PPE Detection System](./Computer-Vision-ITAI1378/Workplace-Safety-PPE-Detection-System)
+### 3. [Workplace Safety PPE Detection System](./Computer-Vision-ITAI1378/Workplace-Safety-PPE-Detection-System)
 **Focus:** Real-Time Object Detection & Safety Compliance  
 **Tech:** YOLOv8, PyTorch, OpenCV
 
@@ -83,7 +119,7 @@ A production-ready computer vision system designed to detect **Personal Protecti
 
 ---
 
-### 3. [Rotten Tomatoes Curation Plan and Pilot](./Curating-Data-for-A.I.-Optimization-ITAI3375/Rotten-Tomatoes-Curation-Plan-and-Pilot)
+### 4. [Rotten Tomatoes Curation Plan and Pilot](./Curating-Data-for-A.I.-Optimization-ITAI3375/Rotten-Tomatoes-Curation-Plan-and-Pilot)
 **Focus:** Data Curation | Quality Audit | Score Normalization | Honest Failure Reporting  
 **Tech:** Python, pandas, Jupyter, Kaggle (CC0 dataset)
 
@@ -92,7 +128,7 @@ Full curation plan and working pilot for the Rotten Tomatoes movies + critic rev
 * **Key Result:** On a seeded 50,000-row sample, **72.4%** of rows survived normalization to a single 0–100 scale.
 * **Honest Failure:** First letter-grade mapping agreed with the site’s own Fresh/Rotten label only **64.5%** of the time — reported as a failure, not hidden.
 * **Hand Audit:** 100 records read by hand; 47 had problems.
-* * **[View Project →](./Curating-Data-for-A.I.-Optimization-ITAI3375/Rotten-Tomatoes-Curation-Plan-and-Pilot)**
+* **[View Project →](./Curating-Data-for-A.I.-Optimization-ITAI3375/Rotten-Tomatoes-Curation-Plan-and-Pilot)**
 
 ---
 
