@@ -398,6 +398,17 @@ AI-Portfolio-Chloe-Tu/
 │   ├── Project-15-The-Budget-Reduction-Memo/
 │   └── Project-16-Build-a-Cost-Model-and-Business-Case/
 │
+├── Artificial-Intel-Resource-ITAI2277/              # ITAI 2277 — EverFlavor capstone track
+│   ├── README.md
+│   ├── Capstone-EverFlavor-AI/
+│   │   └── README.md
+│   ├── Phase-01-Capstone-Proposal-and-Problem-Framing/
+│   ├── Phase-02-Data-Pipeline-and-Exploratory-Analysis/
+│   ├── Phase-03-Trained-Models-and-Evaluation/
+│   ├── Phase-04-Integrated-System-Prototype-MVP/
+│   ├── Phase-05-Final-Presentation-and-Completed-Project-Package/
+│   ├── Notes-and-Key-Resources/
+│   └── Presentation/
 ├── Presentation/                                    # Final Portfolio Presentation
 │   ├── visualizations/                              # Images used in presentation
 │   │   ├── Portfolio_Overview.html                  # HTML portfolio overview page
