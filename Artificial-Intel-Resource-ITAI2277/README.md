@@ -21,6 +21,8 @@
 This folder is the course deliverable inside the larger Applied AI portfolio. Every subfolder is self-contained — a stranger with no context from the class can read the README and understand what was built, why, and what was learned. The portfolio is built to serve as **hiring evidence**, not an archive of raw submissions.
 
 💻 **EverFlavor GitHub:** [The-EverFlavor-AI-Chloe-Tu](https://github.com/Chloe-Tu2/The-EverFlavor-AI)
+
+
 📁 **Parent portfolio:** [Applied-AI-Portfolio-Chloe-Tu](https://github.com/Chloe-Tu2/Applied-AI-Portfolio-Chloe-Tu)
 
 ---
