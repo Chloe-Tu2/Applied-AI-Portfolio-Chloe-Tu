@@ -457,7 +457,7 @@ Through the **Applied AI and Robotics program** at Houston City College, I've pr
 * **Program:** Applied AI & Robotics
 * **Institution:** Houston City College
 * **Email:** [tuchloe2@gmail.com](mailto:tuchloe2@gmail.com)
-* **LinkedIn:** [https://www.linkedin.com/in/chloe-tu-019a453bb/](https://www.linkedin.com/in/chloe-tu-019a453bb/)
+* **LinkedIn:** [https://www.linkedin.com/in/chloe-r-tu/](https://www.linkedin.com/in/chloe-r-tu/)
 * **GitHub:** [github.com/Chloe-Tu2](https://github.com/Chloe-Tu2)
 
 ---
